@@ -13,11 +13,21 @@ Folder layout for kicad 8 based projects
 ### docs
 - ***mcu:***
 	- ***mcxn:*** NXP mcxn datasheets
+
+- ***other_components:***
+	- ***leds:***
+		- ***opsco/sk9822:*** SK9822 SPI LED datasheets
+		- ***brtled/bb-2020bgr:*** American Bright SPI LED datasheets
+
 - ***sensors:*** 
+	- ***barometer:*** 
+		- ***bosch/bmp390:*** bosch pressure sensor datasheets
 	- ***distance:*** 
-		- ***broadcom:*** broadcom afbr distance sensor datasheets
-		- ***stm:*** stm vl53 distance sensor datasheets
+		- ***broadcom/afbr-s50:*** broadcom afbr distance sensor datasheets
+		- ***stm/vl53:*** stm vl53 distance sensor datasheets
 	- ***imu:***
-		- ***tdk:*** invensense imu datasheets
+		- ***tdk/icm4\*\:*** invensense imu datasheets
+	- ***magnetometer:***
+		- ***isentek/ist8310\*\:*** invensense imu datasheets
 	- ***optical_flow:*** 
 		- ***pixart:*** pixart flow sensors datasheets
