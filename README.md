@@ -3,7 +3,9 @@ Design files for flow module using 2-wire automotive enet and CANFD.
 
 ## Folder Layout
 ### kicad
-Folder layout root for kicad 8 based projects
+Do not forget to add the [associated kicad library](https://github.com/CogniPilot/spinali_kicad_libs).
+
+Folder layout for kicad 8 based projects
 - ***flow_afbr:*** Broadcom AFBR distance based unit
 - ***flow_vl53:*** ST VL53 distance based unit
 - ***flow_max:*** Two flow sensors and two distance sensors (close and far)
