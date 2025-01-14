@@ -1,3 +1,2 @@
-kicad/flow_afbr/flow_afbr-backups/*
-kicad/flow_max/flow_max-backups/*
-kicad/flow_vl53/flow_afbr-vl53/*
+kicad/*/*-backups/
+fp-info-cache
