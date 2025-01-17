@@ -1456,7 +1456,7 @@
 	)
 	(symbol
 		(lib_id "Transceivers:TJA1462ATK")
-		(at 121.92 78.74 0)
+		(at 123.19 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1465,7 +1465,7 @@
 		(fields_autoplaced yes)
 		(uuid "2a3a0063-5e0f-49fd-a8b6-a7d7034fe7d7")
 		(property "Reference" "U8"
-			(at 122.555 64.77 0)
+			(at 123.825 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1473,7 +1473,7 @@
 			)
 		)
 		(property "Value" "TJA1462ATK"
-			(at 122.555 67.31 0)
+			(at 123.825 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1481,7 +1481,7 @@
 			)
 		)
 		(property "Footprint" "NXP_HV:SON65P300X300X100-9N-D"
-			(at 148.59 173.66 0)
+			(at 149.86 163.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1491,7 +1491,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/TJA1462.pdf"
-			(at 148.59 273.66 0)
+			(at 149.86 263.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1501,7 +1501,7 @@
 			)
 		)
 		(property "Description" "CAN FD signal improvement transceiver with Standby mode"
-			(at 121.92 92.202 0)
+			(at 123.19 82.042 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1510,7 +1510,7 @@
 			)
 		)
 		(property "Height" "1"
-			(at 148.59 473.66 0)
+			(at 149.86 463.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1520,7 +1520,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "NXP"
-			(at 148.59 573.66 0)
+			(at 149.86 563.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1530,7 +1530,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "TJA1462ATK"
-			(at 148.59 673.66 0)
+			(at 149.86 663.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1540,7 +1540,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 148.59 773.66 0)
+			(at 149.86 763.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1550,7 +1550,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 148.59 873.66 0)
+			(at 149.86 863.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1560,7 +1560,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 148.59 973.66 0)
+			(at 149.86 963.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1570,7 +1570,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 148.59 1073.66 0)
+			(at 149.86 1063.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1757,6 +1757,167 @@
 			(project ""
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cac75b7c-b45e-47d5-be26-673a8f59f26a"
 					(reference "U13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transceivers:TJA1462ATK")
+		(at 123.19 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f2982d21-9baf-40e9-b560-e18375872732")
+		(property "Reference" "U15"
+			(at 123.825 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TJA1462ATK"
+			(at 123.825 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "NXP_HV:SON65P300X300X100-9N-D"
+			(at 149.86 188.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/TJA1462.pdf"
+			(at 149.86 288.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAN FD signal improvement transceiver with Standby mode"
+			(at 123.19 107.442 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1"
+			(at 149.86 488.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "NXP"
+			(at 149.86 588.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TJA1462ATK"
+			(at 149.86 688.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 149.86 788.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 149.86 888.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 149.86 988.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 149.86 1088.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "c0fc783a-f6a0-4e87-9f3e-a108b7a4493d")
+		)
+		(pin "6"
+			(uuid "27b230f5-23d9-4ead-833a-ffe58f89852f")
+		)
+		(pin "5"
+			(uuid "51b8d4a6-18e2-4cce-a636-d5042042283e")
+		)
+		(pin "7"
+			(uuid "57caf1a9-56f1-48f3-8e6b-da8d1dd1e9f6")
+		)
+		(pin "2"
+			(uuid "5fa19d30-9736-4a30-addb-dc5678ceebd9")
+		)
+		(pin "4"
+			(uuid "a656b5b4-a690-4ab7-8dcb-500c9c390336")
+		)
+		(pin "1"
+			(uuid "0b220302-7051-440b-8f4d-473f3924e406")
+		)
+		(pin "3"
+			(uuid "bc8d5ab6-a97e-45be-b9df-126b6810f5df")
+		)
+		(pin "9"
+			(uuid "83172ee5-e5af-42b7-a2fa-a5094fc4e6e8")
+		)
+		(instances
+			(project "flow_max"
+				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cac75b7c-b45e-47d5-be26-673a8f59f26a"
+					(reference "U15")
 					(unit 1)
 				)
 			)
