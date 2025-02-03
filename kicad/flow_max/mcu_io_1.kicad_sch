@@ -4047,6 +4047,16 @@
 		)
 		(uuid "fb81428b-faa7-488c-aafb-fcd4e2f94061")
 	)
+	(label "ENET0_RXCLK"
+		(at 72.39 152.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "05c53601-593b-489b-87e9-417fe6a0e13a")
+	)
 	(label "ENET0_RXD1"
 		(at 72.39 162.56 0)
 		(effects
@@ -4168,7 +4178,7 @@
 		(uuid "2ae9aaa5-1d7d-407b-8c55-3c708a505494")
 	)
 	(label "CAN0_TXD"
-		(at 72.39 149.86 0)
+		(at 72.39 170.18 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4176,16 +4186,6 @@
 			(justify left bottom)
 		)
 		(uuid "2df58ecd-0d93-4966-bf8e-cd74fe3eb63c")
-	)
-	(label "ENET0_TXD2"
-		(at 53.34 144.78 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "35885450-dcc7-4b1e-b237-5b87c886f105")
 	)
 	(label "MCU_P2_10"
 		(at 72.39 238.76 0)
@@ -4196,16 +4196,6 @@
 			(justify left bottom)
 		)
 		(uuid "389906f0-7630-4290-99bc-1e5fa9e3189c")
-	)
-	(label "ENET0_RXD3"
-		(at 53.34 167.64 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3ee4cae7-3ecc-4dde-81b0-158ee9601637")
 	)
 	(label "MCU_P2_1"
 		(at 72.39 215.9 0)
@@ -4507,6 +4497,16 @@
 		)
 		(uuid "b7eacdc5-e7ec-4204-a3fc-d10de97ed00e")
 	)
+	(label "ENET0_TXER"
+		(at 72.39 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b83148e9-3e29-48f5-b05e-2299b4774f8b")
+	)
 	(label "FC4_P2_SPI_SDI"
 		(at 72.39 180.34 0)
 		(effects
@@ -4528,7 +4528,7 @@
 		(uuid "bf35cfd0-5c43-42b9-a7e4-3535c3a425de")
 	)
 	(label "CAN0_RXD"
-		(at 72.39 152.4 0)
+		(at 72.39 172.72 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4546,26 +4546,6 @@
 			(justify left bottom)
 		)
 		(uuid "c574ad8e-95dd-4133-af1f-74dc9f7230b5")
-	)
-	(label "ENET0_RXD2"
-		(at 53.34 165.1 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c921aa78-df27-4134-bd0a-4f0990fcff73")
-	)
-	(label "ENET0_TXD3"
-		(at 53.34 147.32 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ca0e8510-4a56-4d89-8ebe-cb370276a197")
 	)
 	(label "FC0_P6_SPI_CS1"
 		(at 73.66 100.33 0)

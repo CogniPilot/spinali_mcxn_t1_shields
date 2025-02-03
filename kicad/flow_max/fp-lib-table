@@ -5,4 +5,5 @@
   (lib (name "Power")(type "KiCad")(uri "${SPINALI_FOOTPRINT_DIR}/Power.pretty")(options "")(descr ""))
   (lib (name "Sensors")(type "KiCad")(uri "${SPINALI_FOOTPRINT_DIR}/Sensors.pretty")(options "")(descr ""))
   (lib (name "RGB_leds")(type "KiCad")(uri "${SPINALI_FOOTPRINT_DIR}/RGB_leds.pretty")(options "")(descr ""))
+  (lib (name "NXP_QFP")(type "KiCad")(uri "${SPINALI_FOOTPRINT_DIR}/NXP_QFP.pretty")(options "")(descr ""))
 )

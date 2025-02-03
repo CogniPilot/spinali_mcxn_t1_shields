@@ -432,7 +432,8 @@
       "Power",
       "NXP_BGA",
       "NXP_HV",
-      "RGB_leds"
+      "RGB_leds",
+      "NXP_QFP"
     ],
     "pinned_symbol_libs": [
       "Sensors",
