@@ -1564,7 +1564,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "300mA max per pin\n5V = 1A max\n3V3 = 500mA max\n1V8 = 200A max"
+	(text "300mA max per pin\n5V = 1A max\n3V3 = 500mA max\n1V8 = 200mA max"
 		(exclude_from_sim no)
 		(at 142.24 51.816 0)
 		(effects
@@ -1585,6 +1585,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "71ab3e67-8a53-499d-82c9-5a1a226b4d16")
+	)
+	(junction
+		(at 128.27 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f2837cba-c479-4cd7-bded-815e09d2d718")
 	)
 	(junction
 		(at 91.44 69.85)
@@ -1608,7 +1614,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 80.01) (xy 115.57 80.01)
+			(xy 130.81 80.01) (xy 128.27 80.01)
 		)
 		(stroke
 			(width 0)
@@ -1685,6 +1691,16 @@
 			(type default)
 		)
 		(uuid "12668693-ca37-4a1f-87cf-0d00b6722fc5")
+	)
+	(wire
+		(pts
+			(xy 128.27 78.74) (xy 128.27 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13ace299-19c0-4258-a5eb-2326eb17f3eb")
 	)
 	(wire
 		(pts
@@ -2238,6 +2254,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 80.01) (xy 115.57 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df61d701-145e-4061-9aa0-2ddb793ba4ec")
+	)
+	(wire
+		(pts
 			(xy 208.28 123.19) (xy 205.74 123.19)
 		)
 		(stroke
@@ -2752,7 +2778,7 @@
 	)
 	(global_label "VDD_BAT"
 		(shape bidirectional)
-		(at 118.11 80.01 0)
+		(at 130.81 80.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2762,7 +2788,7 @@
 		)
 		(uuid "6ec00aad-11cb-48a4-8178-7fdbf8983c7e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.1289 80.01 0)
+			(at 142.8289 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3946,6 +3972,73 @@
 			(project "spinali_add-on_optical_flow"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/ccc0d483-c16f-4a48-802e-c15323fec247"
 					(reference "#PWR40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 128.27 78.74 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "21e0e9c2-1ce1-4205-8124-a949b335110f")
+		(property "Reference" "#PWR073"
+			(at 128.27 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 128.27 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 128.27 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 128.27 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4d2a24a6-dbc8-4bf3-8415-8853a363e415")
+		)
+		(instances
+			(project "spinali_add-on_optical_flow"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2/ccc0d483-c16f-4a48-802e-c15323fec247"
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
