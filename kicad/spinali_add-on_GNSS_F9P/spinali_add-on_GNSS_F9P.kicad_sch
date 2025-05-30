@@ -1,0 +1,161 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "04285d74-eeba-483c-9378-52bd287e15a2")
+	(paper "A4")
+	(title_block
+		(title "MR-MCXN-T1 Optical Flow")
+		(date "2025-04-16")
+		(rev "X0")
+		(company "NXP SEMICONDUCTORS B.V.")
+		(comment 1 "CLASSIFICATION: INTERNAL USE ONLY")
+		(comment 3 "DESIGNER: YOURI TILS")
+		(comment 4 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
+	)
+	(lib_symbols)
+	(text "MR-MCXN-T1 Optical Flow"
+		(exclude_from_sim no)
+		(at 150.114 92.456 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "efc3dc01-334a-4e73-83f5-a10926ac194b")
+	)
+	(sheet
+		(at 29.337 67.183)
+		(size 33.02 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "984519f8-3ba1-4ad2-a1fd-5bc7d7d39895")
+		(property "Sheetname" "GNSS"
+			(at 29.337 66.4714 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "gnss.kicad_sch"
+			(at 29.337 71.5776 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "spinali_add-on_GNSS_F9P"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 46.99)
+		(size 33.02 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ccc0d483-c16f-4a48-802e-c15323fec247")
+		(property "Sheetname" "Board-to-Board"
+			(at 29.21 46.2784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "board-to-board.kicad_sch"
+			(at 29.21 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "spinali_add-on_GNSS_F9P"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 57.15)
+		(size 33.02 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d46d18ea-5041-4bdf-8a2f-871da180f13d")
+		(property "Sheetname" "Sensors"
+			(at 29.21 56.4384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensors.kicad_sch"
+			(at 29.21 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "spinali_add-on_GNSS_F9P"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
