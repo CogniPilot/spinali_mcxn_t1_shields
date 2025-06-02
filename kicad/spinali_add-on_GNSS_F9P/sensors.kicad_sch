@@ -5,12 +5,12 @@
 	(uuid "ebbb2802-5063-4ced-af3d-b4bf6a935c18")
 	(paper "A4")
 	(title_block
-		(title "MR-MCXN-T1 Optical Flow")
-		(date "2025-04-16")
+		(title "MR-MCXN-T1-F9P")
+		(date "2025-06-02")
 		(rev "X0")
 		(company "NXP SEMICONDUCTORS B.V.")
-		(comment 1 "CLASSIFICATION: INTERNAL USE ONLY")
-		(comment 3 "DESIGNER: YOURI TILS")
+		(comment 1 "CLASSIFICATION: Public ")
+		(comment 3 "DESIGNER: Youri Tils / Benjamin Perseghetti/ Iain Galloway")
 		(comment 4 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
 	)
 	(lib_symbols
@@ -1955,6 +1955,20 @@
 			)
 			(embedded_fonts no)
 		)
+	)
+	(text "Compare GPIO used with Driver (Croxel)"
+		(exclude_from_sim no)
+		(at 75.692 101.092 0)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 0 255 1)
+			)
+		)
+		(uuid "9b6d03b6-498f-494f-9d1b-b699b227cbb3")
 	)
 	(junction
 		(at 190.5 62.23)
