@@ -2611,1166 +2611,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Jumper:SolderJumper_2_Bridged"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom no)
-			(on_board yes)
-			(property "Reference" "JP"
-				(at 0 2.032 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SolderJumper_2_Bridged"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Solder Jumper, 2-pole, closed/bridged"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "solder jumper SPST"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SolderJumper*Bridged*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SolderJumper_2_Bridged_0_1"
-				(rectangle
-					(start -0.508 0.508)
-					(end 0.508 -0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.254 1.016) (xy -0.254 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -0.254 -1.016)
-					(mid -1.2656 0)
-					(end -0.254 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -0.254 -1.016)
-					(mid -1.2656 0)
-					(end -0.254 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(arc
-					(start 0.254 1.016)
-					(mid 1.2656 0)
-					(end 0.254 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0.254 1.016)
-					(mid 1.2656 0)
-					(end 0.254 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.254 1.016) (xy 0.254 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SolderJumper_2_Bridged_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Jumper:SolderJumper_2_Open"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom no)
-			(on_board yes)
-			(property "Reference" "JP"
-				(at 0 2.032 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SolderJumper_2_Open"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Solder Jumper, 2-pole, open"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "solder jumper SPST"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SolderJumper*Open*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SolderJumper_2_Open_0_1"
-				(polyline
-					(pts
-						(xy -0.254 1.016) (xy -0.254 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -0.254 -1.016)
-					(mid -1.2656 0)
-					(end -0.254 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -0.254 -1.016)
-					(mid -1.2656 0)
-					(end -0.254 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(arc
-					(start 0.254 1.016)
-					(mid 1.2656 0)
-					(end 0.254 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0.254 1.016)
-					(mid 1.2656 0)
-					(end 0.254 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.254 1.016) (xy 0.254 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SolderJumper_2_Open_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Jumper:SolderJumper_3_Bridged12"
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom no)
-			(on_board yes)
-			(property "Reference" "JP"
-				(at -2.54 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SolderJumper_3_Bridged12"
-				(at 0 2.794 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "3-pole Solder Jumper, pins 1+2 closed/bridged"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "Solder Jumper SPDT"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SolderJumper*Bridged12*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SolderJumper_3_Bridged12_0_1"
-				(polyline
-					(pts
-						(xy -2.54 0) (xy -2.032 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.016 1.016) (xy -1.016 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.016 0.508)
-					(end -0.508 -0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(arc
-					(start -1.016 -1.016)
-					(mid -2.0276 0)
-					(end -1.016 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -1.016 -1.016)
-					(mid -2.0276 0)
-					(end -1.016 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start -0.508 1.016)
-					(end 0.508 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 1.016 1.016)
-					(mid 2.0276 0)
-					(end 1.016 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 1.016 1.016)
-					(mid 2.0276 0)
-					(end 1.016 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.016 1.016) (xy 1.016 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 2.032 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SolderJumper_3_Bridged12_1_1"
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 2.54)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Jumper:SolderJumper_3_Bridged123"
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom no)
-			(on_board yes)
-			(property "Reference" "JP"
-				(at -2.54 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SolderJumper_3_Bridged123"
-				(at 0 2.794 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Solder Jumper, 3-pole, pins 1+2+3 closed/bridged"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "Solder Jumper SPDT"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SolderJumper*Bridged123*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SolderJumper_3_Bridged123_0_1"
-				(polyline
-					(pts
-						(xy -2.54 0) (xy -2.032 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.016 1.016) (xy -1.016 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.016 0.508)
-					(end -0.508 -0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(arc
-					(start -1.016 -1.016)
-					(mid -2.0276 0)
-					(end -1.016 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -1.016 -1.016)
-					(mid -2.0276 0)
-					(end -1.016 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start -0.508 1.016)
-					(end 0.508 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 0.508 0.508)
-					(end 1.016 -0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(arc
-					(start 1.016 1.016)
-					(mid 2.0276 0)
-					(end 1.016 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 1.016 1.016)
-					(mid 2.0276 0)
-					(end 1.016 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.016 1.016) (xy 1.016 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 2.032 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SolderJumper_3_Bridged123_1_1"
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 2.54)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Jumper:SolderJumper_3_Open"
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom no)
-			(on_board yes)
-			(property "Reference" "JP"
-				(at -2.54 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SolderJumper_3_Open"
-				(at 0 2.794 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Solder Jumper, 3-pole, open"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "Solder Jumper SPDT"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SolderJumper*Open*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SolderJumper_3_Open_0_1"
-				(polyline
-					(pts
-						(xy -2.54 0) (xy -2.032 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.016 1.016) (xy -1.016 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -1.016 -1.016)
-					(mid -2.0276 0)
-					(end -1.016 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -1.016 -1.016)
-					(mid -2.0276 0)
-					(end -1.016 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start -0.508 1.016)
-					(end 0.508 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 1.016 1.016)
-					(mid 2.0276 0)
-					(end 1.016 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 1.016 1.016)
-					(mid 2.0276 0)
-					(end 1.016 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.016 1.016) (xy 1.016 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 2.032 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SolderJumper_3_Open_1_1"
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 2.54)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Regulator_Linear:AP2112K-3.3"
 			(pin_names
 				(offset 0.254)
@@ -5622,10 +4462,22 @@
 		(uuid "c4d994bd-bdc7-4549-950e-70c3d0601cfd")
 	)
 	(junction
+		(at 152.4 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d73a2d70-3e77-45e9-ba65-b2b6c8dfb627")
+	)
+	(junction
 		(at 74.93 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ebbbc843-96b9-4293-b3cb-8c209b970cf1")
+	)
+	(junction
+		(at 339.09 217.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f04a2de5-5bd2-4f7b-9731-195af778006d")
 	)
 	(junction
 		(at 248.92 81.28)
@@ -5687,7 +4539,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 252.73) (xy 180.34 262.89)
+			(xy 184.15 252.73) (xy 184.15 262.89)
 		)
 		(stroke
 			(width 0)
@@ -5717,7 +4569,7 @@
 	)
 	(wire
 		(pts
-			(xy 331.47 226.06) (xy 331.47 227.33)
+			(xy 339.09 226.06) (xy 339.09 227.33)
 		)
 		(stroke
 			(width 0)
@@ -5777,16 +4629,6 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 72.39) (xy 236.22 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a7ae450-d330-40f5-8bff-19917790f982")
-	)
-	(wire
-		(pts
 			(xy 171.45 115.57) (xy 171.45 114.3)
 		)
 		(stroke
@@ -5797,7 +4639,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 222.25) (xy 193.04 224.79)
+			(xy 200.66 222.25) (xy 200.66 224.79)
 		)
 		(stroke
 			(width 0)
@@ -5817,17 +4659,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 222.25) (xy 180.34 222.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d879760-4e92-40d0-8554-96eeabb6d268")
-	)
-	(wire
-		(pts
-			(xy 180.34 242.57) (xy 180.34 245.11)
+			(xy 184.15 242.57) (xy 184.15 245.11)
 		)
 		(stroke
 			(width 0)
@@ -5957,13 +4789,13 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 88.9) (xy 172.72 88.9)
+			(xy 152.4 87.63) (xy 152.4 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "353a309b-a2ea-4c88-831d-8fe8704a3183")
+		(uuid "2f232a07-4139-426b-b773-a7ad4ff387da")
 	)
 	(wire
 		(pts
@@ -6077,7 +4909,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 232.41) (xy 180.34 234.95)
+			(xy 184.15 232.41) (xy 184.15 234.95)
 		)
 		(stroke
 			(width 0)
@@ -6087,7 +4919,7 @@
 	)
 	(wire
 		(pts
-			(xy 314.96 220.98) (xy 327.66 220.98)
+			(xy 326.39 217.17) (xy 339.09 217.17)
 		)
 		(stroke
 			(width 0)
@@ -6117,13 +4949,13 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 71.12) (xy 237.49 71.12)
+			(xy 152.4 88.9) (xy 172.72 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "49295f98-c1e1-4feb-82ff-a85d519d85b0")
+		(uuid "492fce55-f0e3-4ccc-bc98-572a6660347c")
 	)
 	(wire
 		(pts
@@ -6287,7 +5119,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 82.55) (xy 146.05 82.55)
+			(xy 147.32 78.74) (xy 152.4 78.74)
 		)
 		(stroke
 			(width 0)
@@ -6317,6 +5149,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 88.9) (xy 152.4 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "651d8367-969b-438d-afc1-230267411d21")
+	)
+	(wire
+		(pts
 			(xy 222.25 81.28) (xy 220.98 81.28)
 		)
 		(stroke
@@ -6327,6 +5169,16 @@
 	)
 	(wire
 		(pts
+			(xy 339.09 217.17) (xy 339.09 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "672c1789-2634-4787-8eac-effab94a7808")
+	)
+	(wire
+		(pts
 			(xy 377.19 231.14) (xy 377.19 229.87)
 		)
 		(stroke
@@ -6334,6 +5186,16 @@
 			(type default)
 		)
 		(uuid "6a464ed2-fe26-43ed-b6da-b4286e2eb609")
+	)
+	(wire
+		(pts
+			(xy 339.09 215.9) (xy 339.09 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a64fe24-fbba-474e-8966-df4ab07e1d01")
 	)
 	(wire
 		(pts
@@ -6547,7 +5409,7 @@
 	)
 	(wire
 		(pts
-			(xy 331.47 214.63) (xy 334.01 214.63)
+			(xy 339.09 207.01) (xy 341.63 207.01)
 		)
 		(stroke
 			(width 0)
@@ -6567,7 +5429,7 @@
 	)
 	(wire
 		(pts
-			(xy 331.47 215.9) (xy 331.47 214.63)
+			(xy 339.09 208.28) (xy 339.09 207.01)
 		)
 		(stroke
 			(width 0)
@@ -6627,7 +5489,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 222.25) (xy 180.34 224.79)
+			(xy 184.15 222.25) (xy 184.15 224.79)
 		)
 		(stroke
 			(width 0)
@@ -6667,7 +5529,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 242.57) (xy 193.04 245.11)
+			(xy 200.66 242.57) (xy 200.66 245.11)
 		)
 		(stroke
 			(width 0)
@@ -6747,7 +5609,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 222.25) (xy 193.04 222.25)
+			(xy 190.5 222.25) (xy 200.66 222.25)
 		)
 		(stroke
 			(width 0)
@@ -6777,7 +5639,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 82.55) (xy 146.05 83.82)
+			(xy 152.4 78.74) (xy 152.4 80.01)
 		)
 		(stroke
 			(width 0)
@@ -6794,16 +5656,6 @@
 			(type default)
 		)
 		(uuid "d5e5dec4-daa4-4eed-8c77-1d93181bcdbb")
-	)
-	(wire
-		(pts
-			(xy 248.92 71.12) (xy 247.65 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d5f7428a-3bda-4d26-9e7c-ce01ee7cc38d")
 	)
 	(wire
 		(pts
@@ -6907,6 +5759,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 222.25) (xy 184.15 222.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1d1f0ff-61cf-4de0-9a03-110c6d9af43a")
+	)
+	(wire
+		(pts
 			(xy 229.87 104.14) (xy 246.38 104.14)
 		)
 		(stroke
@@ -6944,16 +5806,6 @@
 			(type default)
 		)
 		(uuid "e7006469-2b36-4a57-8fe0-d6c9052e052b")
-	)
-	(wire
-		(pts
-			(xy 248.92 72.39) (xy 248.92 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e8c8d71b-1c09-40a7-af55-a29896ab7488")
 	)
 	(wire
 		(pts
@@ -7037,7 +5889,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 232.41) (xy 193.04 234.95)
+			(xy 200.66 232.41) (xy 200.66 234.95)
 		)
 		(stroke
 			(width 0)
@@ -7067,7 +5919,7 @@
 	)
 	(wire
 		(pts
-			(xy 331.47 227.33) (xy 378.46 227.33)
+			(xy 339.09 227.33) (xy 378.46 227.33)
 		)
 		(stroke
 			(width 0)
@@ -7166,7 +6018,7 @@
 		(uuid "1ef312d8-1b6a-446e-a393-139a9f990730")
 	)
 	(label "3.3V"
-		(at 140.97 82.55 0)
+		(at 147.32 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7216,7 +6068,7 @@
 		(uuid "7c2565e1-1531-4df4-8732-df3dca45640d")
 	)
 	(label "RTK_STAT"
-		(at 180.34 262.89 90)
+		(at 184.15 262.89 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7306,7 +6158,7 @@
 		(uuid "ea28bbb6-7e7e-4d82-8926-7ccb4f6cf94d")
 	)
 	(label "TIMEPULSE"
-		(at 182.88 222.25 0)
+		(at 190.5 222.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7316,7 +6168,7 @@
 		(uuid "f79ec78e-4230-474a-86f6-0b5f2eb34596")
 	)
 	(label "TIMEPULSE"
-		(at 314.96 220.98 0)
+		(at 326.39 217.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7557,7 +6409,7 @@
 	)
 	(global_label "P3_8{slash}SmartDMA_PIO8{slash}TIMEPULSE"
 		(shape bidirectional)
-		(at 334.01 214.63 0)
+		(at 341.63 207.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7567,7 +6419,7 @@
 		)
 		(uuid "d2131311-80fc-4fae-a64d-72879cac7f84")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 370.3401 214.63 0)
+			(at 377.9601 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7836,7 +6688,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 226.06 98.298 90)
 			(effects
 				(font
@@ -7856,6 +6708,33 @@
 		)
 		(property "Description" "Resistor"
 			(at 226.06 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 226.06 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-33.0LRCT-ND"
+			(at 226.06 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402FR-0733RL"
+			(at 226.06 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8042,73 +6921,6 @@
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR069")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Bridged")
-		(at 193.04 228.6 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "234eb7d9-8d64-4ad8-9b30-747a803d3b40")
-		(property "Reference" "JP10"
-			(at 187.706 228.346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PULSE"
-			(at 190.246 228.346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm"
-			(at 193.04 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 193.04 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
-			(at 193.04 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1ae3a68a-916b-4a2f-8cfd-5a8595ec1fa4")
-		)
-		(pin "2"
-			(uuid "e8111f82-9ad8-41c7-ada4-c36d6a1e660c")
-		)
-		(instances
-			(project "spinali_add-on_GNSS_F9P"
-				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
-					(reference "JP10")
 					(unit 1)
 				)
 			)
@@ -8312,6 +7124,112 @@
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR049")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 152.4 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "2e261f84-a9c1-48a7-9ad3-67f26a6b2cff")
+		(property "Reference" "R36"
+			(at 154.94 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0R"
+			(at 154.94 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 150.622 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 152.4 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-0.0JRCT-ND"
+			(at 152.4 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB" "C60485"
+			(at 152.4 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 152.4 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402JR-070RL"
+			(at 152.4 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "931acf7a-a4f5-4456-8b14-18e04744329d")
+		)
+		(pin "1"
+			(uuid "44f4627c-aae7-444d-9f41-481db4b1ffc3")
+		)
+		(instances
+			(project "spinali_add-on_GNSS_F9P"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
+					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -8557,6 +7475,112 @@
 			(project ""
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "AE1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 166.37 228.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "38bef348-855f-4282-8721-4f7991a15262")
+		(property "Reference" "R28"
+			(at 168.91 227.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0R PWR"
+			(at 168.91 229.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 164.592 228.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 166.37 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 166.37 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-0.0JRCT-ND"
+			(at 166.37 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB" "C60485"
+			(at 166.37 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 166.37 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402JR-070RL"
+			(at 166.37 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9d4e6d04-9d60-4b52-a4b2-1c40dd7a97d2")
+		)
+		(pin "2"
+			(uuid "400e9347-c97b-4675-b39a-fc1eec19bc6f")
+		)
+		(instances
+			(project ""
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -8843,6 +7867,112 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 152.4 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "3f3d0699-4488-43a6-ae91-0ee49d640371")
+		(property "Reference" "R35"
+			(at 154.94 92.7099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0R"
+			(at 154.94 95.2499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 150.622 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 152.4 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-0.0JRCT-ND"
+			(at 152.4 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB" "C60485"
+			(at 152.4 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 152.4 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402JR-070RL"
+			(at 152.4 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1476c02c-3844-4897-87d7-52857aab6e34")
+		)
+		(pin "1"
+			(uuid "8d7c45f6-c496-4f1e-b6b0-09876d8ecb24")
+		)
+		(instances
+			(project "spinali_add-on_GNSS_F9P"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
+					(reference "R35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 82.55 203.2 0)
 		(unit 1)
@@ -9019,6 +8149,110 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 252.73 111.76 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "419127ad-3ab4-4b3e-bfa1-932e5ad81a9b")
+		(property "Reference" "R32"
+			(at 252.73 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R SPI"
+			(at 252.73 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 252.73 113.538 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 252.73 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 252.73 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-0.0JRCT-ND"
+			(at 252.73 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB" "C60485"
+			(at 252.73 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 252.73 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402JR-070RL"
+			(at 252.73 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ef93cf18-97a0-44a6-9a7e-b79a243dd1ab")
+		)
+		(pin "2"
+			(uuid "78dc9d8b-56ed-427a-86bd-529f65397d81")
+		)
+		(instances
+			(project ""
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
+					(reference "R32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 97.79 207.01 0)
 		(unit 1)
@@ -9085,75 +8319,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_2_Bridged")
-		(at 231.14 55.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "47dac213-e320-4af8-9a9d-86bca319d5ff")
-		(property "Reference" "JP8"
-			(at 231.394 50.546 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "EXTINT"
-			(at 231.394 53.086 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm"
-			(at 231.14 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 231.14 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
-			(at 231.14 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "31461ea3-2206-4c10-8c76-0a6857db2908")
-		)
-		(pin "2"
-			(uuid "d3446915-bad6-4005-9e2b-f382dfd3af99")
-		)
-		(instances
-			(project ""
-				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
-					(reference "JP8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 193.04 252.73 0)
+		(at 200.66 252.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9161,7 +8328,7 @@
 		(dnp no)
 		(uuid "48f4cf33-ec75-4d2e-807a-b3414a00e8a1")
 		(property "Reference" "#PWR078"
-			(at 193.04 259.08 0)
+			(at 200.66 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9170,7 +8337,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 193.04 257.81 0)
+			(at 200.66 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9178,7 +8345,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 193.04 252.73 0)
+			(at 200.66 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9187,7 +8354,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 193.04 252.73 0)
+			(at 200.66 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9196,7 +8363,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 193.04 252.73 0)
+			(at 200.66 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9406,7 +8573,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" ""
+		(property "MF" "JST Sales America Inc."
 			(at 383.54 222.25 0)
 			(effects
 				(font
@@ -9415,7 +8582,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" ""
+		(property "MFPN" "SM06B-GHS-TB"
 			(at 383.54 222.25 0)
 			(effects
 				(font
@@ -9424,7 +8591,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "455-1568-1-ND"
 			(at 383.54 222.25 0)
 			(effects
 				(font
@@ -9470,6 +8637,110 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 231.14 46.99 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4eb24c66-9ba8-47b7-bbef-1f60cb1bb82a")
+		(property "Reference" "R33"
+			(at 231.14 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R RESET_N"
+			(at 231.14 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 231.14 48.768 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 231.14 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-0.0JRCT-ND"
+			(at 231.14 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB" "C60485"
+			(at 231.14 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 231.14 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402JR-070RL"
+			(at 231.14 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cf4f393d-e42d-4076-a780-9a7cf0705043")
+		)
+		(pin "2"
+			(uuid "8b04e42b-3ac8-4e39-ba38-bb7316d908a8")
+		)
+		(instances
+			(project "spinali_add-on_GNSS_F9P"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
+					(reference "R33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L")
 		(at 250.19 222.25 90)
 		(unit 1)
@@ -9495,7 +8766,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 250.19 222.25 0)
 			(effects
 				(font
@@ -9522,7 +8793,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" ""
+		(property "MF" "Würth Elektronik"
 			(at 250.19 222.25 0)
 			(effects
 				(font
@@ -9531,7 +8802,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" ""
+		(property "MFPN" "74269244182"
 			(at 250.19 222.25 0)
 			(effects
 				(font
@@ -9540,7 +8811,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "732-74269244182CT-ND"
 			(at 250.19 222.25 0)
 			(effects
 				(font
@@ -9734,15 +9005,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 166.37 248.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "dec67298-1d5d-455d-aecb-671b5f919794")
 		)
@@ -9819,6 +9081,216 @@
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR070")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 339.09 222.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "6c0a68f0-b89b-42c5-b23c-a182c27059ae")
+		(property "Reference" "R38"
+			(at 341.63 220.9799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0R"
+			(at 341.63 223.5199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 337.312 222.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 339.09 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 339.09 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-0.0JRCT-ND"
+			(at 339.09 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB" "C60485"
+			(at 339.09 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 339.09 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402JR-070RL"
+			(at 339.09 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "525a4b62-403f-4503-8a59-6df4f0015d74")
+		)
+		(pin "2"
+			(uuid "108275e7-d593-4b8c-b805-43408a8b453a")
+		)
+		(instances
+			(project "spinali_add-on_GNSS_F9P"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
+					(reference "R38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 231.14 55.88 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6c57d83c-6d73-4b8f-b074-21ea42f9fcab")
+		(property "Reference" "R34"
+			(at 231.14 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R EXTINT"
+			(at 231.14 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 231.14 57.658 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 231.14 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-0.0JRCT-ND"
+			(at 231.14 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB" "C60485"
+			(at 231.14 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 231.14 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402JR-070RL"
+			(at 231.14 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ced3b70b-8c44-4f95-a440-ee08739a24ce")
+		)
+		(pin "2"
+			(uuid "5fea2d65-4f2f-4f66-9fea-14e4a3bfa6ee")
+		)
+		(instances
+			(project "spinali_add-on_GNSS_F9P"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -9943,6 +9415,42 @@
 				(hide yes)
 			)
 		)
+		(property "MF" "Diodes Incorporated"
+			(at 96.52 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "AP2112K-3.3TRG1"
+			(at 96.52 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "AP2112K-3.3TRG1DICT-ND"
+			(at 96.52 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB" ""
+			(at 96.52 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "de0b95cf-ba34-4961-b945-16b3c9009eb3")
 		)
@@ -9995,7 +9503,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 234.442 76.2 90)
 			(effects
 				(font
@@ -10014,6 +9522,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 236.22 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 236.22 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-2.20KLRCT-ND"
+			(at 236.22 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402FR-072K2L"
 			(at 236.22 76.2 0)
 			(effects
 				(font
@@ -10223,7 +9758,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 226.06 93.218 90)
 			(effects
 				(font
@@ -10243,6 +9778,33 @@
 		)
 		(property "Description" "Resistor"
 			(at 226.06 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 226.06 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-33.0LRCT-ND"
+			(at 226.06 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402FR-0733RL"
+			(at 226.06 91.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10290,7 +9852,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 226.06 85.598 90)
 			(effects
 				(font
@@ -10317,6 +9879,33 @@
 				(hide yes)
 			)
 		)
+		(property "MF" "YAGEO"
+			(at 226.06 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-33.0LRCT-ND"
+			(at 226.06 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402FR-0733RL"
+			(at 226.06 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "06f3b988-c0e6-4ceb-97c0-8a52bb8f789c")
 		)
@@ -10334,7 +9923,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 242.57 67.31 0)
+		(at 236.22 72.39 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10344,7 +9933,7 @@
 		(fields_autoplaced yes)
 		(uuid "7d9549b4-e2a3-46c2-929a-5bbb488be7c5")
 		(property "Reference" "#PWR074"
-			(at 242.57 71.12 0)
+			(at 236.22 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10353,7 +9942,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 242.57 62.23 0)
+			(at 236.22 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10361,7 +9950,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 242.57 67.31 0)
+			(at 236.22 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10370,7 +9959,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 242.57 67.31 0)
+			(at 236.22 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10379,7 +9968,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 242.57 67.31 0)
+			(at 236.22 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10492,7 +10081,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 348.742 72.39 90)
 			(effects
 				(font
@@ -10519,6 +10108,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "311-1.00KLRCT-ND"
+			(at 350.52 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 350.52 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402FR-071KL"
+			(at 350.52 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a82df493-49c1-4dd4-9251-8715107b2d7c")
 		)
@@ -10536,7 +10152,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 146.05 93.98 0)
+		(at 152.4 97.79 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10545,7 +10161,7 @@
 		(dnp no)
 		(uuid "844fdb88-6d73-4c57-949b-03e01061cd79")
 		(property "Reference" "#PWR077"
-			(at 146.05 100.33 0)
+			(at 152.4 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10554,7 +10170,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 146.05 99.06 0)
+			(at 152.4 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10562,7 +10178,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 146.05 93.98 0)
+			(at 152.4 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10571,7 +10187,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 93.98 0)
+			(at 152.4 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10580,7 +10196,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 146.05 93.98 0)
+			(at 152.4 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10625,7 +10241,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 226.06 90.678 90)
 			(effects
 				(font
@@ -10645,6 +10261,33 @@
 		)
 		(property "Description" "Resistor"
 			(at 226.06 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 226.06 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-33.0LRCT-ND"
+			(at 226.06 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402FR-0733RL"
+			(at 226.06 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10799,7 +10442,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 180.34 238.76 0)
+		(at 184.15 238.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10808,7 +10451,7 @@
 		(fields_autoplaced yes)
 		(uuid "8eb7d3da-fbd2-4390-ad14-aa96858851bf")
 		(property "Reference" "R26"
-			(at 182.88 237.4899 0)
+			(at 186.69 237.4899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10816,8 +10459,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2K"
-			(at 182.88 240.0299 0)
+		(property "Value" "2.2k"
+			(at 186.69 240.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10825,8 +10468,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 178.562 238.76 90)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 182.372 238.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10835,7 +10478,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 180.34 238.76 0)
+			(at 184.15 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10844,7 +10487,34 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 180.34 238.76 0)
+			(at 184.15 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 184.15 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-2.20KLRCT-ND"
+			(at 184.15 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402FR-072K2L"
+			(at 184.15 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10893,7 +10563,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 251.46 258.318 90)
 			(effects
 				(font
@@ -10913,6 +10583,33 @@
 		)
 		(property "Description" "Resistor"
 			(at 251.46 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 251.46 256.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-10LDCT-ND"
+			(at 251.46 256.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "AC0603FR-0710RL"
+			(at 251.46 256.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11026,7 +10723,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 226.06 83.058 90)
 			(effects
 				(font
@@ -11046,6 +10743,33 @@
 		)
 		(property "Description" "Resistor"
 			(at 226.06 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 226.06 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-33.0LRCT-ND"
+			(at 226.06 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402FR-0733RL"
+			(at 226.06 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11130,143 +10854,6 @@
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR0100")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Bridged")
-		(at 166.37 228.6 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "93a05a52-cbcc-4175-a0d5-f804469e1fce")
-		(property "Reference" "JP12"
-			(at 161.036 228.346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PWR"
-			(at 163.576 228.346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm"
-			(at 166.37 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 166.37 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
-			(at 166.37 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e27dd351-3329-43a1-97a5-2c4ac1c6b2af")
-		)
-		(pin "2"
-			(uuid "4809a03a-856d-43bf-8dda-26345e8edf57")
-		)
-		(instances
-			(project "spinali_add-on_GNSS_F9P"
-				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
-					(reference "JP12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 222.25 119.38 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "95b266e3-5175-4a12-9710-c2103e3944d1")
-		(property "Reference" "JP4"
-			(at 224.79 118.1099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SAFEBOOT_N"
-			(at 224.79 120.6499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 222.25 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 222.25 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 222.25 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "674c6f46-d711-4ba9-881a-7627fd78c9f9")
-		)
-		(pin "1"
-			(uuid "804602ee-497d-4cbb-b76b-08ba94ba64cc")
-		)
-		(instances
-			(project ""
-				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
-					(reference "JP4")
 					(unit 1)
 				)
 			)
@@ -11434,7 +11021,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 247.142 76.2 90)
 			(effects
 				(font
@@ -11461,6 +11048,33 @@
 				(hide yes)
 			)
 		)
+		(property "MF" "YAGEO"
+			(at 248.92 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-2.20KLRCT-ND"
+			(at 248.92 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402FR-072K2L"
+			(at 248.92 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "51973ba3-e027-4f5e-9d1b-0b724f971c9f")
 		)
@@ -11471,79 +11085,6 @@
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_3_Bridged12")
-		(at 331.47 220.98 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a6b14afa-0a7e-43af-a9fd-f5053fb7d830")
-		(property "Reference" "JP6"
-			(at 334.01 219.7099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TIMEPULSE"
-			(at 334.01 222.2499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm_NumberLabels"
-			(at 331.47 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 331.47 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "3-pole Solder Jumper, pins 1+2 closed/bridged"
-			(at 331.47 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "63096920-171b-4941-bb53-3b0ef1d73248")
-		)
-		(pin "2"
-			(uuid "a1982b5a-ef2a-4bdb-99cc-73a947f5d19a")
-		)
-		(pin "1"
-			(uuid "e90e15d4-1707-4a12-bf1d-a0c31d6a7f28")
-		)
-		(instances
-			(project "spinali_add-on_GNSS_F9P"
-				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
-					(reference "JP6")
 					(unit 1)
 				)
 			)
@@ -11610,6 +11151,112 @@
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR096")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 184.15 228.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8d825cf-7e94-4083-aac1-430a5388d8b2")
+		(property "Reference" "R29"
+			(at 186.69 227.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0R RTK"
+			(at 186.69 229.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 182.372 228.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 184.15 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 184.15 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-0.0JRCT-ND"
+			(at 184.15 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB" "C60485"
+			(at 184.15 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 184.15 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402JR-070RL"
+			(at 184.15 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "596eedc8-c60e-4baa-a735-a27dd528e989")
+		)
+		(pin "2"
+			(uuid "09ce8a53-ca71-4467-b9ca-22de8ef4d5b7")
+		)
+		(instances
+			(project "spinali_add-on_GNSS_F9P"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -12211,7 +11858,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 193.04 248.92 90)
+		(at 200.66 248.92 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12220,7 +11867,7 @@
 		(fields_autoplaced yes)
 		(uuid "c2d6c508-46db-439e-b2fa-6be106718b8d")
 		(property "Reference" "D3"
-			(at 196.85 249.2374 90)
+			(at 204.47 249.2374 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12229,7 +11876,7 @@
 			)
 		)
 		(property "Value" "YELLOW"
-			(at 196.85 251.7774 90)
+			(at 204.47 251.7774 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12238,7 +11885,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 193.04 248.92 0)
+			(at 200.66 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12247,7 +11894,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 248.92 0)
+			(at 200.66 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12256,16 +11903,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 193.04 248.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 193.04 248.92 0)
+			(at 200.66 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12371,219 +12009,6 @@
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "C59")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_3_Open")
-		(at 146.05 88.9 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c637fcd3-1bb3-43c7-9a6a-3f0be790a53a")
-		(property "Reference" "JP7"
-			(at 143.51 87.6299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "I2C/SPI"
-			(at 143.51 90.1699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels"
-			(at 146.05 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 146.05 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 3-pole, open"
-			(at 146.05 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 146.05 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFPN" ""
-			(at 146.05 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" ""
-			(at 146.05 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 146.05 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "a9c882ee-53aa-49c7-b7b8-e3896fd23f5d")
-		)
-		(pin "2"
-			(uuid "4d62ec90-f541-4803-a7bf-b81b4cead586")
-		)
-		(pin "1"
-			(uuid "35d9c16b-99bf-4e87-a759-7a63979772e1")
-		)
-		(instances
-			(project "spinali_add-on_GNSS_F9P"
-				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
-					(reference "JP7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 252.73 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "c6f8a5cf-2029-47d5-891f-5ab34ae3000e")
-		(property "Reference" "JP3"
-			(at 252.73 106.426 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SPI"
-			(at 252.73 108.966 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 252.73 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 252.73 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 252.73 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 252.73 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFPN" ""
-			(at 252.73 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" ""
-			(at 252.73 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 252.73 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ef75eea0-91f3-45d5-9d34-55bd56c9667e")
-		)
-		(pin "1"
-			(uuid "815b1815-dfca-4251-9d7c-17cc61915972")
-		)
-		(instances
-			(project ""
-				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
-					(reference "JP3")
 					(unit 1)
 				)
 			)
@@ -12738,7 +12163,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "1k"
 			(at 168.91 240.0299 0)
 			(effects
 				(font
@@ -12747,7 +12172,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 164.592 238.76 90)
 			(effects
 				(font
@@ -12774,6 +12199,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "311-1.00KLRCT-ND"
+			(at 166.37 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 166.37 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402FR-071KL"
+			(at 166.37 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "906e31b8-d25b-412c-a273-f7b4991e84ba")
 		)
@@ -12791,7 +12243,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 180.34 248.92 90)
+		(at 184.15 248.92 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12800,7 +12252,7 @@
 		(fields_autoplaced yes)
 		(uuid "cd240f5b-f893-49d6-8dff-c37a4b528e23")
 		(property "Reference" "D4"
-			(at 184.15 249.2374 90)
+			(at 187.96 249.2374 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12809,7 +12261,7 @@
 			)
 		)
 		(property "Value" "BLUE"
-			(at 184.15 251.7774 90)
+			(at 187.96 251.7774 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12818,7 +12270,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 180.34 248.92 0)
+			(at 184.15 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12827,7 +12279,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 180.34 248.92 0)
+			(at 184.15 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12836,16 +12288,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 180.34 248.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 180.34 248.92 0)
+			(at 184.15 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12923,6 +12366,42 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "1727-4189-1-ND "
+			(at 265.43 241.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB" "C85402"
+			(at 265.43 241.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Nexperia"
+			(at 265.43 241.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "PESD5V0S1UL,315"
+			(at 265.43 241.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "847cb58a-1351-4788-9adf-0eb7dfc7959a")
 		)
@@ -12933,73 +12412,6 @@
 			(project ""
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Bridged")
-		(at 231.14 46.99 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "cee72051-b906-4a76-8bcd-8db1e0d3e99e")
-		(property "Reference" "JP9"
-			(at 231.394 41.656 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "RESET_N"
-			(at 231.394 44.196 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm"
-			(at 231.14 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 231.14 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
-			(at 231.14 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a7ac0802-6e76-44a3-8537-02818731aa6e")
-		)
-		(pin "2"
-			(uuid "d8860414-8178-41c9-b315-93d63149ab19")
-		)
-		(instances
-			(project "spinali_add-on_GNSS_F9P"
-				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
-					(reference "JP9")
 					(unit 1)
 				)
 			)
@@ -13030,7 +12442,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 226.06 105.918 90)
 			(effects
 				(font
@@ -13050,6 +12462,33 @@
 		)
 		(property "Description" "Resistor"
 			(at 226.06 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 226.06 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-33.0LRCT-ND"
+			(at 226.06 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402FR-0733RL"
+			(at 226.06 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13485,32 +12924,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_3_Bridged123")
-		(at 242.57 71.12 180)
+		(lib_id "Device:R")
+		(at 222.25 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp no)
-		(uuid "e7b8cf52-4fe7-4c8f-bb98-64bfef89eb69")
-		(property "Reference" "JP5"
-			(at 245.872 65.532 0)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "e495e63c-d51d-4368-9324-680c79bcf168")
+		(property "Reference" "R31"
+			(at 224.79 118.1099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "I2C"
-			(at 245.872 68.072 0)
+		(property "Value" "0R SAFEBOOT_N"
+			(at 224.79 120.6499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Bridged123_Pad1.0x1.5mm_NumberLabels"
-			(at 242.57 71.12 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 220.472 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13519,7 +12961,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 242.57 71.12 0)
+			(at 222.25 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13527,8 +12969,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Solder Jumper, 3-pole, pins 1+2+3 closed/bridged"
-			(at 242.57 71.12 0)
+		(property "Description" "Resistor"
+			(at 222.25 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13536,19 +12978,52 @@
 				(hide yes)
 			)
 		)
-		(pin "1"
-			(uuid "59d600e7-133e-43ea-8929-96c7370fda53")
+		(property "DigiKey" "311-0.0JRCT-ND"
+			(at 222.25 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB" "C60485"
+			(at 222.25 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 222.25 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402JR-070RL"
+			(at 222.25 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
 		(pin "2"
-			(uuid "3e4c28d0-cf6a-482e-9911-d91d80cb3ed7")
+			(uuid "4b7d3f81-c333-4fad-a535-b22e1a68c2a2")
 		)
-		(pin "3"
-			(uuid "a0a30342-fa31-4e96-929f-628040b72d12")
+		(pin "1"
+			(uuid "409c433a-b7a1-405a-be12-f5f340cc4f60")
 		)
 		(instances
 			(project ""
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
-					(reference "JP5")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -13621,11 +13096,184 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 339.09 212.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ec08569d-9b39-48ea-bc32-5ddc58877055")
+		(property "Reference" "R37"
+			(at 341.63 210.8199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0R"
+			(at 341.63 213.3599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 337.312 212.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 339.09 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 339.09 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-0.0JRCT-ND"
+			(at 339.09 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB" "C60485"
+			(at 339.09 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 339.09 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402JR-070RL"
+			(at 339.09 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e05eb4f4-989d-4d60-ba07-049bb9a63cf6")
+		)
+		(pin "2"
+			(uuid "1992f8b9-caf6-4c1a-ba72-e3b6c5a0b45a")
+		)
+		(instances
+			(project "spinali_add-on_GNSS_F9P"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
+					(reference "R37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 248.92 72.39 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ee6b1ed5-5faa-4829-bdc7-1024cb75b610")
+		(property "Reference" "#PWR071"
+			(at 248.92 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 248.92 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 248.92 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 248.92 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 248.92 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f876ef00-a7d8-4cc4-b0c0-df4ef736c237")
+		)
+		(instances
+			(project "spinali_add-on_GNSS_F9P"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
+					(reference "#PWR071")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 242.57 222.25 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "eec7e9c3-f97c-43e0-88c5-523d90628334")
@@ -13645,7 +13293,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
 			(at 242.57 217.17 0)
 			(effects
 				(font
@@ -13751,6 +13399,112 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 200.66 228.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f07a4235-a12c-42c3-aa49-ac07475f5163")
+		(property "Reference" "R30"
+			(at 203.2 227.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0R PULSE"
+			(at 203.2 229.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 198.882 228.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 200.66 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 200.66 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-0.0JRCT-ND"
+			(at 200.66 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB" "C60485"
+			(at 200.66 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 200.66 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402JR-070RL"
+			(at 200.66 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ebdea26f-5e56-48d4-8461-703d562487a5")
+		)
+		(pin "2"
+			(uuid "2be3ce6a-5448-4f5f-afec-1cf5e034fc18")
+		)
+		(instances
+			(project "spinali_add-on_GNSS_F9P"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
+					(reference "R30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148WT")
 		(at 350.52 64.77 90)
 		(unit 1)
@@ -13805,8 +13559,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 350.52 64.77 0)
+		(property "DigiKey" "1N4148WTCT-ND"
+			(at 350.52 64.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13814,8 +13568,17 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 350.52 64.77 0)
+		(property "MF" "onsemi"
+			(at 350.52 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "1N4148WT"
+			(at 350.52 64.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13863,7 +13626,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 226.06 108.458 90)
 			(effects
 				(font
@@ -13890,6 +13653,33 @@
 				(hide yes)
 			)
 		)
+		(property "MF" "YAGEO"
+			(at 226.06 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-33.0LRCT-ND"
+			(at 226.06 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402FR-0733RL"
+			(at 226.06 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d1797ee5-d7b0-48d2-81ef-934a2e8053d4")
 		)
@@ -13907,7 +13697,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 193.04 238.76 0)
+		(at 200.66 238.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13916,7 +13706,7 @@
 		(fields_autoplaced yes)
 		(uuid "f2f85898-3d34-4c71-81e3-0ba9915c1d78")
 		(property "Reference" "R22"
-			(at 195.58 237.4899 0)
+			(at 203.2 237.4899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13924,8 +13714,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2K"
-			(at 195.58 240.0299 0)
+		(property "Value" "2.2k"
+			(at 203.2 240.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13933,8 +13723,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 191.262 238.76 90)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 198.882 238.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13943,7 +13733,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 238.76 0)
+			(at 200.66 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13952,7 +13742,34 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 193.04 238.76 0)
+			(at 200.66 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 200.66 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-2.20KLRCT-ND"
+			(at 200.66 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402FR-072K2L"
+			(at 200.66 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14043,73 +13860,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_2_Bridged")
-		(at 180.34 228.6 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "f80cf9d1-908c-4ca3-af77-a57052273079")
-		(property "Reference" "JP11"
-			(at 175.006 228.346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "RTK"
-			(at 177.546 228.346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm"
-			(at 180.34 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 180.34 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
-			(at 180.34 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fcbae79c-63c2-4bf8-874b-be6b92773eac")
-		)
-		(pin "2"
-			(uuid "09a54a21-a015-4206-b536-7e4d67636408")
-		)
-		(instances
-			(project "spinali_add-on_GNSS_F9P"
-				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
-					(reference "JP11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 226.06 99.06 90)
 		(unit 1)
@@ -14134,7 +13884,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 226.06 100.838 90)
 			(effects
 				(font
@@ -14154,6 +13904,33 @@
 		)
 		(property "Description" "Resistor"
 			(at 226.06 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 226.06 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-33.0LRCT-ND"
+			(at 226.06 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402FR-0733RL"
+			(at 226.06 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
