@@ -5,16 +5,26 @@
 	(uuid "04285d74-eeba-483c-9378-52bd287e15a2")
 	(paper "A4")
 	(title_block
-		(title "MR-MCXN-T1 Optical Flow")
-		(date "2025-04-16")
+		(title "MR-MCXN-T1-F9P")
+		(date "2025-06-02")
 		(rev "X0")
 		(company "NXP SEMICONDUCTORS B.V.")
-		(comment 1 "CLASSIFICATION: INTERNAL USE ONLY")
-		(comment 3 "DESIGNER: YOURI TILS")
+		(comment 1 "CLASSIFICATION: Public ")
+		(comment 3 "DESIGNER: Youri Tils / Benjamin Perseghetti/ Iain Galloway")
 		(comment 4 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
 	)
 	(lib_symbols)
-	(text "MR-MCXN-T1 Optical Flow"
+	(text "${MyRevision}"
+		(exclude_from_sim no)
+		(at 281.432 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "16964020-7d52-48e6-aa2a-ca157d806e09")
+	)
+	(text "MR-MCXN-T1-F9P"
 		(exclude_from_sim no)
 		(at 150.114 92.456 0)
 		(effects
