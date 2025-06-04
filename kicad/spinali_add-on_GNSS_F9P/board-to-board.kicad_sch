@@ -5,12 +5,12 @@
 	(uuid "78e17cd4-237b-45cd-bc5f-04fe5f51b9dc")
 	(paper "A4")
 	(title_block
-		(title "MR-MCXN-T1-F9P")
-		(date "2025-06-02")
+		(title "MR-MCXN-T1 Optical Flow")
+		(date "2025-04-16")
 		(rev "X0")
 		(company "NXP SEMICONDUCTORS B.V.")
-		(comment 1 "CLASSIFICATION: Public ")
-		(comment 3 "DESIGNER: Youri Tils / Benjamin Perseghetti/ Iain Galloway")
+		(comment 1 "CLASSIFICATION: INTERNAL USE ONLY")
+		(comment 3 "DESIGNER: YOURI TILS")
 		(comment 4 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
 	)
 	(lib_symbols

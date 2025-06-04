@@ -681,8 +681,5 @@
       "GNSS"
     ]
   ],
-  "text_variables": {
-    "IAIN": "THis is -iain",
-    "MyRevision": "X0-1"
-  }
+  "text_variables": {}
 }
