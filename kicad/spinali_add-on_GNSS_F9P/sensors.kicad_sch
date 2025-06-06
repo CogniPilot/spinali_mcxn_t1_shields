@@ -5,7 +5,7 @@
 	(uuid "ebbb2802-5063-4ced-af3d-b4bf6a935c18")
 	(paper "A4")
 	(title_block
-		(title "MR-MCXN-T1 Optical Flow")
+		(title "MR-MCXN-T1-F9P")
 		(date "2025-04-16")
 		(rev "X0")
 		(company "NXP SEMICONDUCTORS B.V.")
@@ -2524,7 +2524,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 88.5952 43.18 0)
 			(effects
 				(font
@@ -3338,7 +3338,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 144.4752 43.18 0)
 			(effects
 				(font
@@ -3635,7 +3635,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 106.3752 43.18 0)
 			(effects
 				(font
@@ -3838,7 +3838,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 125.4252 43.18 0)
 			(effects
 				(font

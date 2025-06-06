@@ -5,7 +5,7 @@
 	(uuid "04285d74-eeba-483c-9378-52bd287e15a2")
 	(paper "A4")
 	(title_block
-		(title "MR-MCXN-T1 Optical Flow")
+		(title "MR-MCXN-T1-F9P")
 		(date "2025-04-16")
 		(rev "X0")
 		(company "NXP SEMICONDUCTORS B.V.")
@@ -14,7 +14,7 @@
 		(comment 4 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
 	)
 	(lib_symbols)
-	(text "MR-MCXN-T1 Optical Flow"
+	(text "${TITLE}"
 		(exclude_from_sim no)
 		(at 150.114 92.456 0)
 		(effects
