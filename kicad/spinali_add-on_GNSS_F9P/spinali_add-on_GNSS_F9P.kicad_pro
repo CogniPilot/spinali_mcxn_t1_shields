@@ -135,7 +135,7 @@
         "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 1.0,
-        "min_text_thickness": 0.153,
+        "min_text_thickness": 0.15,
         "min_through_hole_diameter": 0.2,
         "min_track_width": 0.1,
         "min_via_annular_width": 0.05,
@@ -501,9 +501,18 @@
       {
         "bus_width": 12,
         "line_style": 0,
-        "name": "USB_90_Ohm",
+        "name": "PWR",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
+        "schematic_color": "rgb(0, 0, 255)",
+        "wire_width": 8
+      },
+      {
+        "bus_width": 12,
+        "line_style": 0,
+        "name": "USB_90_Ohm",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
         "schematic_color": "rgb(255, 0, 255)",
         "wire_width": 6
       }
@@ -524,9 +533,29 @@
       ],
       "/GNSS/USB_DP": [
         "USB_90_Ohm"
+      ],
+      "unconnected-(U8-CH1_OUT--PadC2)": [
+        "USB_90_Ohm"
       ]
     },
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": ""
+      },
+      {
+        "netclass": "PWR",
+        "pattern": "+5V"
+      },
+      {
+        "netclass": "PWR",
+        "pattern": "/GNSS/3.3V"
+      },
+      {
+        "netclass": "PWR",
+        "pattern": "VDD_BAT"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -638,7 +667,7 @@
           "show": false
         }
       ],
-      "filter_string": "",
+      "filter_string": "R43",
       "group_symbols": true,
       "include_excluded_from_bom": false,
       "name": "",
