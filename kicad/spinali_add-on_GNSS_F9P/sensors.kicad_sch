@@ -1449,6 +1449,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Consider adding second BMM350 to the design (or two instead of PN13156"
+		(exclude_from_sim no)
+		(at 243.332 47.244 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2b4565b9-35f5-4642-a9d8-1ac60dbec624")
+	)
 	(junction
 		(at 190.5 62.23)
 		(diameter 0)

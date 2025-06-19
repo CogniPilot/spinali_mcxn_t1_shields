@@ -4551,6 +4551,16 @@
 		)
 		(uuid a0bb9190-f795-4d21-9565-89fd1a681182)
 	)
+	(text "Check LDO noise relative to UBLOX"
+		(exclude_from_sim no)
+		(at 135.636 26.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "16ca7479-f4fc-471f-9fa4-2048b7b40bab")
+	)
 	(text "90 Ohm \ndifferential pair"
 		(exclude_from_sim no)
 		(at 136.398 218.186 0)
@@ -4571,6 +4581,16 @@
 			)
 		)
 		(uuid "38c65bd4-c149-44bf-ad2b-5c28a8eaf0bc")
+	)
+	(text "Check V_BCKP current when battery not present"
+		(exclude_from_sim no)
+		(at 130.81 72.644 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b320177c-64d0-4cd4-aa7e-eb21154f9d9a")
 	)
 	(text "90 Ohm \ndifferential pair"
 		(exclude_from_sim no)
@@ -4604,6 +4624,16 @@
 			)
 		)
 		(uuid "eac2faa6-21f5-4614-a131-fc9d39add284")
+	)
+	(text "Change to side button"
+		(exclude_from_sim no)
+		(at 381.508 151.892 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ee4138db-2fb4-404e-ab4d-5ebbf79bcbad")
 	)
 	(text "Passthrough UART (i.e Corrections Radio)"
 		(exclude_from_sim no)
@@ -5020,6 +5050,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 210.82) (xy 146.05 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16bae8ce-f3df-405c-b8d1-a8496e9e9647")
+	)
+	(wire
+		(pts
 			(xy 82.55 176.53) (xy 86.36 176.53)
 		)
 		(stroke
@@ -5247,6 +5287,16 @@
 			(type default)
 		)
 		(uuid "2f232a07-4139-426b-b773-a7ad4ff387da")
+	)
+	(wire
+		(pts
+			(xy 382.27 40.64) (xy 382.27 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "328e6d25-9aa4-4bc8-9da9-301d842b01a3")
 	)
 	(wire
 		(pts
@@ -5480,6 +5530,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 208.28) (xy 146.05 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53de07c2-9efa-48ad-8c7e-f57b310fd2c8")
+	)
+	(wire
+		(pts
 			(xy 229.87 91.44) (xy 234.95 91.44)
 		)
 		(stroke
@@ -5517,16 +5577,6 @@
 			(type default)
 		)
 		(uuid "56ae5837-efef-423b-b9ba-097585804935")
-	)
-	(wire
-		(pts
-			(xy 162.56 106.68) (xy 172.72 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57a6ab89-6835-4443-a9ff-8d17b75f3f16")
 	)
 	(wire
 		(pts
@@ -5790,16 +5840,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 210.82) (xy 146.05 210.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "809ff4bd-a34f-4fc3-b5e0-08cfb1b83073")
-	)
-	(wire
-		(pts
 			(xy 132.08 76.2) (xy 172.72 76.2)
 		)
 		(stroke
@@ -5987,16 +6027,6 @@
 			(type default)
 		)
 		(uuid "9b421271-30b3-4a2c-a3f3-ac3eae942823")
-	)
-	(wire
-		(pts
-			(xy 120.65 208.28) (xy 146.05 208.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9bb61f54-7b8d-4331-ad2a-37982e875d17")
 	)
 	(wire
 		(pts
@@ -6410,6 +6440,16 @@
 	)
 	(wire
 		(pts
+			(xy 382.27 60.96) (xy 382.27 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6c53ec2-f6fd-4832-a65c-9bdbf9bedff0")
+	)
+	(wire
+		(pts
 			(xy 236.22 83.82) (xy 229.87 83.82)
 		)
 		(stroke
@@ -6628,6 +6668,16 @@
 		)
 		(uuid "e7006469-2b36-4a57-8fe0-d6c9052e052b")
 	)
+	(wire
+		(pts
+			(xy 162.56 106.68) (xy 172.72 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e94b8beb-cb67-4bbf-9573-4cc11aa3821f")
+	)
 	(polyline
 		(pts
 			(xy 186.69 40.64) (xy 191.77 40.64)
@@ -6667,6 +6717,16 @@
 			(type default)
 		)
 		(uuid "ebc7a28f-2db7-42d8-9469-ae95274ebba8")
+	)
+	(wire
+		(pts
+			(xy 372.11 40.64) (xy 382.27 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec322c0e-8975-492c-9b59-de311c86ac0c")
 	)
 	(wire
 		(pts
@@ -6798,18 +6858,8 @@
 		)
 		(uuid "0bf92bf9-e893-404e-a944-6b403f38954f")
 	)
-	(label "USB_DP"
-		(at 162.56 106.68 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0dda2a24-e993-4aab-b151-76bc8795078b")
-	)
-	(label "USB_DM"
-		(at 121.92 210.82 0)
+	(label "USB_DN"
+		(at 123.19 210.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6858,17 +6908,7 @@
 		)
 		(uuid "1faad1c1-c17a-49ae-9ee1-906ec94849ac")
 	)
-	(label "USB_DP"
-		(at 121.92 210.82 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "248f6383-2eb8-4012-8561-f6b294da6739")
-	)
-	(label "USB_DM"
+	(label "USB_DN"
 		(at 162.56 109.22 0)
 		(effects
 			(font
@@ -6887,6 +6927,26 @@
 			(justify left bottom)
 		)
 		(uuid "344531f4-6bff-442e-a0aa-e7602af82d0d")
+	)
+	(label "GPS-FIX"
+		(at 372.11 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "37ae3882-87e4-4c9a-b191-f3bb1d1e92d9")
+	)
+	(label "USB_DP"
+		(at 123.19 208.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "43a530a7-ae36-49b3-974a-04cd7058a300")
 	)
 	(label "V_USB"
 		(at 151.13 176.53 0)
@@ -6927,6 +6987,16 @@
 			(justify left bottom)
 		)
 		(uuid "5e271730-bec6-4ad1-92c6-109c1f4372d1")
+	)
+	(label "USB_DP"
+		(at 162.56 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "625319ec-7414-4be4-91fd-a34ea85bce78")
 	)
 	(label "V_BACKUP"
 		(at 132.08 76.2 180)
@@ -6987,16 +7057,6 @@
 			(justify left bottom)
 		)
 		(uuid "a2807418-52d6-4957-851c-bce24dba5763")
-	)
-	(label "USB_DM"
-		(at 121.92 208.28 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b4ca5a7b-66db-4f71-8680-5a06c3b3174d")
 	)
 	(label "RF_IN"
 		(at 162.56 81.28 0)
@@ -10930,6 +10990,103 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 382.27 57.15 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "72b594a1-77ed-4a67-ad47-ce54c6daa7d9")
+		(property "Reference" "R28"
+			(at 384.81 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.2k"
+			(at 384.81 58.4199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 380.492 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 382.27 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 382.27 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 382.27 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-2.20KLRCT-ND"
+			(at 382.27 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "RC0402FR-072K2L"
+			(at 382.27 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c6fc2062-5a5f-42dd-8a52-7d0e1f974989")
+		)
+		(pin "1"
+			(uuid "5355f182-dafe-4bd7-a147-2cf07127d145")
+		)
+		(instances
+			(project "spinali_add-on_GNSS_F9P"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
+					(reference "R28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 236.22 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12789,6 +12946,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 382.27 71.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a9e58fc1-a12c-4bc8-8d80-906470038efb")
+		(property "Reference" "#PWR091"
+			(at 382.27 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 382.27 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 382.27 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 382.27 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 382.27 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2417f749-3963-4ed9-a45d-c1d2e9d532fa")
+		)
+		(instances
+			(project "spinali_add-on_GNSS_F9P"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
+					(reference "#PWR091")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 97.79 181.61 0)
 		(unit 1)
@@ -14245,6 +14467,102 @@
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 382.27 67.31 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d14cd0fb-41bc-4b26-8df6-3304f26e5e45")
+		(property "Reference" "D6"
+			(at 386.08 67.6274 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "YELLOW"
+			(at 386.08 70.1674 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+			(at 382.27 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 382.27 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 382.27 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "754-1105-1-ND"
+			(at 395.224 69.596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Kingbright"
+			(at 393.192 70.358 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "APHHS1005SYCK"
+			(at 397.002 69.342 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d64638d5-9753-47ee-9b13-10ff57b3d45a")
+		)
+		(pin "1"
+			(uuid "99909e53-d0ac-44cb-a905-994cca0893a5")
+		)
+		(instances
+			(project "spinali_add-on_GNSS_F9P"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
+					(reference "D6")
 					(unit 1)
 				)
 			)

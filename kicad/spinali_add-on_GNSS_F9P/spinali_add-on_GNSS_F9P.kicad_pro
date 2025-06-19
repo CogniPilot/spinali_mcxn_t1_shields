@@ -531,6 +531,9 @@
       "/GNSS/USB_DM": [
         "USB_90_Ohm"
       ],
+      "/GNSS/USB_DN": [
+        "USB_90_Ohm"
+      ],
       "/GNSS/USB_DP": [
         "USB_90_Ohm"
       ],
