@@ -1451,13 +1451,29 @@
 	)
 	(text "Consider adding second BMM350 to the design (or two instead of PN13156"
 		(exclude_from_sim no)
-		(at 243.332 47.244 0)
+		(at 221.234 47.244 0)
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 0 255 1)
 			)
 		)
 		(uuid "2b4565b9-35f5-4642-a9d8-1ac60dbec624")
+	)
+	(text "This +3v3 is showing named as VDD_BAT and is NOT connected to the LDO on the next page"
+		(exclude_from_sim no)
+		(at 125.73 23.368 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 0 255 1)
+			)
+		)
+		(uuid "e8b54a3d-0d5c-4ee7-92b3-d341351615af")
 	)
 	(junction
 		(at 190.5 62.23)
@@ -1723,6 +1739,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 58.42) (xy 116.84 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e6830e7-b908-4cbb-82e6-cb7a3133883a")
+	)
+	(wire
+		(pts
 			(xy 124.46 68.58) (xy 124.46 81.28)
 		)
 		(stroke
@@ -1853,16 +1879,6 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 58.42) (xy 116.84 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a3a92dc-0006-41cb-899e-2bb8d1b89ee8")
-	)
-	(wire
-		(pts
 			(xy 137.16 102.87) (xy 121.92 102.87)
 		)
 		(stroke
@@ -1940,16 +1956,6 @@
 			(type default)
 		)
 		(uuid "9d18b37e-d1e6-49e1-8329-4a9cb64f835f")
-	)
-	(wire
-		(pts
-			(xy 111.76 58.42) (xy 116.84 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ff6e6bd-3a2a-43f5-8c19-8441148cc3ad")
 	)
 	(wire
 		(pts
@@ -2191,15 +2197,15 @@
 		)
 		(uuid "fa7b1a5f-69d8-4429-b467-87cad1218835")
 	)
-	(label "3.3V"
-		(at 111.76 58.42 0)
+	(label "+3V3"
+		(at 142.24 33.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "9fac0c86-5086-4ab3-a951-3955a9a68ae5")
+		(uuid "42f48595-f324-4cc9-9ba0-596c1b853115")
 	)
 	(global_label "P1_8{slash}I3C1_SDA{slash}FC4_P0"
 		(shape bidirectional)
@@ -3236,6 +3242,73 @@
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR061")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 116.84 58.42 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "56091f25-ce7d-4c23-8829-51aeb3ca6624")
+		(property "Reference" "#PWR092"
+			(at 116.84 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 116.84 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 116.84 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 116.84 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 116.84 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bda72351-4c5e-4cda-8ec1-f78f86d4c6bf")
+		)
+		(instances
+			(project "spinali_add-on_GNSS_F9P"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
+					(reference "#PWR092")
 					(unit 1)
 				)
 			)
