@@ -2283,7 +2283,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "05c13be2-a17f-4982-85b6-591b3cd14396")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR051"
 			(at 105.41 49.53 0)
 			(effects
 				(font
@@ -2333,7 +2333,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "#PWR060")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -2349,7 +2349,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a1e0a57-298a-4a09-89c5-5197d4413bbe")
-		(property "Reference" "R9"
+		(property "Reference" "R3"
 			(at 119.38 62.2299 0)
 			(effects
 				(font
@@ -2439,7 +2439,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "R9")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -2456,7 +2456,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33925df3-ad16-4b5e-b16e-5b88b0447aee")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR049"
 			(at 91.44 81.28 0)
 			(effects
 				(font
@@ -2506,7 +2506,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "#PWR086")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -2522,7 +2522,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33afd7a9-c713-4a32-bc19-33692896fca1")
-		(property "Reference" "C8"
+		(property "Reference" "C1"
 			(at 91.44 38.0999 0)
 			(effects
 				(font
@@ -2576,7 +2576,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "C8")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -2591,7 +2591,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "34eea835-3735-4a08-8e16-a25bd1e38200")
-		(property "Reference" "R5"
+		(property "Reference" "R6"
 			(at 192.532 58.674 90)
 			(effects
 				(font
@@ -2670,7 +2670,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "R5")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -2686,7 +2686,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "35ef0190-cc92-4e0c-92e7-4b9f0824a8c9")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR053"
 			(at 116.84 83.82 0)
 			(effects
 				(font
@@ -2736,7 +2736,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "#PWR065")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -2753,7 +2753,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39714f57-b649-4a1b-91ef-bea048aae6ec")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR057"
 			(at 135.89 62.23 0)
 			(effects
 				(font
@@ -2803,7 +2803,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "#PWR058")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -2898,7 +2898,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "484015ef-0c2c-4655-a2d9-12bc9f2bcd80")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR048"
 			(at 87.63 49.53 0)
 			(effects
 				(font
@@ -2948,7 +2948,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "#PWR059")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -2963,7 +2963,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4ee81b91-d718-42d7-98bc-80dd81d5b947")
-		(property "Reference" "R3"
+		(property "Reference" "R9"
 			(at 192.532 89.154 90)
 			(effects
 				(font
@@ -3042,7 +3042,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "R3")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -3058,7 +3058,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ffeccec-39b4-44f1-947d-7c77b3a9e94a")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR054"
 			(at 121.92 118.11 0)
 			(effects
 				(font
@@ -3108,7 +3108,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "#PWR064")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -3124,7 +3124,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52a04659-ff23-477c-aac6-2fee39a4f8fc")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR055"
 			(at 124.46 49.53 0)
 			(effects
 				(font
@@ -3174,7 +3174,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "#PWR080")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -3191,7 +3191,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "550b7315-c7fd-459c-b409-814afff8a5a9")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR047"
 			(at 87.63 36.83 0)
 			(effects
 				(font
@@ -3241,7 +3241,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "#PWR061")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -3258,7 +3258,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56091f25-ce7d-4c23-8829-51aeb3ca6624")
-		(property "Reference" "#PWR092"
+		(property "Reference" "#PWR052"
 			(at 116.84 62.23 0)
 			(effects
 				(font
@@ -3308,7 +3308,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "#PWR092")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -3403,7 +3403,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7542c450-8d17-4fd0-a431-a802d7ed9b0e")
-		(property "Reference" "C13"
+		(property "Reference" "C4"
 			(at 147.32 38.0999 0)
 			(effects
 				(font
@@ -3457,7 +3457,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "C13")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -3473,7 +3473,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88618d0f-c5a9-4d15-b005-c33a324e14c6")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR059"
 			(at 143.51 49.53 0)
 			(effects
 				(font
@@ -3523,7 +3523,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "#PWR081")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -3539,7 +3539,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d024849-906b-4cb7-8735-3b8680793967")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR056"
 			(at 128.27 74.93 0)
 			(effects
 				(font
@@ -3590,7 +3590,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "#PWR062")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -3605,7 +3605,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "92e00a89-953e-45d6-9613-dbaa73eaa363")
-		(property "Reference" "R4"
+		(property "Reference" "R7"
 			(at 192.532 71.374 90)
 			(effects
 				(font
@@ -3684,7 +3684,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "R4")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -3700,7 +3700,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9acd962c-2e6d-45f1-a682-e8c9eb28d185")
-		(property "Reference" "C7"
+		(property "Reference" "C2"
 			(at 109.22 38.0999 0)
 			(effects
 				(font
@@ -3754,7 +3754,7 @@
 		(instances
 			(project ""
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "C7")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -3770,7 +3770,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9cd02838-82b1-41a2-9164-b04b6a7fb296")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR058"
 			(at 135.89 115.57 0)
 			(effects
 				(font
@@ -3820,7 +3820,7 @@
 		(instances
 			(project ""
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "#PWR056")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -3837,7 +3837,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a02bdbb3-0dcb-4f01-87a3-95221a9a6c13")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR050"
 			(at 104.14 81.28 0)
 			(effects
 				(font
@@ -3887,7 +3887,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "#PWR087")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -3903,7 +3903,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a27d72fd-a8aa-4e94-8527-11840c701508")
-		(property "Reference" "C12"
+		(property "Reference" "C3"
 			(at 128.27 38.0999 0)
 			(effects
 				(font
@@ -3957,7 +3957,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "C12")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -3973,7 +3973,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "bdc4f10c-c400-45df-b8ef-5e8f167af0b3")
-		(property "Reference" "R10"
+		(property "Reference" "R4"
 			(at 119.38 72.3899 0)
 			(effects
 				(font
@@ -4063,7 +4063,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "R10")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -4158,7 +4158,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "cc072663-42e8-4c6a-9446-30318ea9b644")
-		(property "Reference" "R42"
+		(property "Reference" "R2"
 			(at 106.68 80.0099 0)
 			(effects
 				(font
@@ -4239,7 +4239,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "R42")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -4255,7 +4255,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d12caf56-0e77-4c4e-b4a6-e933e23c25f2")
-		(property "Reference" "U3"
+		(property "Reference" "U1"
 			(at 158.75 52.07 0)
 			(effects
 				(font
@@ -4394,7 +4394,7 @@
 		(instances
 			(project ""
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "U3")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -4410,7 +4410,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d155f515-b84f-493a-bc9d-6fd078fd0dec")
-		(property "Reference" "R8"
+		(property "Reference" "R5"
 			(at 124.46 106.6799 0)
 			(effects
 				(font
@@ -4491,7 +4491,7 @@
 		(instances
 			(project ""
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "R8")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -4507,7 +4507,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d28e83cb-8d9d-4482-b5c5-945817488f37")
-		(property "Reference" "R41"
+		(property "Reference" "R1"
 			(at 93.98 80.0099 0)
 			(effects
 				(font
@@ -4588,7 +4588,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "R41")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -4603,7 +4603,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "def915ee-140a-43ed-9058-efd07903cc17")
-		(property "Reference" "R6"
+		(property "Reference" "R10"
 			(at 192.532 94.234 90)
 			(effects
 				(font
@@ -4682,7 +4682,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "R6")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -4697,7 +4697,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "df6f8440-bab2-4a05-a14d-aea80d3a4e29")
-		(property "Reference" "R7"
+		(property "Reference" "R11"
 			(at 192.532 106.934 90)
 			(effects
 				(font
@@ -4776,7 +4776,7 @@
 		(instances
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "R7")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -4791,7 +4791,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ee2e77ad-c2fc-400d-a5dc-c4b75fa308ca")
-		(property "Reference" "R2"
+		(property "Reference" "R8"
 			(at 192.532 76.454 90)
 			(effects
 				(font
@@ -4870,7 +4870,7 @@
 		(instances
 			(project ""
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
-					(reference "R2")
+					(reference "R8")
 					(unit 1)
 				)
 			)

@@ -26,25 +26,25 @@
         },
         "fab_line_width": 0.1,
         "fab_text_italic": false,
-        "fab_text_size_h": 1.0,
-        "fab_text_size_v": 1.0,
-        "fab_text_thickness": 0.15,
+        "fab_text_size_h": 0.8,
+        "fab_text_size_v": 0.8,
+        "fab_text_thickness": 0.1,
         "fab_text_upright": false,
         "other_line_width": 0.1,
         "other_text_italic": false,
         "other_text_size_h": 1.0,
         "other_text_size_v": 1.0,
-        "other_text_thickness": 0.15,
+        "other_text_thickness": 0.1,
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 2.65,
-          "width": 1.125
+          "height": 1.8,
+          "width": 1.2
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
-        "silk_text_size_h": 1.0,
-        "silk_text_size_v": 1.0,
+        "silk_text_size_h": 0.8,
+        "silk_text_size_v": 0.8,
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
@@ -451,7 +451,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -503,16 +503,25 @@
         "line_style": 0,
         "name": "PWR",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgb(0, 0, 255)",
         "wire_width": 8
+      },
+      {
+        "bus_width": 1,
+        "line_style": 0,
+        "name": "RF_50Ohm",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgb(0, 255, 0)",
+        "wire_width": 39
       },
       {
         "bus_width": 12,
         "line_style": 0,
         "name": "USB_90_Ohm",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgb(255, 0, 255)",
         "wire_width": 6
       }
@@ -522,6 +531,12 @@
     },
     "net_colors": null,
     "netclass_assignments": {
+      "/GNSS/RF_IN": [
+        "RF_50_Ohm"
+      ],
+      "/GNSS/RF_IN_A": [
+        "RF_50_Ohm"
+      ],
       "/GNSS/USB_D+": [
         "USB_90_Ohm"
       ],
@@ -557,6 +572,14 @@
       {
         "netclass": "PWR",
         "pattern": "VDD_BAT"
+      },
+      {
+        "netclass": "RF_50Ohm",
+        "pattern": "/GNSS/RF_IN"
+      },
+      {
+        "netclass": "RF_50Ohm",
+        "pattern": "/GNSS/RF_IN_A"
       }
     ]
   },
