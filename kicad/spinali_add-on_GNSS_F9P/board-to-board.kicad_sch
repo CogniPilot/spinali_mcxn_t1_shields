@@ -2184,6 +2184,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 77.47) (xy 115.57 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be9a87f4-2781-4288-a0d1-9b38daa562cb")
+	)
+	(wire
+		(pts
 			(xy 208.28 77.47) (xy 205.74 77.47)
 		)
 		(stroke
@@ -2261,6 +2271,16 @@
 			(type default)
 		)
 		(uuid "df61d701-145e-4061-9aa0-2ddb793ba4ec")
+	)
+	(wire
+		(pts
+			(xy 86.36 77.47) (xy 92.71 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f702e8b6-7637-4795-8429-e7e349ad6c9b")
 	)
 	(wire
 		(pts
@@ -4789,7 +4809,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 115.57 77.47 270)
+		(at 120.65 77.47 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4799,7 +4819,7 @@
 		(fields_autoplaced yes)
 		(uuid "6dfc1f62-bb2f-4e37-a69f-2b2cb8cd3ac9")
 		(property "Reference" "#PWR014"
-			(at 111.76 77.47 0)
+			(at 116.84 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4808,7 +4828,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 119.38 77.4699 90)
+			(at 124.46 77.4699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4817,7 +4837,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 115.57 77.47 0)
+			(at 120.65 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4826,7 +4846,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 77.47 0)
+			(at 120.65 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4835,7 +4855,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 115.57 77.47 0)
+			(at 120.65 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6077,7 +6097,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 92.71 77.47 90)
+		(at 86.36 77.47 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6087,7 +6107,7 @@
 		(fields_autoplaced yes)
 		(uuid "c6b0a4cd-b349-413b-8ae4-ab899fbd4962")
 		(property "Reference" "#PWR04"
-			(at 96.52 77.47 0)
+			(at 90.17 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6096,7 +6116,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 88.9 77.4699 90)
+			(at 82.55 77.4699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6105,7 +6125,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 92.71 77.47 0)
+			(at 86.36 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6114,7 +6134,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 92.71 77.47 0)
+			(at 86.36 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6123,7 +6143,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 92.71 77.47 0)
+			(at 86.36 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)

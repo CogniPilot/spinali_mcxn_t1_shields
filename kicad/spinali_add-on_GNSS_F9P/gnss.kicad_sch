@@ -4878,6 +4878,16 @@
 	)
 	(wire
 		(pts
+			(xy 236.22 68.58) (xy 236.22 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0081b34c-1c14-4a3b-a9fe-76fdf7c710ad")
+	)
+	(wire
+		(pts
 			(xy 101.6 36.83) (xy 104.14 36.83)
 		)
 		(stroke
@@ -5815,6 +5825,16 @@
 			(type default)
 		)
 		(uuid "6efb0b1e-f005-42b0-84fc-31fa899e9d09")
+	)
+	(wire
+		(pts
+			(xy 248.92 68.58) (xy 248.92 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ff40e2e-6cba-405f-a223-338c823ece5d")
 	)
 	(wire
 		(pts
@@ -9248,6 +9268,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 166.37 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3db0e806-1a72-4785-8c83-b0a8cf334cdc")
+		(property "Reference" "C18"
+			(at 170.18 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF 10V"
+			(at 170.18 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 167.3352 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 166.37 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 166.37 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "016628ef-175e-4aa0-9c5e-f67b2e8579e1")
+		)
+		(pin "2"
+			(uuid "858db2ed-1c21-4145-8e2e-db5a0089c128")
+		)
+		(instances
+			(project "spinali_add-on_GNSS_F9P"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
+					(reference "C18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 152.4 96.52 0)
 		(unit 1)
@@ -11672,7 +11762,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 236.22 72.39 0)
+		(at 236.22 68.58 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11682,7 +11772,7 @@
 		(fields_autoplaced yes)
 		(uuid "7d9549b4-e2a3-46c2-929a-5bbb488be7c5")
 		(property "Reference" "#PWR090"
-			(at 236.22 76.2 0)
+			(at 236.22 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11691,7 +11781,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 236.22 67.31 0)
+			(at 236.22 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11699,7 +11789,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 236.22 72.39 0)
+			(at 236.22 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11708,7 +11798,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 72.39 0)
+			(at 236.22 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11717,7 +11807,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 236.22 72.39 0)
+			(at 236.22 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15599,7 +15689,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 248.92 72.39 0)
+		(at 248.92 68.58 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15609,7 +15699,7 @@
 		(fields_autoplaced yes)
 		(uuid "ee6b1ed5-5faa-4829-bdc7-1024cb75b610")
 		(property "Reference" "#PWR091"
-			(at 248.92 76.2 0)
+			(at 248.92 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15618,7 +15708,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 248.92 67.31 0)
+			(at 248.92 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15626,7 +15716,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 248.92 72.39 0)
+			(at 248.92 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15635,7 +15725,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 248.92 72.39 0)
+			(at 248.92 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15644,7 +15734,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 248.92 72.39 0)
+			(at 248.92 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
