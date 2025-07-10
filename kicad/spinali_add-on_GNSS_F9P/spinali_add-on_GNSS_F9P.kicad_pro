@@ -32,8 +32,8 @@
         "fab_text_upright": false,
         "other_line_width": 0.1,
         "other_text_italic": false,
-        "other_text_size_h": 1.0,
-        "other_text_size_v": 1.0,
+        "other_text_size_h": 0.8,
+        "other_text_size_v": 0.8,
         "other_text_thickness": 0.1,
         "other_text_upright": false,
         "pads": {
