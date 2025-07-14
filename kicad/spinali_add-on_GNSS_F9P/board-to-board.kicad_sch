@@ -2422,7 +2422,7 @@
 			)
 		)
 	)
-	(global_label "P3_9{slash}SmartDMA_PIO9"
+	(global_label "P3_9{slash}SmartDMA_PIO9{slash}GPSFIX"
 		(shape bidirectional)
 		(at 180.34 80.01 180)
 		(fields_autoplaced yes)
@@ -2434,7 +2434,7 @@
 		)
 		(uuid "1b27e659-99d7-481e-90eb-fc29f738c361")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 155.5003 80.01 0)
+			(at 147.5174 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)

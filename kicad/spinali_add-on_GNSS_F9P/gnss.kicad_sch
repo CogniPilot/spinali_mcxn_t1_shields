@@ -4582,9 +4582,9 @@
 		)
 		(uuid "38c65bd4-c149-44bf-ad2b-5c28a8eaf0bc")
 	)
-	(text "Check V_BCKP current when battery not present"
+	(text "NB I_BCKP is only 45uA"
 		(exclude_from_sim no)
-		(at 128.524 67.31 0)
+		(at 138.43 70.104 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4602,6 +4602,17 @@
 		)
 		(uuid "b87c4854-bde7-4333-84c6-41afcd369c8c")
 	)
+	(text "Datasheet suggests 7K/15K typ/30K"
+		(exclude_from_sim no)
+		(at 272.796 75.946 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 255 1)
+			)
+		)
+		(uuid "ba97b40d-2a44-4a48-baf0-100852e2430e")
+	)
 	(text "User Switches\n"
 		(exclude_from_sim no)
 		(at 303.53 151.384 0)
@@ -4615,6 +4626,28 @@
 		)
 		(uuid "c54993ab-5ccb-46d6-bad2-3727bbb3fd3c")
 	)
+	(text "Need to connect to header\n"
+		(exclude_from_sim no)
+		(at 376.174 37.084 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 255 1)
+			)
+		)
+		(uuid "d6667255-935b-476b-b83f-3d504761f7e0")
+	)
+	(text "4mA Limit"
+		(exclude_from_sim no)
+		(at 395.224 89.154 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 255 1)
+			)
+		)
+		(uuid "d6678f9f-09c4-4505-a401-45dbb5f5054a")
+	)
 	(text "Enable USB only \nwhen board is powered"
 		(exclude_from_sim no)
 		(at 110.744 159.766 0)
@@ -4627,7 +4660,7 @@
 	)
 	(text "Change to side button"
 		(exclude_from_sim no)
-		(at 381.508 151.892 0)
+		(at 295.148 160.274 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4647,6 +4680,17 @@
 			(justify left)
 		)
 		(uuid "eeef9a0a-84d9-4855-8cdc-b0c2acde23e1")
+	)
+	(text "Double check resistor and LED Vf"
+		(exclude_from_sim no)
+		(at 362.966 96.774 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 255 1)
+			)
+		)
+		(uuid "f8d220db-d4af-40b3-9334-682827b4f092")
 	)
 	(junction
 		(at 121.92 34.29)
@@ -5443,6 +5487,16 @@
 			(type default)
 		)
 		(uuid "4499de87-c1d8-49e0-b318-f17b2000ca9c")
+	)
+	(wire
+		(pts
+			(xy 370.84 40.64) (xy 382.27 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4747eeab-0419-400b-935a-4535068748e3")
 	)
 	(wire
 		(pts
@@ -6696,16 +6750,6 @@
 	)
 	(wire
 		(pts
-			(xy 372.11 40.64) (xy 382.27 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec322c0e-8975-492c-9b59-de311c86ac0c")
-	)
-	(wire
-		(pts
 			(xy 119.38 86.36) (xy 119.38 85.09)
 		)
 		(stroke
@@ -7186,6 +7230,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "P3_9{slash}SmartDMA_PIO9{slash}GPSFIX"
+		(shape bidirectional)
+		(at 370.84 40.64 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3c821a22-479e-48e8-88d2-c7b553b0bbbf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 338.0174 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
