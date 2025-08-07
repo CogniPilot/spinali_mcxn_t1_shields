@@ -583,7 +583,7 @@
           "group_by": false,
           "label": "JLCPCB",
           "name": "JLCPCB",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -595,7 +595,7 @@
           "group_by": false,
           "label": "Codico",
           "name": "Codico",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
