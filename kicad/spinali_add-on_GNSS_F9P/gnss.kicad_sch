@@ -4658,9 +4658,9 @@
 		)
 		(uuid "eac2faa6-21f5-4614-a131-fc9d39add284")
 	)
-	(text "Change to side button"
+	(text "Changed to side button: Panasonic EVQ-PUC02K"
 		(exclude_from_sim no)
-		(at 295.148 160.274 0)
+		(at 327.914 154.94 0)
 		(effects
 			(font
 				(size 1.27 1.27)
