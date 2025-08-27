@@ -1564,6 +1564,18 @@
 			(embedded_fonts no)
 		)
 	)
+	(circle
+		(center 124.46 78.74)
+		(radius 10.8509)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 152755eb-3d43-4915-ae92-50e625cae158)
+	)
 	(text "300mA max per pin\n5V = 1A max\n3V3 = 500mA max\n1V8 = 200mA max"
 		(exclude_from_sim no)
 		(at 142.24 51.816 0)
@@ -1587,7 +1599,7 @@
 		(uuid "71ab3e67-8a53-499d-82c9-5a1a226b4d16")
 	)
 	(junction
-		(at 111.76 80.01)
+		(at 116.84 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f2837cba-c479-4cd7-bded-815e09d2d718")
@@ -1634,7 +1646,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 80.01) (xy 111.76 80.01)
+			(xy 119.38 80.01) (xy 116.84 80.01)
 		)
 		(stroke
 			(width 0)
@@ -1734,7 +1746,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 78.74) (xy 111.76 80.01)
+			(xy 116.84 78.74) (xy 116.84 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2464,16 +2476,6 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 80.01) (xy 111.76 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa525a26-10df-43ce-bb5c-6ba75caa9ca4")
-	)
-	(wire
-		(pts
 			(xy 68.58 92.71) (xy 73.66 92.71)
 		)
 		(stroke
@@ -2681,6 +2683,16 @@
 			(type default)
 		)
 		(uuid "fa6c9b3f-0008-495e-af11-e1a0f3b465cf")
+	)
+	(wire
+		(pts
+			(xy 96.52 80.01) (xy 116.84 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcafdbf8-ba56-41af-8f9b-13a9b4a13cdb")
 	)
 	(global_label "ANA_6{slash}DAC2_OUT"
 		(shape bidirectional)
@@ -3168,7 +3180,7 @@
 	)
 	(global_label "VDD_BAT"
 		(shape bidirectional)
-		(at 114.3 80.01 0)
+		(at 119.38 80.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3178,7 +3190,7 @@
 		)
 		(uuid "6ec00aad-11cb-48a4-8178-7fdbf8983c7e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 126.3189 80.01 0)
+			(at 131.3989 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4366,17 +4378,16 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 111.76 78.74 0)
+		(at 116.84 78.74 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "21e0e9c2-1ce1-4205-8124-a949b335110f")
 		(property "Reference" "#PWR024"
-			(at 111.76 82.55 0)
+			(at 116.84 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4385,7 +4396,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 111.76 73.66 0)
+			(at 120.396 77.216 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4393,7 +4404,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 111.76 78.74 0)
+			(at 116.84 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4402,7 +4413,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 111.76 78.74 0)
+			(at 116.84 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4411,7 +4422,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 111.76 78.74 0)
+			(at 116.84 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5181,7 +5192,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6dfc1f62-bb2f-4e37-a69f-2b2cb8cd3ac9")
 		(property "Reference" "#PWR014"
 			(at 100.33 77.47 0)
@@ -5193,7 +5203,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 107.95 77.4699 90)
+			(at 107.442 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)

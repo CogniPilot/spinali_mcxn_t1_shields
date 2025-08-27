@@ -2277,16 +2277,6 @@
 		)
 		(uuid "fa7b1a5f-69d8-4429-b467-87cad1218835")
 	)
-	(label "+3V3"
-		(at 142.24 33.02 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "42f48595-f324-4cc9-9ba0-596c1b853115")
-	)
 	(global_label "P1_8{slash}I3C1_SDA{slash}FC4_P0"
 		(shape bidirectional)
 		(at 86.36 88.9 180)
