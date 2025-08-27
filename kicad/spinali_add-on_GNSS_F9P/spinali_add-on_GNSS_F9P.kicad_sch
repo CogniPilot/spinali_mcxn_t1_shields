@@ -6,14 +6,24 @@
 	(paper "A4")
 	(title_block
 		(title "MR-MCXN-T1-F9P")
-		(date "2025-06-23")
-		(rev "X0")
+		(date "2025-08-27")
+		(rev "X1")
 		(company "NXP SEMICONDUCTORS B.V.")
 		(comment 1 "CLASSIFICATION: INTERNAL USE ONLY")
-		(comment 3 "DESIGNER: YOURI TILS")
+		(comment 3 "DESIGNER: YOURI TILS, Iain Galloway")
 		(comment 4 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
 	)
 	(lib_symbols)
+	(text "Ublox F9P RTK GPS/GNSS module w/PNI Magnetometer"
+		(exclude_from_sim no)
+		(at 145.288 104.648 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "86ba24cf-98e0-480f-a889-0a00fb797c87")
+	)
 	(text "${TITLE}"
 		(exclude_from_sim no)
 		(at 150.114 92.456 0)

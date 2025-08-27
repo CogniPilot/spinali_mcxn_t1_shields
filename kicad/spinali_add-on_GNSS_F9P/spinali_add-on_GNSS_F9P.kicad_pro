@@ -587,8 +587,8 @@
     },
     "netclass_patterns": [
       {
-        "netclass": "Default",
-        "pattern": ""
+        "netclass": "PWR",
+        "pattern": "VBUS_IN"
       },
       {
         "netclass": "PWR",
@@ -613,6 +613,18 @@
       {
         "netclass": "GND",
         "pattern": "GND"
+      },
+      {
+        "netclass": "PWR",
+        "pattern": "VBUS"
+      },
+      {
+        "netclass": "PWR",
+        "pattern": "/GNSS/VBUS-IN"
+      },
+      {
+        "netclass": "PWR",
+        "pattern": "/GNSS/V_BACKUP"
       }
     ]
   },
