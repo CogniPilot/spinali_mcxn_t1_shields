@@ -7702,7 +7702,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "AC0402FR-075K1L"
+		(property "MFPN" "RC0402FR-075K1L"
 			(at 74.93 198.12 0)
 			(effects
 				(font
@@ -8202,6 +8202,30 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "311-100KLRCT-ND"
+			(at 157.48 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 157.48 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "RC0402FR-07100KL"
+			(at 157.48 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "78a7dce7-4384-443a-9c73-b19fb9cc9351")
 		)
@@ -8693,7 +8717,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" ""
+		(property "MF" "Amphenol"
 			(at 88.9 82.55 0)
 			(effects
 				(font
@@ -8702,7 +8726,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" ""
+		(property "MFPN" "132134-10"
 			(at 88.9 82.55 0)
 			(effects
 				(font
@@ -8711,7 +8735,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "132134-10"
 			(at 88.9 82.55 0)
 			(effects
 				(font
@@ -9425,6 +9449,30 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "455-SM02B-SRSS-TBCT-ND"
+			(at 119.38 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "JST"
+			(at 119.38 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "  SM02B-SRSS-TB"
+			(at 119.38 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fb3890ec-ef75-49f8-9f1e-745dc3e719bc")
 		)
@@ -9671,6 +9719,30 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "311-10.0KLRCT-ND"
+			(at 375.92 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 375.92 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "RC0402FR-0710KL"
+			(at 375.92 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "92e48262-6d69-4663-89e2-0f2296a7d2c7")
 		)
@@ -9869,6 +9941,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DigiKey" "455-1568-1-ND"
+			(at 394.97 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "JST"
+			(at 394.97 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "SM06B-GHS-TB"
+			(at 394.97 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "5"
@@ -11040,7 +11136,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" ""
+		(property "MFPN" "RC0402FR-074K7L"
 			(at 236.22 76.2 0)
 			(effects
 				(font
@@ -11117,7 +11213,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "u-blox"
+		(property "MF" "UBLOX"
 			(at 195.58 118.618 0)
 			(effects
 				(font
@@ -12558,7 +12654,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" ""
+		(property "MFPN" "RC0402FR-074K7L"
 			(at 248.92 76.2 0)
 			(effects
 				(font
@@ -13215,6 +13311,30 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "P10853SCT-ND"
+			(at 340.36 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "PANASONIC"
+			(at 340.36 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "EVQ-PUL02K"
+			(at 340.36 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "521ab9a2-c303-43ec-be9c-cb7ca5603cce")
 		)
@@ -13292,7 +13412,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "AC0402FR-075K1L"
+		(property "MFPN" "RC0402FR-075K1L"
 			(at 74.93 200.66 0)
 			(effects
 				(font
@@ -14024,7 +14144,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "  APG1005SEC/E-T"
+		(property "MFPN" "APG1005SEC/E-T"
 			(at 365.506 120.65 0)
 			(effects
 				(font
@@ -14395,6 +14515,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DigiKey" "P10853SCT-ND"
+			(at 388.62 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "PANASONIC"
+			(at 388.62 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "EVQ-PUL02K"
+			(at 388.62 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -15849,6 +15993,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DigiKey" "311-10.0KLRCT-ND"
+			(at 327.66 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "YAGEO"
+			(at 327.66 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "RC0402FR-0710KL"
+			(at 327.66 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"

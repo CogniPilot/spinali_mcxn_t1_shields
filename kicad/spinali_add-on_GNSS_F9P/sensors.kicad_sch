@@ -2934,13 +2934,21 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "PN13104"
+		(property "MF" "PNI"
 			(at 190.5 97.282 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MFPN" "PN13104"
+			(at 190.5 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -3439,13 +3447,21 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "PN13104"
+		(property "MF" "PNI"
 			(at 190.5 79.502 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MFPN" "PN13104"
+			(at 190.5 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -4194,13 +4210,21 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "PN13101"
+		(property "MF" "PNI"
 			(at 190.5 115.062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MFPN" "PN13101"
+			(at 190.5 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4291,7 +4315,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" ""
+		(property "MFPN" "RC0402FR-074K7L"
 			(at 104.14 81.28 0)
 			(effects
 				(font
@@ -4368,13 +4392,21 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "PN13156"
+		(property "MF" "PNI"
 			(at 158.75 112.268 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MFPN" "PN13156"
+			(at 158.75 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "27"
@@ -4640,7 +4672,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" ""
+		(property "MFPN" "RC0402FR-074K7L"
 			(at 91.44 81.28 0)
 			(effects
 				(font
