@@ -7,6 +7,13 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "MR-MCXN-T1-F9P")
+		(date "2025-08-28")
+		(rev "${Rev}")
+		(company "NXP Semiconductors")
+		(comment 1 "Youri Tils, Iain Galloway")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(4 "In1.Cu" signal)
@@ -105,6 +112,7 @@
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
+		(grid_origin 120 95)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -146,6 +154,7 @@
 			(outputdirectory "")
 		)
 	)
+	(property "Rev" "X1")
 	(net 0 "")
 	(net 1 "GND")
 	(net 2 "+5V")
@@ -8249,7 +8258,7 @@
 			(at 0 -3.8 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "14b16a18-eed7-4463-bb7e-ec2e7cbb9fbd")
+			(uuid "b97dd9a3-0ea8-4b1e-b671-13da30df2aa4")
 			(effects
 				(font
 					(size 1 1)
@@ -8260,7 +8269,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.8 0)
 			(layer "F.Fab")
-			(uuid "87681d06-6bcf-4a56-b71e-a58eaae6cfdf")
+			(uuid "d194b266-5fc4-414f-9379-8710b7c87800")
 			(effects
 				(font
 					(size 1 1)
@@ -8273,7 +8282,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "42caa788-2e4f-4f09-bb70-fc58595d76a7")
+			(uuid "f7e3b448-7a1f-4d39-9a18-f149839d221b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8286,7 +8295,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2205e349-c616-44b5-a59a-30d8916da5de")
+			(uuid "ad15ff2e-f2d5-4662-8dc5-9e73620e72ab")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15081,7 +15090,7 @@
 			(net 115 "Net-(USB1-SHIELD)")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "036ca6b3-460e-4657-bb46-1cc8fd454023")
+			(uuid "a0ea1c26-538d-4908-a9c7-090e8689c056")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 -3.105 270)
@@ -15098,7 +15107,7 @@
 			(net 115 "Net-(USB1-SHIELD)")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "036ca6b3-460e-4657-bb46-1cc8fd454023")
+			(uuid "e1998d46-6d23-438b-8b43-97c7c4e39bd3")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 1.075 270)
@@ -15115,7 +15124,7 @@
 			(net 115 "Net-(USB1-SHIELD)")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "036ca6b3-460e-4657-bb46-1cc8fd454023")
+			(uuid "99e39e92-5703-4fdf-8ace-1502aab8a608")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.wrl"
@@ -24945,6 +24954,18 @@
 				(thickness 0.15)
 			)
 			(justify bottom)
+		)
+	)
+	(gr_text "Rev ${REVISION} / ${Rev}"
+		(at 144.8 94.9 0)
+		(layer "B.SilkS")
+		(uuid "644ab7af-0d13-4b87-93eb-88ba4d842f34")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(segment

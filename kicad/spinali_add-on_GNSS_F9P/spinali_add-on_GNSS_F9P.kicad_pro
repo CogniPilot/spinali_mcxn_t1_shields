@@ -803,5 +803,7 @@
       "GNSS"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "Rev": "X1"
+  }
 }

@@ -1449,7 +1449,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Consider adding second BMM350 to the design (or two instead of PN13156"
+	(text "Consider ALterntive: add second BMM350 to the design (or two instead of PN13156)"
 		(exclude_from_sim no)
 		(at 221.234 47.244 0)
 		(effects
@@ -1462,7 +1462,7 @@
 		)
 		(uuid "2b4565b9-35f5-4642-a9d8-1ac60dbec624")
 	)
-	(text "This +3v3 is showing named as VDD_BAT and is NOT connected to the LDO on the next page"
+	(text "This +3v3 is named as VDD_BAT and is NOT connected to the LDO (GPS3v3) on the next page"
 		(exclude_from_sim no)
 		(at 125.73 23.368 0)
 		(effects
