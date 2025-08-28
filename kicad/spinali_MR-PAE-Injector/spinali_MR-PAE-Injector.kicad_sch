@@ -9,8 +9,8 @@
 		(date "2025-08-28")
 		(rev "X0")
 		(company "NXP SEMICONDUCTORS B.V.")
-		(comment 1 "Ethernet Adjacent Power Adapter")
-		(comment 3 "DESIGNER: Iain Galloway")
+		(comment 1 "Power Adjacent Ethernet Injector")
+		(comment 3 "DESIGNER: Iain Galloway, Ref:Youri Tils")
 		(comment 4 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
 	)
 	(lib_symbols)
@@ -35,48 +35,6 @@
 			)
 		)
 		(uuid "c7daae81-4b6d-4b02-8706-d9b961b70b9c")
-	)
-	(sheet
-		(at 50.8 133.35)
-		(size 35.56 6.35)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "5b2f2eb1-ec9a-4977-b66a-684a4396148d")
-		(property "Sheetname" "EAP Untitled Sheet"
-			(at 50.8 132.6384 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "untitled.kicad_sch"
-			(at 50.8 140.2846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "spinali_MR-T1-EAP-Adapter"
-				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db"
-					(page "5")
-				)
-			)
-		)
 	)
 	(sheet
 		(at 50.8 115.57)
@@ -113,51 +71,9 @@
 			)
 		)
 		(instances
-			(project "spinali_MR-T1-EAP-Adapter"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db"
 					(page "7")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 50.8 90.17)
-		(size 40.64 5.08)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "cb14c3cb-ad07-49c0-85e6-22786ebb10ed")
-		(property "Sheetname" "EAP Power"
-			(at 50.8 89.4584 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "mcu_usb_power.kicad_sch"
-			(at 50.8 95.8346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "spinali_MR-T1-EAP-Adapter"
-				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db"
-					(page "5")
 				)
 			)
 		)
@@ -197,7 +113,7 @@
 			)
 		)
 		(instances
-			(project "spinali_MR-T1-EAP-Adapter"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db"
 					(page "2")
 				)
