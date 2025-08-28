@@ -2637,6 +2637,30 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "490-GRM188Z71A106KA73DCT-ND"
+			(at 87.63 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "Murata Electronics"
+			(at 87.63 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "GRM188Z71A106KA73D"
+			(at 87.63 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8d6f908e-6a6e-4e7c-9c9e-c32f3783d5eb")
 		)
@@ -3534,6 +3558,30 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "399-C0603C104K8RACTUCT-ND"
+			(at 143.51 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "KEMET"
+			(at 143.51 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "C0603C104K8RACTU"
+			(at 143.51 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7237c31c-090d-48af-a6c8-1545ddbea3a7")
 		)
@@ -3831,6 +3879,30 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "399-C0603C104K8RACTUCT-ND"
+			(at 105.41 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "KEMET"
+			(at 105.41 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "C0603C104K8RACTU"
+			(at 105.41 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "00ebfc01-3aad-4407-a32b-d2f4d943005e")
 		)
@@ -4032,6 +4104,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DigiKey" "399-C0603C104K8RACTUCT-ND"
+			(at 124.46 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "KEMET"
+			(at 124.46 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "C0603C104K8RACTU"
+			(at 124.46 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4306,7 +4402,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-4.7KLRCT-ND"
 			(at 104.14 81.28 0)
 			(effects
 				(font
@@ -4663,7 +4759,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-4.7KLRCT-ND"
 			(at 91.44 81.28 0)
 			(effects
 				(font

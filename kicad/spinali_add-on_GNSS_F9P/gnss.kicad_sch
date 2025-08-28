@@ -8062,6 +8062,30 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "399-C0603C104K8RACTUCT-ND"
+			(at 130.81 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "KEMET"
+			(at 130.81 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "C0603C104K8RACTU"
+			(at 130.81 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6539dfff-f249-4e97-be0a-24e47fcdbd5e")
 		)
@@ -8130,6 +8154,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DigiKey" "732-7764-1-ND"
+			(at 81.28 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "Würth Elektronik"
+			(at 81.28 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "885012006021"
+			(at 81.28 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -8648,6 +8696,30 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "490-1543-1-ND"
+			(at 132.08 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "Murata Electronics"
+			(at 132.08 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "GRM188R61A105KA61D"
+			(at 132.08 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "194c7911-8413-45a8-9d8d-cedd8c8897b8")
 		)
@@ -9101,6 +9173,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DigiKey" "399-C0603C104K8RACTUCT-ND"
+			(at 179.07 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "KEMET"
+			(at 179.07 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "C0603C104K8RACTU"
+			(at 179.07 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11127,7 +11223,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-4.7KLRCT-ND"
 			(at 236.22 76.2 0)
 			(effects
 				(font
@@ -11238,6 +11334,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DigiKey" "672-NEO-F9P-15BCT-ND"
+			(at 172.72 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "7"
@@ -12500,6 +12604,30 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "732-7764-1-ND"
+			(at 59.69 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "Würth Elektronik"
+			(at 59.69 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "885012006021"
+			(at 59.69 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cdc89d5a-685f-42b6-92a4-0f75d2d7fd4d")
 		)
@@ -12645,7 +12773,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "311-4.7KLRCT-ND"
 			(at 248.92 76.2 0)
 			(effects
 				(font
@@ -13043,6 +13171,30 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "490-1543-1-ND"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "Murata Electronics"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "GRM188R61A105KA61D"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fc8b7595-b5da-4d47-b0bb-24ba718be9e2")
 		)
@@ -13241,6 +13393,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DigiKey" "490-1543-1-ND"
+			(at 91.44 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "Murata Electronics"
+			(at 91.44 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "GRM188R61A105KA61D"
+			(at 91.44 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -13672,6 +13848,30 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "399-C0603C104K8RACTUCT-ND"
+			(at 375.92 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "KEMET"
+			(at 375.92 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "C0603C104K8RACTU"
+			(at 375.92 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b4a5e510-2ed6-4f3a-81a7-112f501333e9")
 		)
@@ -13760,6 +13960,14 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "490-4516-1-ND"
+			(at 35.56 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8ebbae3e-6680-413e-8311-9502c91bb587")
 		)
@@ -13828,6 +14036,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DigiKey" "399-C0603C104K8RACTUCT-ND"
+			(at 327.66 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "KEMET"
+			(at 327.66 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "C0603C104K8RACTU"
+			(at 327.66 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -14611,6 +14843,30 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "399-C0603C104K8RACTUCT-ND"
+			(at 121.92 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "KEMET"
+			(at 121.92 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "C0603C104K8RACTU"
+			(at 121.92 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "81db206a-6d13-4c3f-9090-3fd1946d234c")
 		)
@@ -15130,6 +15386,30 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "490-1543-1-ND"
+			(at 101.6 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "Murata Electronics"
+			(at 101.6 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "GRM188R61A105KA61D"
+			(at 101.6 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c700f9bf-c055-408e-8a1a-aca0861505b0")
 		)
@@ -15589,7 +15869,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "  VSKY05301006-G4-08"
+		(property "MFPN" "VSKY05301006-G4-08"
 			(at 119.38 63.5 90)
 			(effects
 				(font
@@ -15923,6 +16203,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "DigiKey" "490-1543-1-ND"
+			(at 148.59 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "Murata Electronics"
+			(at 148.59 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFPN" "GRM188R61A105KA61D"
+			(at 148.59 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"

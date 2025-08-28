@@ -1586,6 +1586,16 @@
 		)
 		(uuid "6742352d-e5cb-4936-bf80-5641955112ab")
 	)
+	(text "NOTE: ToDo Cognipilot Logo on board should get a matching symbol on schematic"
+		(exclude_from_sim no)
+		(at 227.33 158.496 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e1f62514-73c3-444b-9a7f-c9ad32648e9f")
+	)
 	(junction
 		(at 100.33 82.55)
 		(diameter 0)
