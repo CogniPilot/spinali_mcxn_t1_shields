@@ -6,11 +6,11 @@
 	(paper "A3")
 	(title_block
 		(title "MR-MCXN-T1-F9P")
-		(date "2025-08-27")
+		(date "2025-06-23")
 		(rev "X0")
 		(company "NXP SEMICONDUCTORS B.V.")
 		(comment 1 "CLASSIFICATION: INTERNAL USE ONLY")
-		(comment 3 "DESIGNER: YOURI TILS, Iain Galloway")
+		(comment 3 "DESIGNER: YOURI TILS")
 		(comment 4 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
 	)
 	(lib_symbols
@@ -4450,12 +4450,6 @@
 		(uuid "125ecde3-a5de-4756-a3f6-1ba1334c3fd8")
 	)
 	(junction
-		(at 101.6 176.53)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "141e0140-f978-4ea9-9d19-42275c929b85")
-	)
-	(junction
 		(at 81.28 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4653,16 +4647,6 @@
 	)
 	(wire
 		(pts
-			(xy 388.62 123.19) (xy 388.62 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "02146e9d-43f0-46ba-a101-c81cf6cc1246")
-	)
-	(wire
-		(pts
 			(xy 101.6 36.83) (xy 104.14 36.83)
 		)
 		(stroke
@@ -4743,7 +4727,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 210.82) (xy 93.98 210.82)
+			(xy 69.85 210.82) (xy 96.52 210.82)
 		)
 		(stroke
 			(width 0)
@@ -4783,16 +4767,6 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 186.69) (xy 82.55 185.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12a31cff-355d-402a-b613-ee01cbe0903e")
-	)
-	(wire
-		(pts
 			(xy 171.45 114.3) (xy 172.72 114.3)
 		)
 		(stroke
@@ -4810,6 +4784,16 @@
 			(type default)
 		)
 		(uuid "15db4c68-dd2f-41a4-a344-f88755bf0de7")
+	)
+	(wire
+		(pts
+			(xy 105.41 208.28) (xy 100.33 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1687bd4a-c198-4041-b1c7-921393479a86")
 	)
 	(wire
 		(pts
@@ -4883,23 +4867,13 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 208.28) (xy 96.52 207.01)
+			(xy 100.33 208.28) (xy 100.33 207.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "1f7dfcce-562a-4c5a-96d6-33107935e2a0")
-	)
-	(wire
-		(pts
-			(xy 101.6 176.53) (xy 113.03 176.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "205c75a8-9551-47fe-8007-c83962ee5b93")
 	)
 	(wire
 		(pts
@@ -5073,16 +5047,6 @@
 	)
 	(wire
 		(pts
-			(xy 382.27 73.66) (xy 382.27 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f2eff5d-e3b4-45b4-bdbd-be6b9752ef68")
-	)
-	(wire
-		(pts
 			(xy 382.27 40.64) (xy 382.27 53.34)
 		)
 		(stroke
@@ -5133,7 +5097,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 208.28) (xy 95.25 208.28)
+			(xy 69.85 208.28) (xy 99.06 208.28)
 		)
 		(stroke
 			(width 0)
@@ -5313,26 +5277,6 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 210.82) (xy 105.41 210.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51a53cd5-5c5a-40d1-aff1-3d2fa79365a7")
-	)
-	(wire
-		(pts
-			(xy 101.6 176.53) (xy 101.6 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52b4082e-7f55-4698-a4a9-cf82d7acc443")
-	)
-	(wire
-		(pts
 			(xy 80.01 199.39) (xy 81.28 199.39)
 		)
 		(stroke
@@ -5400,16 +5344,6 @@
 			(type default)
 		)
 		(uuid "56ae5837-efef-423b-b9ba-097585804935")
-	)
-	(wire
-		(pts
-			(xy 354.33 123.19) (xy 354.33 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "577cf3b3-ed70-4f89-8132-86ea0d52b78c")
 	)
 	(wire
 		(pts
@@ -5683,7 +5617,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 207.01) (xy 93.98 207.01)
+			(xy 100.33 207.01) (xy 96.52 207.01)
 		)
 		(stroke
 			(width 0)
@@ -5790,6 +5724,16 @@
 			(type default)
 		)
 		(uuid "8cd14279-6bcb-4a92-bf93-bedf160bd6d7")
+	)
+	(wire
+		(pts
+			(xy 105.41 210.82) (xy 99.06 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d04cf34-7c72-4098-b4b0-60f7a6b558df")
 	)
 	(wire
 		(pts
@@ -5923,7 +5867,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 207.01) (xy 93.98 210.82)
+			(xy 96.52 207.01) (xy 96.52 210.82)
 		)
 		(stroke
 			(width 0)
@@ -5980,16 +5924,6 @@
 			(type default)
 		)
 		(uuid "ae0355d0-748d-4085-9bb2-4dccd51213ce")
-	)
-	(wire
-		(pts
-			(xy 53.34 236.22) (xy 53.34 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ae87a139-32c7-4783-be1c-e819b5e8d321")
 	)
 	(wire
 		(pts
@@ -6060,16 +5994,6 @@
 			(type default)
 		)
 		(uuid "b874b088-5c46-4518-b7da-dc8d1af5737d")
-	)
-	(wire
-		(pts
-			(xy 101.6 185.42) (xy 101.6 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b8b69017-2f98-4fd5-b78f-a51f6a1aa02d")
 	)
 	(wire
 		(pts
@@ -6323,7 +6247,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 210.82) (xy 95.25 208.28)
+			(xy 99.06 210.82) (xy 99.06 208.28)
 		)
 		(stroke
 			(width 0)
@@ -6523,6 +6447,16 @@
 	)
 	(wire
 		(pts
+			(xy 97.79 176.53) (xy 97.79 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f038a3de-fbda-48a9-b0e6-8920f7da7d64")
+	)
+	(wire
+		(pts
 			(xy 68.58 88.9) (xy 81.28 88.9)
 		)
 		(stroke
@@ -6593,7 +6527,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 176.53) (xy 101.6 176.53)
+			(xy 97.79 176.53) (xy 113.03 176.53)
 		)
 		(stroke
 			(width 0)
@@ -6610,16 +6544,6 @@
 			(type default)
 		)
 		(uuid "fe268408-345a-4417-8685-35234a02de11")
-	)
-	(wire
-		(pts
-			(xy 96.52 208.28) (xy 105.41 208.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe7a4e18-e4f8-45f8-8994-0eb3b8897165")
 	)
 	(wire
 		(pts
@@ -6661,7 +6585,7 @@
 		)
 		(uuid "00a2a5ef-28bf-4c4a-a655-ace06e1e9b46")
 	)
-	(label "GPS3.3V"
+	(label "3.3V"
 		(at 173.99 49.53 0)
 		(effects
 			(font
@@ -6691,7 +6615,7 @@
 		)
 		(uuid "1144476b-2df4-4844-9098-8043b567bfb2")
 	)
-	(label "GPS3.3V"
+	(label "3.3V"
 		(at 121.92 34.29 0)
 		(effects
 			(font
@@ -6701,7 +6625,7 @@
 		)
 		(uuid "14d2ceb9-3b6f-4683-b6f3-22bf3a2a2d41")
 	)
-	(label "GPS3.3V"
+	(label "3.3V"
 		(at 114.3 58.42 0)
 		(effects
 			(font
@@ -6711,7 +6635,7 @@
 		)
 		(uuid "19630eca-84f2-4b29-a95b-0f992dc65614")
 	)
-	(label "GPS3.3V"
+	(label "3.3V"
 		(at 147.32 81.28 0)
 		(effects
 			(font
@@ -6771,7 +6695,7 @@
 		)
 		(uuid "4b00c0db-1ae8-45c3-9234-e817ee40897e")
 	)
-	(label "GPS3.3V"
+	(label "3.3V"
 		(at 349.25 90.17 0)
 		(effects
 			(font
@@ -6792,7 +6716,7 @@
 		(uuid "5dd0f2cb-16bc-4902-8c73-1cdc7919ec1b")
 	)
 	(label "USB_D-"
-		(at 96.52 210.82 0)
+		(at 97.79 213.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6881,16 +6805,6 @@
 		)
 		(uuid "a7712c99-1bef-4d7b-bde9-7643b11e9a09")
 	)
-	(label "VBUS-IN"
-		(at 69.85 186.69 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c6adc8d4-55d5-4d38-89c0-5e7cf2f869c7")
-	)
 	(label "RF_IN"
 		(at 162.56 81.28 0)
 		(effects
@@ -6922,7 +6836,7 @@
 		(uuid "f79ec78e-4230-474a-86f6-0b5f2eb34596")
 	)
 	(label "USB_D+"
-		(at 96.52 208.28 0)
+		(at 97.79 207.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7271,7 +7185,7 @@
 			(justify left bottom)
 		)
 		(uuid "020b8147-db77-488e-b293-db3aa6efbedc")
-		(property "Netclass" "RF_50Ohm"
+		(property "Netclass" "RF_50_Ohm"
 			(at 69.2785 83.82 0)
 			(effects
 				(font
@@ -7302,7 +7216,7 @@
 			(justify left bottom)
 		)
 		(uuid "2bf5d099-71a5-4989-8d1f-ae60dc7cc8c8")
-		(property "Netclass" "RF_50Ohm"
+		(property "Netclass" "RF_50_Ohm"
 			(at 41.3385 83.82 0)
 			(effects
 				(font
@@ -7702,7 +7616,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "RC0402FR-075K1L"
+		(property "MFPN" "AC0402FR-075K1L"
 			(at 74.93 198.12 0)
 			(effects
 				(font
@@ -8062,30 +7976,6 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "399-C0603C104K8RACTUCT-ND"
-			(at 130.81 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "KEMET"
-			(at 130.81 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "C0603C104K8RACTU"
-			(at 130.81 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "6539dfff-f249-4e97-be0a-24e47fcdbd5e")
 		)
@@ -8156,30 +8046,6 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "732-7764-1-ND"
-			(at 81.28 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "Würth Elektronik"
-			(at 81.28 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "885012006021"
-			(at 81.28 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "7ee6597d-66ac-49be-9bd5-65791edd6baf")
 		)
@@ -8248,30 +8114,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "DigiKey" "311-100KLRCT-ND"
-			(at 157.48 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "YAGEO"
-			(at 157.48 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "RC0402FR-07100KL"
-			(at 157.48 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(pin "2"
@@ -8696,30 +8538,6 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "490-1543-1-ND"
-			(at 132.08 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "Murata Electronics"
-			(at 132.08 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "GRM188R61A105KA61D"
-			(at 132.08 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "194c7911-8413-45a8-9d8d-cedd8c8897b8")
 		)
@@ -8789,7 +8607,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Amphenol"
+		(property "MF" ""
 			(at 88.9 82.55 0)
 			(effects
 				(font
@@ -8798,7 +8616,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "132134-10"
+		(property "MFPN" ""
 			(at 88.9 82.55 0)
 			(effects
 				(font
@@ -8807,7 +8625,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "132134-10"
+		(property "DigiKey" ""
 			(at 88.9 82.55 0)
 			(effects
 				(font
@@ -8907,7 +8725,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 53.34 236.22 0)
+		(at 53.34 231.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8916,7 +8734,7 @@
 		(fields_autoplaced yes)
 		(uuid "3b99c14e-3c4a-4d2c-8789-19644b873734")
 		(property "Reference" "#PWR061"
-			(at 53.34 242.57 0)
+			(at 53.34 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8925,7 +8743,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 53.34 241.3 0)
+			(at 53.34 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8933,7 +8751,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 53.34 236.22 0)
+			(at 53.34 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8942,7 +8760,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 236.22 0)
+			(at 53.34 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8951,7 +8769,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 53.34 236.22 0)
+			(at 53.34 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9173,30 +8991,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "DigiKey" "399-C0603C104K8RACTUCT-ND"
-			(at 179.07 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "KEMET"
-			(at 179.07 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "C0603C104K8RACTU"
-			(at 179.07 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(pin "1"
@@ -9509,7 +9303,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GPS3.3V"
+		(property "Value" "3.3V"
 			(at 122.428 84.074 0)
 			(effects
 				(font
@@ -9543,30 +9337,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "DigiKey" "455-SM02B-SRSS-TBCT-ND"
-			(at 119.38 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "JST"
-			(at 119.38 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "  SM02B-SRSS-TB"
-			(at 119.38 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(pin "2"
@@ -9696,7 +9466,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 101.6 189.23 0)
+		(at 97.79 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9705,7 +9475,7 @@
 		(fields_autoplaced yes)
 		(uuid "45a6f40e-57f6-4b37-b032-2653ade06218")
 		(property "Reference" "#PWR071"
-			(at 101.6 195.58 0)
+			(at 97.79 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9714,7 +9484,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 101.6 194.31 0)
+			(at 97.79 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9722,7 +9492,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 101.6 189.23 0)
+			(at 97.79 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9731,7 +9501,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 189.23 0)
+			(at 97.79 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9740,7 +9510,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 101.6 189.23 0)
+			(at 97.79 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9815,30 +9585,6 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "311-10.0KLRCT-ND"
-			(at 375.92 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "YAGEO"
-			(at 375.92 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "RC0402FR-0710KL"
-			(at 375.92 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "92e48262-6d69-4663-89e2-0f2296a7d2c7")
 		)
@@ -9856,7 +9602,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 388.62 123.19 0)
+		(at 388.62 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9864,7 +9610,7 @@
 		(dnp no)
 		(uuid "48f4cf33-ec75-4d2e-807a-b3414a00e8a1")
 		(property "Reference" "#PWR0100"
-			(at 388.62 129.54 0)
+			(at 388.62 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9873,7 +9619,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 388.62 128.27 0)
+			(at 388.62 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9881,7 +9627,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 388.62 123.19 0)
+			(at 388.62 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9890,7 +9636,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 388.62 123.19 0)
+			(at 388.62 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9899,7 +9645,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 388.62 123.19 0)
+			(at 388.62 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10037,30 +9783,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "DigiKey" "455-1568-1-ND"
-			(at 394.97 227.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "JST"
-			(at 394.97 227.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "SM06B-GHS-TB"
-			(at 394.97 227.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(pin "5"
@@ -11223,7 +10945,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "311-4.7KLRCT-ND"
+		(property "DigiKey" ""
 			(at 236.22 76.2 0)
 			(effects
 				(font
@@ -11232,7 +10954,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "RC0402FR-074K7L"
+		(property "MFPN" ""
 			(at 236.22 76.2 0)
 			(effects
 				(font
@@ -11309,7 +11031,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "UBLOX"
+		(property "MF" "u-blox"
 			(at 195.58 118.618 0)
 			(effects
 				(font
@@ -11334,14 +11056,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "DigiKey" "672-NEO-F9P-15BCT-ND"
-			(at 172.72 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(pin "7"
@@ -12604,30 +12318,6 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "732-7764-1-ND"
-			(at 59.69 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "Würth Elektronik"
-			(at 59.69 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "885012006021"
-			(at 59.69 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "cdc89d5a-685f-42b6-92a4-0f75d2d7fd4d")
 		)
@@ -12773,7 +12463,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "311-4.7KLRCT-ND"
+		(property "DigiKey" ""
 			(at 248.92 76.2 0)
 			(effects
 				(font
@@ -12782,7 +12472,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "RC0402FR-074K7L"
+		(property "MFPN" ""
 			(at 248.92 76.2 0)
 			(effects
 				(font
@@ -12873,7 +12563,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 82.55 186.69 0)
+		(at 82.55 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12882,7 +12572,7 @@
 		(fields_autoplaced yes)
 		(uuid "a6bb8f7c-4c44-458f-bc08-68aae988dbc7")
 		(property "Reference" "#PWR065"
-			(at 82.55 193.04 0)
+			(at 82.55 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12891,7 +12581,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 82.55 191.77 0)
+			(at 82.55 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12899,7 +12589,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 82.55 186.69 0)
+			(at 82.55 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12908,7 +12598,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 82.55 186.69 0)
+			(at 82.55 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12917,7 +12607,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 82.55 186.69 0)
+			(at 82.55 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13053,7 +12743,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 382.27 73.66 0)
+		(at 382.27 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13061,7 +12751,7 @@
 		(dnp no)
 		(uuid "a9e58fc1-a12c-4bc8-8d80-906470038efb")
 		(property "Reference" "#PWR098"
-			(at 382.27 80.01 0)
+			(at 382.27 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13070,7 +12760,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 382.27 78.74 0)
+			(at 382.27 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13078,7 +12768,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 382.27 73.66 0)
+			(at 382.27 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13087,7 +12777,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 382.27 73.66 0)
+			(at 382.27 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13096,7 +12786,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 382.27 73.66 0)
+			(at 382.27 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13111,6 +12801,112 @@
 			(project "spinali_add-on_GNSS_F9P"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR098")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 97.79 181.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b63a5f89-a869-45b8-9bff-5f60a860176b")
+		(property "Reference" "C10"
+			(at 101.6 180.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF 10V"
+			(at 101.6 182.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 98.7552 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 97.79 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 97.79 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Murata Electronics"
+			(at 97.79 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFPN" "GRM155Z71A105KE01D"
+			(at 97.79 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB" "C528974"
+			(at 97.79 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "490-GRM155Z71A105KE01DCT-ND "
+			(at 97.79 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "501375bd-0035-4eed-b346-42c609fa38ae")
+		)
+		(pin "2"
+			(uuid "9fa64ac8-072b-4cc5-8bc9-44a4940cbde7")
+		)
+		(instances
+			(project "spinali_add-on_GNSS_F9P"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -13169,30 +12965,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "DigiKey" "490-1543-1-ND"
-			(at 139.7 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "Murata Electronics"
-			(at 139.7 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "GRM188R61A105KA61D"
-			(at 139.7 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(pin "1"
@@ -13395,30 +13167,6 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "490-1543-1-ND"
-			(at 91.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "Murata Electronics"
-			(at 91.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "GRM188R61A105KA61D"
-			(at 91.44 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "97257702-b3be-409d-812b-24720c2d3027")
 		)
@@ -13485,30 +13233,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "DigiKey" "P10853SCT-ND"
-			(at 340.36 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "PANASONIC"
-			(at 340.36 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "EVQ-PUL02K"
-			(at 340.36 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(pin "1"
@@ -13588,7 +13312,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "RC0402FR-075K1L"
+		(property "MFPN" "AC0402FR-075K1L"
 			(at 74.93 200.66 0)
 			(effects
 				(font
@@ -13848,30 +13572,6 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "399-C0603C104K8RACTUCT-ND"
-			(at 375.92 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "KEMET"
-			(at 375.92 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "C0603C104K8RACTU"
-			(at 375.92 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "b4a5e510-2ed6-4f3a-81a7-112f501333e9")
 		)
@@ -13960,14 +13660,6 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "490-4516-1-ND"
-			(at 35.56 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "8ebbae3e-6680-413e-8311-9502c91bb587")
 		)
@@ -14036,30 +13728,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "DigiKey" "399-C0603C104K8RACTUCT-ND"
-			(at 327.66 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "KEMET"
-			(at 327.66 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "C0603C104K8RACTU"
-			(at 327.66 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(pin "1"
@@ -14144,7 +13812,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 354.33 123.19 0)
+		(at 354.33 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14152,7 +13820,7 @@
 		(dnp no)
 		(uuid "cb5ec0be-aad4-4fd4-99cc-ea0b76bbf2d6")
 		(property "Reference" "#PWR095"
-			(at 354.33 129.54 0)
+			(at 354.33 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14161,7 +13829,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 354.33 128.27 0)
+			(at 354.33 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14169,7 +13837,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 354.33 123.19 0)
+			(at 354.33 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14178,7 +13846,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 354.33 123.19 0)
+			(at 354.33 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14187,7 +13855,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 354.33 123.19 0)
+			(at 354.33 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14376,7 +14044,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "APG1005SEC/E-T"
+		(property "MFPN" "  APG1005SEC/E-T"
 			(at 365.506 120.65 0)
 			(effects
 				(font
@@ -14749,30 +14417,6 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "P10853SCT-ND"
-			(at 388.62 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "PANASONIC"
-			(at 388.62 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "EVQ-PUL02K"
-			(at 388.62 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "14143d62-09cc-42bc-aa1d-c158b28a82f5")
 		)
@@ -14841,30 +14485,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "DigiKey" "399-C0603C104K8RACTUCT-ND"
-			(at 121.92 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "KEMET"
-			(at 121.92 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "C0603C104K8RACTU"
-			(at 121.92 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(pin "1"
@@ -15332,100 +14952,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 101.6 181.61 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e62ed40e-0666-47aa-b11e-8350ec58d7f7")
-		(property "Reference" "C19"
-			(at 105.41 180.3399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF 10V"
-			(at 105.41 182.8799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 102.5652 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 101.6 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 101.6 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey" "490-1543-1-ND"
-			(at 101.6 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "Murata Electronics"
-			(at 101.6 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "GRM188R61A105KA61D"
-			(at 101.6 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c700f9bf-c055-408e-8a1a-aca0861505b0")
-		)
-		(pin "2"
-			(uuid "0c33727e-6e76-4040-8116-20d69a379a29")
-		)
-		(instances
-			(project "spinali_add-on_GNSS_F9P"
-				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
-					(reference "C19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 88.9 99.06 0)
 		(mirror y)
@@ -15869,7 +15395,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "VSKY05301006-G4-08"
+		(property "MFPN" "  VSKY05301006-G4-08"
 			(at 119.38 63.5 90)
 			(effects
 				(font
@@ -16205,30 +15731,6 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "490-1543-1-ND"
-			(at 148.59 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "Murata Electronics"
-			(at 148.59 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "GRM188R61A105KA61D"
-			(at 148.59 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "c045a975-0232-44a2-aed5-5bf09647a315")
 		)
@@ -16297,30 +15799,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "DigiKey" "311-10.0KLRCT-ND"
-			(at 327.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "YAGEO"
-			(at 327.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MFPN" "RC0402FR-0710KL"
-			(at 327.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(pin "2"
