@@ -5,7 +5,7 @@
 	(uuid "33ca0b8d-633c-4f96-8a71-da0972d02d9e")
 	(paper "A4")
 	(title_block
-		(title "MR-T1-EAP Adapter")
+		(title "MR-T1-PAE Injector")
 		(date "2025-08-28")
 		(rev "X0")
 		(company "NXP SEMICONDUCTORS B.V.")
@@ -5050,7 +5050,7 @@
 			(uuid "25d8c916-0636-493f-8d70-8136d3d6c4b5")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR05")
 					(unit 1)
@@ -5182,7 +5182,7 @@
 			(uuid "acba908c-75d0-495e-ae8e-b42312be2a94")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR04")
 					(unit 1)
@@ -5248,7 +5248,7 @@
 			(uuid "1b9b480b-2565-4952-ac0b-8edd5011d1fc")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR019")
 					(unit 1)
@@ -5354,7 +5354,7 @@
 			(uuid "94ef3f34-dc84-4a84-a50a-6b720f89c5d5")
 		)
 		(instances
-			(project "spinali_mcxn_t1_hub"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "C2")
 					(unit 1)
@@ -5459,7 +5459,7 @@
 			(uuid "c83cfc02-1668-4b3b-940a-ed00625ea13e")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "R3")
 					(unit 1)
@@ -5565,7 +5565,7 @@
 			(uuid "5ede3524-2ae9-4df3-b975-1023be565683")
 		)
 		(instances
-			(project "spinali_mcxn_t1_hub"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "R6")
 					(unit 1)
@@ -5631,7 +5631,7 @@
 			(uuid "c7bb7f2d-6700-4ce3-b4a6-87bc4ebb66aa")
 		)
 		(instances
-			(project "spinali_mcxn_t1_hub"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR022")
 					(unit 1)
@@ -5697,7 +5697,7 @@
 			(uuid "e7fbb803-47a7-434d-867f-0b7a4a5457d8")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR030")
 					(unit 1)
@@ -5803,7 +5803,7 @@
 			(uuid "02c1da97-d0d3-4d73-af91-fc9d05836cf0")
 		)
 		(instances
-			(project ""
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "D1")
 					(unit 1)
@@ -5982,7 +5982,7 @@
 			(uuid "cb2849d4-a7c3-4bd1-928f-e69e72bf9cf4")
 		)
 		(instances
-			(project ""
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "R8")
 					(unit 1)
@@ -6088,7 +6088,7 @@
 			(uuid "666a9b88-4e1b-4e57-9621-459327596686")
 		)
 		(instances
-			(project ""
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "D3")
 					(unit 1)
@@ -6154,7 +6154,7 @@
 			(uuid "1c84a0ad-ff17-4ab9-b790-137dc6cf6422")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR02")
 					(unit 1)
@@ -6259,7 +6259,7 @@
 			(uuid "a55ed735-7251-4002-9a6c-ed671767b735")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "C3")
 					(unit 1)
@@ -6365,7 +6365,7 @@
 			(uuid "598e8cc6-0aeb-40ce-9c70-fa67b1c2aa7c")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "C10")
 					(unit 1)
@@ -6431,7 +6431,7 @@
 			(uuid "91077dd5-5313-437a-a655-e82c49ebe14c")
 		)
 		(instances
-			(project "spinali_mcxn_t1_hub"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR021")
 					(unit 1)
@@ -6643,7 +6643,7 @@
 			(uuid "5b7ed951-1104-4c6a-a649-d7fe79de0dcc")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "C5")
 					(unit 1)
@@ -6861,7 +6861,7 @@
 			(uuid "cb734f3f-22c6-4314-9538-d057216d89ad")
 		)
 		(instances
-			(project ""
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "L1")
 					(unit 1)
@@ -6927,7 +6927,7 @@
 			(uuid "3e3cc618-8eb5-4010-8564-9215810d195e")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR07")
 					(unit 1)
@@ -6993,7 +6993,7 @@
 			(uuid "4faeb4ce-0976-40d3-9e96-c801c7cda7c3")
 		)
 		(instances
-			(project ""
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR01")
 					(unit 1)
@@ -7059,7 +7059,7 @@
 			(uuid "33c482d2-5462-465d-8b7a-a183a896fa80")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR025")
 					(unit 1)
@@ -7231,7 +7231,7 @@
 			(uuid "ac175089-7ef2-46b2-a399-4528b22be186")
 		)
 		(instances
-			(project "spinali_mcxn_t1_hub"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR06")
 					(unit 1)
@@ -7337,7 +7337,7 @@
 			(uuid "834e2cc1-1d05-4ec3-bad9-19f4cb6fb888")
 		)
 		(instances
-			(project ""
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "L2")
 					(unit 1)
@@ -7403,7 +7403,7 @@
 			(uuid "1e839a68-ca47-4e48-937f-941b78190c0d")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR026")
 					(unit 1)
@@ -7509,7 +7509,7 @@
 			(uuid "f2696737-c14e-4720-8e12-67b25e170904")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "C4")
 					(unit 1)
@@ -7575,7 +7575,7 @@
 			(uuid "39ceb82d-0d82-413c-ac42-33403ea9446e")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR024")
 					(unit 1)
@@ -7641,7 +7641,7 @@
 			(uuid "ea2c0a0c-649d-4e2d-a3c8-f127e843ce41")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR03")
 					(unit 1)
@@ -7747,7 +7747,7 @@
 			(uuid "959b271b-4886-40f8-8efa-a286d1796025")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "R4")
 					(unit 1)
@@ -7866,7 +7866,7 @@
 			(uuid "ad22ceab-f69b-494d-ade7-30bc8fa5b22d")
 		)
 		(instances
-			(project "spinali_MR-T1-EAP-Adapter"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "J13")
 					(unit 1)
@@ -7971,7 +7971,7 @@
 			(uuid "edcd92d6-02bc-4c8c-8be7-3773b5bdefba")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "C17")
 					(unit 1)
@@ -8077,7 +8077,7 @@
 			(uuid "f3cdc493-a15b-4611-bbde-d9d8674d4b6b")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "R7")
 					(unit 1)
@@ -8183,7 +8183,7 @@
 			(uuid "cb2849d4-a7c3-4bd1-928f-e69e72bf9cf5")
 		)
 		(instances
-			(project ""
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "R5")
 					(unit 1)
@@ -8288,7 +8288,7 @@
 			(uuid "059070e4-b6f6-4a18-b6a6-dc28ee397ebd")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "C16")
 					(unit 1)
@@ -8413,7 +8413,7 @@
 			(uuid "9f322775-e726-4065-a72c-26501f335ee6")
 		)
 		(instances
-			(project ""
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "Q1")
 					(unit 1)
@@ -8479,7 +8479,7 @@
 			(uuid "8a7aa7c0-6e1a-487f-8988-ee394bcdf07f")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR028")
 					(unit 1)
@@ -8707,7 +8707,7 @@
 			(uuid "fbdbc1e7-9f3d-48f1-a070-f38095b930f4")
 		)
 		(instances
-			(project ""
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "U1")
 					(unit 1)
@@ -8826,7 +8826,7 @@
 			(uuid "16c0f805-093b-4607-ae05-eb9e825c3419")
 		)
 		(instances
-			(project ""
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "J1")
 					(unit 1)
@@ -8892,7 +8892,7 @@
 			(uuid "9b008e29-94a7-4358-abf7-030124aaef81")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR029")
 					(unit 1)
@@ -9031,7 +9031,7 @@
 			(uuid "85270141-af6b-4380-a795-2e4a9761ebb2")
 		)
 		(instances
-			(project ""
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "U3")
 					(unit 1)
@@ -9097,7 +9097,7 @@
 			(uuid "c753b628-49cd-4477-a825-f5e1fe17154f")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR016")
 					(unit 1)
@@ -9229,7 +9229,7 @@
 			(uuid "ab452cb2-3b55-4d4e-8f41-e38dc3c0b697")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR020")
 					(unit 1)
@@ -9334,7 +9334,7 @@
 			(uuid "f9b5a382-f367-4cf4-9052-ad7660b0c774")
 		)
 		(instances
-			(project "spinali_mcxn_t1_hub"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "C13")
 					(unit 1)
@@ -9440,7 +9440,7 @@
 			(uuid "b50ec8c2-b191-485d-a425-62f1ec4d0670")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "C11")
 					(unit 1)
@@ -9506,7 +9506,7 @@
 			(uuid "d92a9b66-c66f-4fba-8867-168f58ab8634")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR027")
 					(unit 1)
@@ -9679,7 +9679,7 @@
 			(uuid "80df97f6-2174-474e-a3fb-6e45ab0eef1a")
 		)
 		(instances
-			(project "spinali_mcxn_t1_hub"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "C14")
 					(unit 1)
@@ -9785,7 +9785,7 @@
 			(uuid "8c495ccd-0112-411c-8abe-e501ec2716df")
 		)
 		(instances
-			(project ""
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "C9")
 					(unit 1)
@@ -9918,7 +9918,7 @@
 			(uuid "de229fbf-7a7c-49c4-b61e-cde885ff33a5")
 		)
 		(instances
-			(project "flow_max"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR018")
 					(unit 1)
@@ -9984,7 +9984,7 @@
 			(uuid "7721639d-d0db-4ae6-bc41-54d6609f4cac")
 		)
 		(instances
-			(project "spinali_MR-T1-EAP-Adapter"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "#PWR0240")
 					(unit 1)
@@ -10090,7 +10090,7 @@
 			(uuid "9c3577d4-35bc-45d7-a399-0789a2ed2fa9")
 		)
 		(instances
-			(project "spinali_mcxn_t1_hub"
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "C12")
 					(unit 1)
@@ -10272,7 +10272,7 @@
 			(uuid "bb1bf267-25c6-4a04-bfdc-66984ea9c162")
 		)
 		(instances
-			(project ""
+			(project "spinali_MR-PAE-Injector"
 				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db/cd546697-22c1-446e-bf49-97c1431cc780"
 					(reference "C1")
 					(unit 1)

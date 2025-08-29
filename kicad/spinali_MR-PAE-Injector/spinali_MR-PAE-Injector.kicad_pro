@@ -817,11 +817,7 @@
     ],
     [
       "cd546697-22c1-446e-bf49-97c1431cc780",
-      "EAP Power supplies"
-    ],
-    [
-      "cac75b7c-b45e-47d5-be26-673a8f59f26a",
-      "EAP Communication"
+      "EAP Conn and Power"
     ]
   ],
   "text_variables": {}

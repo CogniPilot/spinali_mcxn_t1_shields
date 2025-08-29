@@ -5,7 +5,7 @@
 	(uuid "8b469ec1-e800-4d46-8a32-95d77ceae6db")
 	(paper "A4")
 	(title_block
-		(title "MR-T1-EAP Adapter")
+		(title "MR-T1-PAE Injector")
 		(date "2025-08-28")
 		(rev "X0")
 		(company "NXP SEMICONDUCTORS B.V.")
@@ -37,48 +37,6 @@
 		(uuid "c7daae81-4b6d-4b02-8706-d9b961b70b9c")
 	)
 	(sheet
-		(at 50.8 115.57)
-		(size 40.64 5.08)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "cac75b7c-b45e-47d5-be26-673a8f59f26a")
-		(property "Sheetname" "EAP Communication"
-			(at 50.8 114.8584 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "communication.kicad_sch"
-			(at 50.8 121.2346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "spinali_MR-PAE-Injector"
-				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db"
-					(page "7")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 50.8 52.07)
 		(size 40.64 5.08)
 		(exclude_from_sim no)
@@ -94,7 +52,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "cd546697-22c1-446e-bf49-97c1431cc780")
-		(property "Sheetname" "EAP Power supplies"
+		(property "Sheetname" "EAP Conn and Power"
 			(at 50.8 51.3584 0)
 			(effects
 				(font
@@ -103,7 +61,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "power_supplies.kicad_sch"
+		(property "Sheetfile" "EAP_conn_and_power.kicad_sch"
 			(at 50.8 57.7346 0)
 			(effects
 				(font
