@@ -818,6 +818,10 @@
     [
       "cd546697-22c1-446e-bf49-97c1431cc780",
       "EAP Conn and Power"
+    ],
+    [
+      "ec2d4bc8-9415-46d9-b358-e6c35817cebb",
+      "orig power supplies"
     ]
   ],
   "text_variables": {}

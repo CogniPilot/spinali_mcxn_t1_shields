@@ -78,6 +78,48 @@
 			)
 		)
 	)
+	(sheet
+		(at 54.61 72.39)
+		(size 43.18 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ec2d4bc8-9415-46d9-b358-e6c35817cebb")
+		(property "Sheetname" "orig power supplies"
+			(at 54.61 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_supplies.kicad_sch"
+			(at 54.61 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "spinali_MR-PAE-Injector"
+				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
