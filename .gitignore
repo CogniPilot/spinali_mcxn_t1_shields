@@ -3,4 +3,5 @@ fp-info-cache
 kicad/*/production/backups/
 *.kicad_prl
 *.lck
+*.zip
 **/\#auto_saved_files\#
