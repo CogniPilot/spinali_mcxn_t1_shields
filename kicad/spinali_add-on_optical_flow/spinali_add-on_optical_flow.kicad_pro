@@ -135,7 +135,7 @@
         "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 1.0,
-        "min_text_thickness": 0.153,
+        "min_text_thickness": 0.15,
         "min_through_hole_diameter": 0.2,
         "min_track_width": 0.1,
         "min_via_annular_width": 0.05,
@@ -511,10 +511,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "production/",
+      "pos_files": "production/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "production/spinali_add-on_optical_flow.step",
       "svg": "",
       "vrml": ""
     },
@@ -583,7 +583,7 @@
           "group_by": false,
           "label": "JLCPCB",
           "name": "JLCPCB",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -595,7 +595,7 @@
           "group_by": false,
           "label": "Codico",
           "name": "Codico",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -633,7 +633,7 @@
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
-      "intersheets_ref_show": false,
+      "intersheets_ref_show": true,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
       "label_size_ratio": 0.375,
@@ -652,7 +652,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "NXP.kicad_wks",
-    "plot_directory": "",
+    "plot_directory": "production/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
