@@ -1,0 +1,129 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8b469ec1-e800-4d46-8a32-95d77ceae6db")
+	(paper "A4")
+	(title_block
+		(title "MR-T1-PAE Injector")
+		(date "2025-08-28")
+		(rev "X0")
+		(company "NXP SEMICONDUCTORS B.V.")
+		(comment 1 "Power Adjacent Ethernet Injector")
+		(comment 3 "DESIGNER: Iain Galloway, Ref:Youri Tils")
+		(comment 4 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
+	)
+	(lib_symbols)
+	(text "${TITLE}"
+		(exclude_from_sim no)
+		(at 154.94 91.694 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "470a9b0d-f605-4efc-9640-48420e4ad293")
+	)
+	(text "Library used: https://github.com/CDFER/JLCPCB-Kicad-Library/tree/main"
+		(exclude_from_sim no)
+		(at 153.924 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c7daae81-4b6d-4b02-8706-d9b961b70b9c")
+	)
+	(sheet
+		(at 50.8 52.07)
+		(size 40.64 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cd546697-22c1-446e-bf49-97c1431cc780")
+		(property "Sheetname" "EAP Conn and Power"
+			(at 50.8 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "EAP_conn_and_power.kicad_sch"
+			(at 50.8 57.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "spinali_MR-PAE-Injector"
+				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 54.61 72.39)
+		(size 43.18 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ec2d4bc8-9415-46d9-b358-e6c35817cebb")
+		(property "Sheetname" "orig power supplies"
+			(at 54.61 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_supplies.kicad_sch"
+			(at 54.61 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "spinali_MR-PAE-Injector"
+				(path "/8b469ec1-e800-4d46-8a32-95d77ceae6db"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
