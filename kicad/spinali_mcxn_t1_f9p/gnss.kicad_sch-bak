@@ -9,7 +9,6 @@
 		(date "2025-06-23")
 		(rev "X0")
 		(company "NXP SEMICONDUCTORS B.V.")
-		(comment 1 "CLASSIFICATION: INTERNAL USE ONLY")
 		(comment 3 "DESIGNER: YOURI TILS")
 		(comment 4 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
 	)
@@ -7416,7 +7415,7 @@
 			(uuid "c3a6b047-8cfa-4c79-be5d-90802a7e8fd8")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR092")
 					(unit 1)
@@ -7482,7 +7481,7 @@
 			(uuid "26e75807-0b68-4abf-b1d9-1ed8da905c3e")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR070")
 					(unit 1)
@@ -7547,7 +7546,7 @@
 			(uuid "83f5929e-c126-4e7c-8b53-2c335ac92646")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR094")
 					(unit 1)
@@ -7650,7 +7649,7 @@
 			(uuid "0e2c1628-2e28-4f21-b35c-465f9b85f841")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R14")
 					(unit 1)
@@ -7744,7 +7743,7 @@
 			(uuid "d6c56c16-74c1-4dc8-bbc6-8cb499be5942")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R25")
 					(unit 1)
@@ -7848,7 +7847,7 @@
 			(uuid "a10d16fe-0ca3-40bb-9588-dfc96a71e954")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "L3")
 					(unit 1)
@@ -7913,7 +7912,7 @@
 			(uuid "4528a700-bb4a-4d80-b492-224529e12a25")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR089")
 					(unit 1)
@@ -7983,7 +7982,7 @@
 			(uuid "c5916ad3-8813-4016-bbd5-aa9f79ddbd7c")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "C12")
 					(unit 1)
@@ -8123,7 +8122,7 @@
 			(uuid "f44132b8-57ba-4446-bcbf-b17b688686d2")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R19")
 					(unit 1)
@@ -8190,7 +8189,7 @@
 			(uuid "e581d6c3-a544-4704-acef-585112640878")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR067")
 					(unit 1)
@@ -8256,7 +8255,7 @@
 			(uuid "7298c969-5511-40b5-8ee2-c0877e4d88ef")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR077")
 					(unit 1)
@@ -8362,7 +8361,7 @@
 			(uuid "44f4627c-aae7-444d-9f41-481db4b1ffc3")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R17")
 					(unit 1)
@@ -8475,7 +8474,7 @@
 			(uuid "774f9687-5598-4d4b-9528-d165dc0926b5")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "U4")
 					(unit 1)
@@ -8545,7 +8544,7 @@
 			(uuid "b3ce5d9f-2fb9-42af-8fc7-1b1307cada98")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "C13")
 					(unit 1)
@@ -8715,7 +8714,7 @@
 			(uuid "7ef62ac4-63ec-46a4-8066-c5939521b7d7")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR075")
 					(unit 1)
@@ -8781,7 +8780,7 @@
 			(uuid "d009f712-ec26-4d3e-9ae5-867b24064d19")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR061")
 					(unit 1)
@@ -8930,7 +8929,7 @@
 			(uuid "0c34e449-1d5c-4670-a58e-cf6bcff11572")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "USB1")
 					(unit 1)
@@ -9000,7 +8999,7 @@
 			(uuid "858db2ed-1c21-4145-8e2e-db5a0089c128")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "C18")
 					(unit 1)
@@ -9106,7 +9105,7 @@
 			(uuid "8d7c45f6-c496-4f1e-b6b0-09876d8ecb24")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R18")
 					(unit 1)
@@ -9171,7 +9170,7 @@
 			(uuid "11e51b19-0f3d-4655-8646-6dc0658487a3")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR083")
 					(unit 1)
@@ -9277,7 +9276,7 @@
 			(uuid "8506ed7b-2ae7-440d-b575-33cfe493ca31")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "C8")
 					(unit 1)
@@ -9352,7 +9351,7 @@
 			(uuid "cefc4c34-0b3b-4808-91b3-f22c18cd51ad")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "BAT1")
 					(unit 1)
@@ -9522,7 +9521,7 @@
 			(uuid "c7b1cc77-460b-4482-a3c4-bd7e812da065")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR071")
 					(unit 1)
@@ -9592,7 +9591,7 @@
 			(uuid "dfafbeef-7023-47d3-a50b-40cdb833bcb7")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R39")
 					(unit 1)
@@ -9657,7 +9656,7 @@
 			(uuid "26850a70-f1d0-43d6-ae13-2b2029cd6dbb")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR0100")
 					(unit 1)
@@ -9722,7 +9721,7 @@
 			(uuid "bc6156f2-298e-4b7f-a8b2-a3b5208bd8c3")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR099")
 					(unit 1)
@@ -9914,7 +9913,7 @@
 			(uuid "8b04e42b-3ac8-4e39-ba38-bb7316d908a8")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R29")
 					(unit 1)
@@ -9980,7 +9979,7 @@
 			(uuid "0388c8fa-ded4-4c82-ba9b-86a991b9ef43")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR076")
 					(unit 1)
@@ -10190,7 +10189,7 @@
 			(uuid "81756251-e96f-4f13-85f5-aed91ac3d36e")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "D4")
 					(unit 1)
@@ -10256,7 +10255,7 @@
 			(uuid "e2d90025-d7f6-4f36-bc8f-e0aad002516d")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR086")
 					(unit 1)
@@ -10321,7 +10320,7 @@
 			(uuid "df53a7f6-8ae5-4e74-a945-15144861d79b")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR081")
 					(unit 1)
@@ -10427,7 +10426,7 @@
 			(uuid "108275e7-d593-4b8c-b805-43408a8b453a")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R36")
 					(unit 1)
@@ -10531,7 +10530,7 @@
 			(uuid "5fea2d65-4f2f-4f66-9fea-14e4a3bfa6ee")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R30")
 					(unit 1)
@@ -10597,7 +10596,7 @@
 			(uuid "65aaa24e-2e66-4029-9a79-456647a7c09d")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR068")
 					(unit 1)
@@ -10710,7 +10709,7 @@
 			(uuid "331564e4-65f7-4c55-a6da-9ef3693964a3")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "U3")
 					(unit 1)
@@ -10776,7 +10775,7 @@
 			(uuid "15bbb7bb-3487-4611-ba6f-face85778491")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR078")
 					(unit 1)
@@ -10873,7 +10872,7 @@
 			(uuid "5355f182-dafe-4bd7-a147-2cf07127d145")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R40")
 					(unit 1)
@@ -10970,7 +10969,7 @@
 			(uuid "e92b4e64-a6d2-456a-8ee8-fee783456ffa")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R31")
 					(unit 1)
@@ -11131,7 +11130,7 @@
 			(uuid "51fa719a-2919-4046-9495-b6823069d689")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "U5")
 					(unit 1)
@@ -11225,7 +11224,7 @@
 			(uuid "a7d44bd1-9273-4b9d-81ed-25a6cba7c3c1")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R24")
 					(unit 1)
@@ -11319,7 +11318,7 @@
 			(uuid "9079fa4a-6a85-421c-b6c4-48b6cac5399d")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R22")
 					(unit 1)
@@ -11386,7 +11385,7 @@
 			(uuid "110eb384-4c6f-4a17-801e-15b67c88995a")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR090")
 					(unit 1)
@@ -11451,7 +11450,7 @@
 			(uuid "c23b8385-3c5f-44d3-a995-fc63b3bb2256")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR085")
 					(unit 1)
@@ -11548,7 +11547,7 @@
 			(uuid "6ad3b9b7-1888-4066-8dfd-7814a28a4b35")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R16")
 					(unit 1)
@@ -11614,7 +11613,7 @@
 			(uuid "0843d920-c9c8-4c7f-b5c7-5feb3ef9aee2")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR082")
 					(unit 1)
@@ -11708,7 +11707,7 @@
 			(uuid "b2b8d994-7138-4f6f-b05d-c7abe433357a")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R23")
 					(unit 1)
@@ -11773,7 +11772,7 @@
 			(uuid "e9d6bbd0-2d66-4da7-ac78-8f145616306b")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR069")
 					(unit 1)
@@ -11838,7 +11837,7 @@
 			(uuid "6b90d120-f201-4c35-8008-06f254c43943")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR080")
 					(unit 1)
@@ -11935,7 +11934,7 @@
 			(uuid "323e054a-91a5-4e50-9058-3f609adac4b5")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R37")
 					(unit 1)
@@ -12096,7 +12095,7 @@
 			(uuid "0b183d2e-c3fd-4c73-9520-62479138388c")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR060")
 					(unit 1)
@@ -12257,7 +12256,7 @@
 			(uuid "30fb2f51-547e-461d-add7-7113cd5cfc7e")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR064")
 					(unit 1)
@@ -12325,7 +12324,7 @@
 			(uuid "9c2d11ab-26c3-4883-9eac-9f95456d1a72")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "C6")
 					(unit 1)
@@ -12391,7 +12390,7 @@
 			(uuid "868f0528-da0a-4151-9d6f-391b844e7ef2")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR073")
 					(unit 1)
@@ -12488,7 +12487,7 @@
 			(uuid "8d16897f-3146-4f8a-b975-fa885b4dd4c4")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R32")
 					(unit 1)
@@ -12553,7 +12552,7 @@
 			(uuid "bebcaaaf-fe3a-4948-8db6-129a362850f0")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR0101")
 					(unit 1)
@@ -12619,7 +12618,7 @@
 			(uuid "ff2c75c5-2a5f-47b8-9724-fa0988a7d1ad")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR065")
 					(unit 1)
@@ -12733,7 +12732,7 @@
 			(uuid "30330d8a-a093-4ba2-8093-73db0b794b7f")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "U2")
 					(unit 1)
@@ -12798,7 +12797,7 @@
 			(uuid "2417f749-3963-4ed9-a45d-c1d2e9d532fa")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR098")
 					(unit 1)
@@ -12904,7 +12903,7 @@
 			(uuid "9fa64ac8-072b-4cc5-8bc9-44a4940cbde7")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "C10")
 					(unit 1)
@@ -12974,7 +12973,7 @@
 			(uuid "ab5323f4-60cc-4dfa-a374-3551e91045a8")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "C14")
 					(unit 1)
@@ -13039,7 +13038,7 @@
 			(uuid "43b27c44-bb48-4f59-8de0-fe651416dbdb")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR074")
 					(unit 1)
@@ -13104,7 +13103,7 @@
 			(uuid "352eab73-4439-4b14-9a38-20a6e3d06d24")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR079")
 					(unit 1)
@@ -13174,7 +13173,7 @@
 			(uuid "8aaaa616-314c-4ff3-a1e9-4f5a5c7a8cc3")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "C9")
 					(unit 1)
@@ -13242,7 +13241,7 @@
 			(uuid "43822c8a-98f7-40c0-bfb2-20525232af7d")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "SW1")
 					(unit 1)
@@ -13346,7 +13345,7 @@
 			(uuid "b4217fe8-ffe8-4239-ad62-4857f62fc915")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R15")
 					(unit 1)
@@ -13413,7 +13412,7 @@
 			(uuid "5ab8141c-2d31-4341-ad14-302411b4186a")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR072")
 					(unit 1)
@@ -13579,7 +13578,7 @@
 			(uuid "10c2f5de-ea35-48a8-a68e-a3005b563927")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "C17")
 					(unit 1)
@@ -13667,7 +13666,7 @@
 			(uuid "e8b82944-e405-4991-aeba-9c25343da174")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "C5")
 					(unit 1)
@@ -13737,7 +13736,7 @@
 			(uuid "5bfe0c7f-aa96-4e56-bbfd-9bc441c6bd95")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "C16")
 					(unit 1)
@@ -13802,7 +13801,7 @@
 			(uuid "a5d82d5f-11af-4d51-af7f-5804117371c7")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR063")
 					(unit 1)
@@ -13867,7 +13866,7 @@
 			(uuid "e01a1b54-02e0-4511-afb2-f3a1c7b8402f")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR095")
 					(unit 1)
@@ -13964,7 +13963,7 @@
 			(uuid "d0230f99-6ebb-47ab-b6c7-23e4cd90b4f3")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R38")
 					(unit 1)
@@ -14060,7 +14059,7 @@
 			(uuid "ee1a20ab-8fbd-47d9-9d85-d6a31097ffb3")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "D5")
 					(unit 1)
@@ -14260,7 +14259,7 @@
 			(uuid "cf720034-5f47-4532-acf2-a38b8fc0092e")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R27")
 					(unit 1)
@@ -14356,7 +14355,7 @@
 			(uuid "99909e53-d0ac-44cb-a905-994cca0893a5")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "D6")
 					(unit 1)
@@ -14424,7 +14423,7 @@
 			(uuid "12842615-9bfb-4a34-8e34-5f32bee6f0e5")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "SW2")
 					(unit 1)
@@ -14494,7 +14493,7 @@
 			(uuid "2fcc99b3-a13c-405a-8a4d-742c3b145717")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "C11")
 					(unit 1)
@@ -14599,7 +14598,7 @@
 			(uuid "66ae1209-f3d7-4760-bbf9-bf842b9f0e8e")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "D1")
 					(unit 1)
@@ -14665,7 +14664,7 @@
 			(uuid "ebb00141-ea32-43f3-b648-6a1a067d8496")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR096")
 					(unit 1)
@@ -14730,7 +14729,7 @@
 			(uuid "5a971725-bc9e-49f4-8ca5-4f23c0d54439")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR087")
 					(unit 1)
@@ -14837,7 +14836,7 @@
 			(uuid "5caf848a-2fb7-4ad1-b98b-611eb7043d71")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R12")
 					(unit 1)
@@ -15009,7 +15008,7 @@
 			(uuid "9043d343-0cb7-431f-a558-b7c27286c6db")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR066")
 					(unit 1)
@@ -15075,7 +15074,7 @@
 			(uuid "f5e8d206-c93e-446e-a206-7facb21b250c")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR093")
 					(unit 1)
@@ -15181,7 +15180,7 @@
 			(uuid "1992f8b9-caf6-4c1a-ba72-e3b6c5a0b45a")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R35")
 					(unit 1)
@@ -15248,7 +15247,7 @@
 			(uuid "f876ef00-a7d8-4cc4-b0c0-df4ef736c237")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR091")
 					(unit 1)
@@ -15314,7 +15313,7 @@
 			(uuid "5db9052e-59c1-4726-956a-f2fec220e35d")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR062")
 					(unit 1)
@@ -15505,7 +15504,7 @@
 			(uuid "f0bd0da9-6f0e-4739-9592-f473c39be675")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R28")
 					(unit 1)
@@ -15669,7 +15668,7 @@
 			(uuid "8ff00b78-559b-466b-bcd6-a4c7b1f26345")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR097")
 					(unit 1)
@@ -15738,7 +15737,7 @@
 			(uuid "a6cf663e-593f-447f-a61b-169283915b7e")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "C15")
 					(unit 1)
@@ -15808,7 +15807,7 @@
 			(uuid "8c58bc07-e9c9-447b-a917-087515a927f3")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R34")
 					(unit 1)
@@ -15902,7 +15901,7 @@
 			(uuid "121051fe-441f-45e5-9f62-07d223337447")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R26")
 					(unit 1)
@@ -15968,7 +15967,7 @@
 			(uuid "3322cab7-324c-46a2-ae9d-55bc27c20ed7")
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "#PWR084")
 					(unit 1)

@@ -5,26 +5,15 @@
 	(uuid "04285d74-eeba-483c-9378-52bd287e15a2")
 	(paper "A4")
 	(title_block
-		(title "MR-MCXN-T1-F9P")
-		(date "2025-08-27")
-		(rev "X1")
+		(title "MR-MCXN-T1-OFLO")
+		(date "2025-04-16")
+		(rev "X0")
 		(company "NXP SEMICONDUCTORS B.V.")
-		(comment 1 "CLASSIFICATION: INTERNAL USE ONLY")
-		(comment 3 "DESIGNER: YOURI TILS, Iain Galloway")
+		(comment 3 "DESIGNER: YOURI TILS")
 		(comment 4 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
 	)
 	(lib_symbols)
-	(text "Ublox F9P RTK GPS/GNSS module w/PNI Magnetometer"
-		(exclude_from_sim no)
-		(at 145.288 104.648 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "86ba24cf-98e0-480f-a889-0a00fb797c87")
-	)
-	(text "${TITLE}"
+	(text "MR-MCXN-T1 Optical Flow"
 		(exclude_from_sim no)
 		(at 150.114 92.456 0)
 		(effects
@@ -35,48 +24,6 @@
 			)
 		)
 		(uuid "efc3dc01-334a-4e73-83f5-a10926ac194b")
-	)
-	(sheet
-		(at 29.337 67.183)
-		(size 33.02 3.81)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "984519f8-3ba1-4ad2-a1fd-5bc7d7d39895")
-		(property "Sheetname" "GNSS"
-			(at 29.337 66.4714 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "gnss.kicad_sch"
-			(at 29.337 71.5776 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "spinali_add-on_GNSS_F9P"
-				(path "/04285d74-eeba-483c-9378-52bd287e15a2"
-					(page "4")
-				)
-			)
-		)
 	)
 	(sheet
 		(at 29.21 46.99)
@@ -113,7 +60,7 @@
 			)
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2"
 					(page "2")
 				)
@@ -155,7 +102,7 @@
 			)
 		)
 		(instances
-			(project "spinali_add-on_GNSS_F9P"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2"
 					(page "3")
 				)

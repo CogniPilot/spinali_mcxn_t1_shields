@@ -5,11 +5,10 @@
 	(uuid "ebbb2802-5063-4ced-af3d-b4bf6a935c18")
 	(paper "A4")
 	(title_block
-		(title "MR-MCXN-T1 Optical Flow")
+		(title "MR-MCXN-T1-OFLO")
 		(date "2025-04-16")
 		(rev "X0")
 		(company "NXP SEMICONDUCTORS B.V.")
-		(comment 1 "CLASSIFICATION: INTERNAL USE ONLY")
 		(comment 3 "DESIGNER: YOURI TILS")
 		(comment 4 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
 	)
@@ -5698,7 +5697,7 @@
 			(uuid "13a06ae8-9d3f-446c-92ae-c414cb2ed220")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR54")
 					(unit 1)
@@ -5871,7 +5870,7 @@
 			(uuid "62a1ecb4-5057-4340-9f55-3db7c8946683")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR075")
 					(unit 1)
@@ -5968,7 +5967,7 @@
 			(uuid "f567d956-3682-48a4-870d-c5208c44600d")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "R4")
 					(unit 1)
@@ -6034,7 +6033,7 @@
 			(uuid "1330e1d5-dc1b-4ee2-91c6-3ceacba24dbb")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR074")
 					(unit 1)
@@ -6246,7 +6245,7 @@
 			(uuid "c53182a5-388f-4f78-a9ca-4efbc11750cb")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C17")
 					(unit 1)
@@ -6352,7 +6351,7 @@
 			(uuid "006a3381-49a1-4e56-ac00-e846313bf72a")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C4")
 					(unit 1)
@@ -6458,7 +6457,7 @@
 			(uuid "22e3a94e-93b0-464f-9e9d-d6f12387dd8f")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C14")
 					(unit 1)
@@ -6564,7 +6563,7 @@
 			(uuid "8ef39509-0f70-442e-9921-35a60f539d68")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C7")
 					(unit 1)
@@ -6675,7 +6674,7 @@
 			(uuid "4e814f3d-aa11-41e2-bf83-e4b1d1450827")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "Q2")
 					(unit 1)
@@ -6741,7 +6740,7 @@
 			(uuid "2531ffd7-c4ed-486d-9f05-38a4a698dd8f")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR70")
 					(unit 1)
@@ -6807,7 +6806,7 @@
 			(uuid "d40fc73f-b1df-44d5-b808-575d5ce6e44f")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR65")
 					(unit 1)
@@ -6874,7 +6873,7 @@
 			(uuid "04e63e5a-4201-4c01-af7a-b1ec11c3b9c2")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR53")
 					(unit 1)
@@ -6940,7 +6939,7 @@
 			(uuid "3a2cca3a-5d8c-4a51-9268-9bc392078818")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR64")
 					(unit 1)
@@ -7007,7 +7006,7 @@
 			(uuid "97501a4f-8cbb-45fa-8e6b-ab34409f4104")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR59")
 					(unit 1)
@@ -7217,7 +7216,7 @@
 			(uuid "acd37e44-fd58-4da0-97a2-dd75e3b092f7")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR63")
 					(unit 1)
@@ -7390,7 +7389,7 @@
 			(uuid "9c4cf217-75c8-4a5f-8216-dfe276f0deb8")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR66")
 					(unit 1)
@@ -7599,7 +7598,7 @@
 			(uuid "a79aa2dc-c759-41f5-8f4a-5b2da9db9716")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "R5")
 					(unit 1)
@@ -7701,7 +7700,7 @@
 			(uuid "5d8978fe-f363-49bb-a87d-6ca094087e49")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "TP4")
 					(unit 1)
@@ -8008,7 +8007,7 @@
 			(uuid "88785fdf-6eb8-4848-ae12-7291d55cb765")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C2")
 					(unit 1)
@@ -8074,7 +8073,7 @@
 			(uuid "71839c54-b1e8-4ecc-b7c6-3037c7c16f03")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR49")
 					(unit 1)
@@ -8321,7 +8320,7 @@
 			(uuid "c09fa8af-a901-4b2a-8ff1-bd0a66789a25")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C18")
 					(unit 1)
@@ -8387,7 +8386,7 @@
 			(uuid "68bc144f-d75e-4e2c-8a63-244346905d58")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR57")
 					(unit 1)
@@ -8493,7 +8492,7 @@
 			(uuid "d3bc32b6-3a83-4564-9035-0376403cf07b")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C1")
 					(unit 1)
@@ -8599,7 +8598,7 @@
 			(uuid "e6f76789-92c9-41f4-922c-10e53162f875")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C8")
 					(unit 1)
@@ -8665,7 +8664,7 @@
 			(uuid "1637b6fc-b670-431f-9090-53c96ceb81f0")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR62")
 					(unit 1)
@@ -8866,7 +8865,7 @@
 			(uuid "435da30b-80bc-4c22-ac8c-f8d6d02e6821")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C19")
 					(unit 1)
@@ -8933,7 +8932,7 @@
 			(uuid "4171711a-e032-4838-a7ed-da92bad9db9d")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR46")
 					(unit 1)
@@ -9000,7 +8999,7 @@
 			(uuid "9ff38952-dd38-4fe4-88ec-a57482f11759")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR61")
 					(unit 1)
@@ -9067,7 +9066,7 @@
 			(uuid "63094bbb-4c0a-428e-992c-9f72dcda5b4a")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR072")
 					(unit 1)
@@ -9133,7 +9132,7 @@
 			(uuid "25c8bb71-2120-4698-95e9-4132fb6cee4f")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR52")
 					(unit 1)
@@ -9200,7 +9199,7 @@
 			(uuid "995c08c8-0b6c-4987-ab4f-bba7c534e3d9")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR67")
 					(unit 1)
@@ -9266,7 +9265,7 @@
 			(uuid "3ff69241-dabc-4777-9e55-9fdba8b10654")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR50")
 					(unit 1)
@@ -9330,7 +9329,7 @@
 			(uuid "5ded1dd8-7b5e-4601-ba96-21ea70d86c44")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "TP2")
 					(unit 1)
@@ -9642,7 +9641,7 @@
 			(uuid "3ef3f9d3-89a5-4250-aa86-68923443664a")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C12")
 					(unit 1)
@@ -9709,7 +9708,7 @@
 			(uuid "2983f533-9398-4e45-8d3d-36352b0363c9")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR60")
 					(unit 1)
@@ -9775,7 +9774,7 @@
 			(uuid "782f1351-4143-4ffb-babe-abe821af8042")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR56")
 					(unit 1)
@@ -9881,7 +9880,7 @@
 			(uuid "2907b1b5-e279-46c4-9757-bf8b69d9241d")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C16")
 					(unit 1)
@@ -10124,7 +10123,7 @@
 			(uuid "1a2b9b85-ca83-4c00-9fe9-fb0c6b1eb3fb")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "TP7")
 					(unit 1)
@@ -10190,7 +10189,7 @@
 			(uuid "e2d62f27-b9c7-4ebb-b6db-c4b022a15ad9")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR48")
 					(unit 1)
@@ -10296,7 +10295,7 @@
 			(uuid "bfe50bf9-ba75-420b-9be5-8523d27ce661")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C6")
 					(unit 1)
@@ -10466,7 +10465,7 @@
 			(uuid "34394298-6c38-4828-a4f6-491a5a3a53ec")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C15")
 					(unit 1)
@@ -10572,7 +10571,7 @@
 			(uuid "f5864f19-0a62-440b-b0f9-ee76a58385f9")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C13")
 					(unit 1)
@@ -10638,7 +10637,7 @@
 			(uuid "c0f9842d-0f5b-49db-8145-05b64c31e0a9")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR69")
 					(unit 1)
@@ -10704,7 +10703,7 @@
 			(uuid "e0531377-625a-4133-866b-931a32883d1c")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR47")
 					(unit 1)
@@ -10770,7 +10769,7 @@
 			(uuid "50d42586-fce6-450b-984d-561fb61ceb96")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR68")
 					(unit 1)
@@ -10876,7 +10875,7 @@
 			(uuid "9ac03e01-cea9-400a-be9b-18b60676eb4d")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C11")
 					(unit 1)
@@ -10982,7 +10981,7 @@
 			(uuid "60cf8e43-0c5b-4699-8529-69160530f83b")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C9")
 					(unit 1)
@@ -11084,7 +11083,7 @@
 			(uuid "f4676525-d368-4641-9bc4-b1966392d058")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "TP6")
 					(unit 1)
@@ -11150,7 +11149,7 @@
 			(uuid "4f72d17c-4de9-4721-9c50-38d5623fe04c")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR58")
 					(unit 1)
@@ -11256,7 +11255,7 @@
 			(uuid "a8f29e8a-4dd8-4dad-a25b-49060b3229e8")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C5")
 					(unit 1)
@@ -11358,7 +11357,7 @@
 			(uuid "ce20ea75-cfc2-4acd-98ac-0ed054fa72ce")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "TP5")
 					(unit 1)
@@ -11424,7 +11423,7 @@
 			(uuid "d6b555c3-545e-49a0-992a-bb219c90ae81")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR51")
 					(unit 1)
@@ -11529,7 +11528,7 @@
 			(uuid "61cc1dab-6878-49c0-b85a-f4f306b9460b")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C10")
 					(unit 1)
@@ -11707,7 +11706,7 @@
 			(uuid "89357d52-b4ca-40c4-8c35-ae237e8334cc")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR55")
 					(unit 1)
@@ -11804,7 +11803,7 @@
 			(uuid "8cb94ffa-8b4a-4d3e-a72b-ff78df627ca8")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "R7")
 					(unit 1)
@@ -11870,7 +11869,7 @@
 			(uuid "b5a660e4-4274-4b3a-9418-51c61fbbe13c")
 		)
 		(instances
-			(project "spinali_add-on_optical_flow"
+			(project "spinali_mcxn_t1_oflo"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR071")
 					(unit 1)
