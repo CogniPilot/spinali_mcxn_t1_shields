@@ -4311,7 +4311,7 @@
 	)
 	(text "Place next to U5"
 		(exclude_from_sim no)
-		(at 188.214 48.514 0)
+		(at 183.642 46.228 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8067,6 +8067,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "KEMET"
@@ -8075,6 +8076,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MFPN" "C0603C104K8RACTU"
@@ -8083,6 +8085,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8161,6 +8164,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "Würth Elektronik"
@@ -8169,6 +8173,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MFPN" "885012006021"
@@ -8177,6 +8182,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -8255,6 +8261,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "YAGEO"
@@ -8263,6 +8270,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MFPN" "RC0402FR-07100KL"
@@ -8271,6 +8279,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -8701,6 +8710,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "Murata Electronics"
@@ -8709,6 +8719,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MFPN" "GRM188R61A105KA61D"
@@ -8717,6 +8728,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9130,7 +9142,7 @@
 		(fields_autoplaced yes)
 		(uuid "3db0e806-1a72-4785-8c83-b0a8cf334cdc")
 		(property "Reference" "C18"
-			(at 182.88 53.3399 0)
+			(at 182.88 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9139,7 +9151,7 @@
 			)
 		)
 		(property "Value" "100nF 10V"
-			(at 182.88 55.8799 0)
+			(at 182.88 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9175,11 +9187,13 @@
 			)
 		)
 		(property "DigiKey" "399-C0603C104K8RACTUCT-ND"
-			(at 179.07 54.61 0)
+			(at 182.88 55.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
+				(hide yes)
 			)
 		)
 		(property "MF" "KEMET"
@@ -9188,14 +9202,17 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MFPN" "C0603C104K8RACTU"
-			(at 179.07 54.61 0)
+			(at 182.88 58.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9550,6 +9567,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "JST"
@@ -9558,6 +9576,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MFPN" "  SM02B-SRSS-TB"
@@ -9566,6 +9585,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -9820,6 +9840,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "YAGEO"
@@ -9828,6 +9849,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MFPN" "RC0402FR-0710KL"
@@ -9836,6 +9858,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -10044,6 +10067,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "JST"
@@ -10060,6 +10084,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "5"
@@ -12609,6 +12634,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "Würth Elektronik"
@@ -12617,6 +12643,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MFPN" "885012006021"
@@ -12625,6 +12652,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -13126,7 +13154,7 @@
 		(fields_autoplaced yes)
 		(uuid "b88c709b-171a-40f2-bbf9-08d142f374f2")
 		(property "Reference" "C14"
-			(at 143.51 38.0999 0)
+			(at 143.51 36.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13135,7 +13163,7 @@
 			)
 		)
 		(property "Value" "1uF 10V"
-			(at 143.51 40.6399 0)
+			(at 143.51 39.3699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13176,14 +13204,17 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "Murata Electronics"
-			(at 139.7 39.37 0)
+			(at 143.51 41.9099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
+				(hide yes)
 			)
 		)
 		(property "MFPN" "GRM188R61A105KA61D"
@@ -13192,6 +13223,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -13400,6 +13432,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "Murata Electronics"
@@ -13408,6 +13441,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MFPN" "GRM188R61A105KA61D"
@@ -13416,6 +13450,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -13492,6 +13527,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "PANASONIC"
@@ -13500,6 +13536,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MFPN" "EVQ-PUL02K"
@@ -13508,6 +13545,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -13853,6 +13891,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "KEMET"
@@ -13861,6 +13900,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MFPN" "C0603C104K8RACTU"
@@ -13869,6 +13909,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14043,6 +14084,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "KEMET"
@@ -14051,6 +14093,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MFPN" "C0603C104K8RACTU"
@@ -14059,6 +14102,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14754,6 +14798,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "PANASONIC"
@@ -14762,6 +14807,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MFPN" "EVQ-PUL02K"
@@ -14770,6 +14816,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14848,6 +14895,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "KEMET"
@@ -14856,6 +14904,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MFPN" "C0603C104K8RACTU"
@@ -14864,6 +14913,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -15391,6 +15441,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "Murata Electronics"
@@ -15399,6 +15450,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MFPN" "GRM188R61A105KA61D"
@@ -15407,6 +15459,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -16210,6 +16263,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "Murata Electronics"
@@ -16218,6 +16272,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MFPN" "GRM188R61A105KA61D"
@@ -16226,6 +16281,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -16304,6 +16360,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "YAGEO"
@@ -16312,6 +16369,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MFPN" "RC0402FR-0710KL"
@@ -16320,6 +16378,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
