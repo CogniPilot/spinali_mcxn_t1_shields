@@ -1,0 +1,16 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ebbb2802-5063-4ced-af3d-b4bf6a935c18")
+	(paper "A4")
+	(title_block
+		(title "MR-MCXN-T1-CONN")
+		(date "2025-09-10")
+		(rev "X0")
+		(company "NXP SEMICONDUCTORS B.V.")
+		(comment 3 "DESIGNER: PvdP/BMP")
+		(comment 4 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
+	)
+	(lib_symbols)
+)
