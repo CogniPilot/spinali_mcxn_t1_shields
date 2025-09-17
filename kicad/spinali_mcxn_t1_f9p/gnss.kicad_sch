@@ -8773,7 +8773,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_132134-10_Vertical"
+		(property "Footprint" "Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical"
 			(at 88.9 80.01 0)
 			(effects
 				(font
@@ -9534,7 +9534,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_SH_BM02B-SRSS-TB_1x02-1MP_P1.00mm_Vertical"
+		(property "Footprint" "spinali-connector:JST_SH_SM02B-SRSS-TB_1x02-1MP_P1.00mm_RA"
 			(at 119.38 84.836 90)
 			(effects
 				(font
@@ -13494,7 +13494,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS647_Sx50"
+		(property "Footprint" "spinali-connector:Panasonic_EVQPUL_EVQPUC"
 			(at 340.36 173.99 0)
 			(effects
 				(font
@@ -14765,7 +14765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS647_Sx50"
+		(property "Footprint" "spinali-connector:Panasonic_EVQPUL_EVQPUC"
 			(at 388.62 173.99 0)
 			(effects
 				(font
