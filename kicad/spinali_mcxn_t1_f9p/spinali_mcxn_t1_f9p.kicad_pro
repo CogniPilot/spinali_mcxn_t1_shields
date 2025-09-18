@@ -469,7 +469,8 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "Sensors"
+      "Sensors",
+      "Connectors"
     ],
     "pinned_symbol_libs": [
       "Connectors"

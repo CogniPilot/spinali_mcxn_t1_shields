@@ -9534,7 +9534,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "spinali-connector:JST_SH_SM02B-SRSS-TB_1x02-1MP_P1.00mm_RA"
+		(property "Footprint" "Connectors:JST_SH_SM02B-SRSS-TB_1x02-1MP_P1.00mm_RA"
 			(at 119.38 84.836 90)
 			(effects
 				(font
@@ -13494,7 +13494,7 @@
 				)
 			)
 		)
-		(property "Footprint" "spinali-connector:Panasonic_EVQPUL_EVQPUC"
+		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUL_EVQPUC"
 			(at 340.36 173.99 0)
 			(effects
 				(font
@@ -14765,7 +14765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "spinali-connector:Panasonic_EVQPUL_EVQPUC"
+		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUL_EVQPUC"
 			(at 388.62 173.99 0)
 			(effects
 				(font
