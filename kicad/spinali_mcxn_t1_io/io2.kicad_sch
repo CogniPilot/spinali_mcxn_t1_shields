@@ -15584,7 +15584,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "SM10B-GHS-TB"
+		(property "MFPN" "BM10B-GHS-TBT"
 			(at 238.76 88.646 0)
 			(effects
 				(font
@@ -15593,7 +15593,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "455-SM10B-GHS-TBCT-ND"
+		(property "DigiKey" "455-BM10B-GHS-TBTCT-ND"
 			(at 238.76 90.932 0)
 			(effects
 				(font

@@ -11909,7 +11909,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "SM06B-GHS-TB"
+		(property "MFPN" "BM06B-GHS-TBT"
 			(at 377.19 90.424 0)
 			(effects
 				(font
@@ -11918,7 +11918,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "455-1568-1-ND"
+		(property "DigiKey" "455-BM06B-GHS-TBTCT-ND"
 			(at 377.19 92.71 0)
 			(effects
 				(font
@@ -12784,7 +12784,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "SM04B-GHS-TB"
+		(property "MFPN" "BM04B-GHS-TBT"
 			(at 171.45 116.586 0)
 			(effects
 				(font
@@ -12793,7 +12793,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "455-1566-1-ND"
+		(property "DigiKey" "455-BM04B-GHS-TBTCT-ND"
 			(at 171.45 118.618 0)
 			(effects
 				(font
@@ -13127,7 +13127,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "SM04B-GHS-TB"
+		(property "MFPN" "BM04B-GHS-TBT"
 			(at 171.45 77.216 0)
 			(effects
 				(font
@@ -13136,7 +13136,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "455-1566-1-ND"
+		(property "DigiKey" "455-BM04B-GHS-TBTCT-ND"
 			(at 171.45 79.248 0)
 			(effects
 				(font
@@ -14441,7 +14441,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "SM06B-GHS-TB"
+		(property "MFPN" "BM06B-GHS-TBT"
 			(at 377.19 183.134 0)
 			(effects
 				(font
@@ -14450,7 +14450,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "455-1568-1-ND"
+		(property "DigiKey" "455-BM06B-GHS-TBTCT-ND"
 			(at 377.19 185.42 0)
 			(effects
 				(font
@@ -14571,7 +14571,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "SM07B-GHS-TB"
+		(property "MFPN" "BM07B-GHS-TBT"
 			(at 171.45 181.864 0)
 			(effects
 				(font
@@ -14580,7 +14580,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "455-1569-1-ND"
+		(property "DigiKey" "455-BM07B-GHS-TBTCT-ND"
 			(at 171.45 184.15 0)
 			(effects
 				(font
@@ -14704,7 +14704,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "SM07B-GHS-TB"
+		(property "MFPN" "BM07B-GHS-TBT"
 			(at 171.45 259.334 0)
 			(effects
 				(font
@@ -14713,7 +14713,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "455-1569-1-ND"
+		(property "DigiKey" "455-BM07B-GHS-TBTCT-ND"
 			(at 171.45 261.62 0)
 			(effects
 				(font
@@ -15102,7 +15102,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "SM06B-GHS-TB"
+		(property "MFPN" "BM06B-GHS-TBT"
 			(at 377.19 138.684 0)
 			(effects
 				(font
@@ -15111,7 +15111,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "455-1568-1-ND"
+		(property "DigiKey" "455-BM06B-GHS-TBTCT-ND"
 			(at 377.19 140.97 0)
 			(effects
 				(font
