@@ -12,7 +12,7 @@
 >
 > [^1]: GNSS add-on is still in the design process.
 
-![Hub with Optical Flow add-on](https://github.com/user-attachments/assets/7e5e8836-27e5-463e-a481-aa6a8fc3017c)
+![Hub with Optical Flow add-on](docs/readme_pictures/1.jpeg)
 <sup>Example of Optical Flow add-on board stacked on MR-MCXN-T1 Hub</sup>
 
 # MR-MCXN-T1 Optical Flow
@@ -24,10 +24,10 @@
 > - IMU 2x (ICM-45686 & ICM42688)
 
 <details>
-<summary><h3><strong>MR-MCXN-T1 Optical Flow pictures</strong></h3></summary>
+<summary>MR-MCXN-T1 Optical Flow pictures</summary>
   
-![IMG_8517_cropped](https://github.com/user-attachments/assets/b89d3a94-9e29-4dfd-ade7-59d1af6efb72)
-![IMG_8529](https://github.com/user-attachments/assets/f998354a-3338-4df7-875e-fa24abdeb16b)
+![Optical Flow Cropped](docs/readme_pictures/2.jpeg)
+![Optical Flow Side](docs/readme_pictures/3.jpeg)
 
 </details>
 
@@ -48,11 +48,9 @@
 > If applicable the connector pinouts follow the [DS-009 Connector Standard](https://github.com/pixhawk/Pixhawk-Standards/blob/master/DS-009%20Pixhawk%20Connector%20Standard.pdf).
 
 <details>
-<summary><h3><strong>MR-MCXN-T1 IO pictures</strong></h3></summary>
-
-<details>
+<summary>MR-MCXN-T1 IO pictures</summary>
   
-<img width="2363" height="1252" alt="spinali_mcxn_t1_io_side" src="https://github.com/user-attachments/assets/9c23f1e9-844d-4725-8381-6b9a71cfda33" />
-<img width="2363" height="1252" alt="spinali_mcxn_t1_io_top" src="https://github.com/user-attachments/assets/746bc94a-af8c-43bc-9d61-ee24aa30f05e" />
+![IO Board Side](docs/readme_pictures/4.png)
+![IO Board Top](docs/readme_pictures/5.png)
 
 </details>
