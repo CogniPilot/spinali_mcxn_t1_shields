@@ -6,11 +6,11 @@
 	(paper "A4")
 	(title_block
 		(title "MR-MCXN-T1-IO")
-		(date "2025-10-13")
-		(rev "X0")
+		(date "2026-07-24")
+		(rev "X1")
 		(company "NXP SEMICONDUCTORS B.V.")
-		(comment 3 "DESIGNER: YOURI TILS")
-		(comment 4 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
+		(comment 1 "DESIGNER: YOURI TILS")
+		(comment 2 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
 	)
 	(lib_symbols
 		(symbol "Connectors:DF40TC(4.0)-50DS-0.4V(51)"
@@ -5069,7 +5069,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "758f0005-be6a-4cc5-a219-5558b97b119b")
 		(property "Reference" "R10"
@@ -5081,7 +5081,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4k7"
+		(property "Value" "10k"
 			(at 53.34 78.7399 0)
 			(effects
 				(font
@@ -5117,7 +5117,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "311-4.70KHRCT-ND"
+		(property "DigiKey" "311-10.0KHRCT-ND"
 			(at 50.8 77.47 0)
 			(effects
 				(font
@@ -5135,7 +5135,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "RC0603FR-074K7L"
+		(property "MFPN" "RC0603FR-0710KL"
 			(at 50.8 77.47 0)
 			(effects
 				(font
@@ -6009,7 +6009,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "961f119c-2448-41c9-aef4-1d0e4bfe4935")
 		(property "Reference" "R11"
@@ -6021,7 +6021,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4k7"
+		(property "Value" "10k"
 			(at 62.23 78.7399 0)
 			(effects
 				(font
@@ -6057,7 +6057,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "311-4.70KHRCT-ND"
+		(property "DigiKey" "311-10.0KHRCT-ND"
 			(at 59.69 77.47 0)
 			(effects
 				(font
@@ -6075,7 +6075,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "RC0603FR-074K7L"
+		(property "MFPN" "RC0603FR-0710KL"
 			(at 59.69 77.47 0)
 			(effects
 				(font
