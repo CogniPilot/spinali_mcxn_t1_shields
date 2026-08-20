@@ -10,7 +10,7 @@
 	(title_block
 		(title "MR-MCXN-T1-F9P")
 		(date "2025-08-28")
-		(rev "${Rev}")
+		(rev "A")
 		(company "NXP Semiconductors")
 		(comment 1 "Youri Tils, Iain Galloway")
 	)
@@ -4508,7 +4508,7 @@
 		(path "/d46d18ea-5041-4bdf-8a2f-871da180f13d/cc072663-42e8-4c6a-9446-30318ea9b644")
 		(sheetname "/Sensors/")
 		(sheetfile "sensors.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.153641 0.38)
 			(end 0.153641 0.38)
@@ -10058,7 +10058,7 @@
 		(path "/d46d18ea-5041-4bdf-8a2f-871da180f13d/d28e83cb-8d9d-4482-b5c5-945817488f37")
 		(sheetname "/Sensors/")
 		(sheetfile "sensors.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.153641 0.38)
 			(end 0.153641 0.38)
@@ -26079,7 +26079,56 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "X-MR-MCXN-F9P\n"
+	(gr_text "Rev ${REVISION}"
+		(at 133.4 56.2 0)
+		(layer "F.SilkS")
+		(uuid "697a460a-ac13-4b4b-a837-6b37c7a28ccc")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.16)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "+"
+		(at 138.4 94.06 0)
+		(layer "F.SilkS")
+		(uuid "6e0694bc-977b-4868-a4de-fcaada9829f0")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "-"
+		(at 138.35 97.25 0)
+		(layer "F.SilkS")
+		(uuid "7406856b-8944-4b70-97b1-f146199ddddb")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "-"
+		(at 130.7 97.4 0)
+		(layer "F.SilkS")
+		(uuid "88a6680c-01ae-4fcf-be66-8224229dc6e6")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "MR-MCXN-F9P\n"
 		(at 130.5 54.75 0)
 		(layer "F.SilkS")
 		(uuid "986d89dc-1452-4abf-a31d-dc1e39984eb2")
@@ -26127,6 +26176,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "+"
+		(at 130.7 93.7 0)
+		(layer "F.SilkS")
+		(uuid "d1c082f7-e9c7-4c93-ab54-d59b514150f5")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "N"
 		(at 136 82.125 180)
 		(layer "F.SilkS")
@@ -26150,18 +26211,6 @@
 				(thickness 0.15)
 			)
 			(justify bottom)
-		)
-	)
-	(gr_text "Rev ${REVISION} / ${Rev}"
-		(at 144.8 94.9 0)
-		(layer "B.SilkS")
-		(uuid "644ab7af-0d13-4b87-93eb-88ba4d842f34")
-		(effects
-			(font
-				(size 0.8 0.8)
-				(thickness 0.1)
-			)
-			(justify left bottom mirror)
 		)
 	)
 	(segment
