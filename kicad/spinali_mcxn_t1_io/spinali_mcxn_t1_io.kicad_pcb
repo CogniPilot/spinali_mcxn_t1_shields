@@ -8128,7 +8128,7 @@
 				)
 			)
 		)
-		(property "Value" "4k7"
+		(property "Value" "10k"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "88769fb0-8c30-49d0-ae51-069a9e66962d")
@@ -8163,7 +8163,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "311-4.70KHRCT-ND"
+		(property "DigiKey" "311-10.0KHRCT-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8189,7 +8189,7 @@
 				)
 			)
 		)
-		(property "MFPN" "RC0603FR-074K7L"
+		(property "MFPN" "RC0603FR-0710KL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8206,7 +8206,7 @@
 		(path "/ccc0d483-c16f-4a48-802e-c15323fec247/961f119c-2448-41c9-aef4-1d0e4bfe4935")
 		(sheetname "/Board-to-Board/")
 		(sheetfile "board-to-board.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
@@ -8865,13 +8865,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal.step"
 			(offset
-				(xyz 0 -2.5 1.5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -13230,7 +13230,7 @@
 			)
 		)
 		(property "Value" "RTC_BAT"
-			(at -3.3 -0.2 180)
+			(at -3.3 -0.2 0)
 			(layer "F.SilkS")
 			(uuid "51e0027c-f4fc-41ea-95b1-0901994574b0")
 			(effects
@@ -13673,7 +13673,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -15620,7 +15620,7 @@
 				)
 			)
 		)
-		(property "Value" "I2C2"
+		(property "Value" "I2C"
 			(at -5.4125 -0.2 90)
 			(layer "F.SilkS")
 			(uuid "3ad9b0d4-4f2f-48ee-99fa-47c91247ae37")
@@ -18046,7 +18046,7 @@
 		(descr "JST SH series connector, SM08B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST SH horizontal")
 		(property "Reference" "J12"
-			(at 6.35 -0.6 180)
+			(at 6.35 -0.6 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "46e2dda2-14cd-4c85-b43e-84a87f255f1e")
@@ -18058,7 +18058,7 @@
 			)
 		)
 		(property "Value" "ESC2"
-			(at 6.3 -1.4 180)
+			(at 6.3 -1.4 0)
 			(layer "F.SilkS")
 			(uuid "b808b818-66d2-468d-a3a0-f3c1bc87e874")
 			(effects
@@ -18555,13 +18555,13 @@
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal.step"
 			(offset
-				(xyz 0 -2.5 1.5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -21759,7 +21759,7 @@
 				)
 			)
 		)
-		(property "Value" "I2C1"
+		(property "Value" "I3C"
 			(at 5.325 -0.25 90)
 			(layer "F.SilkS")
 			(uuid "adf3a939-10ce-4bbe-bf87-7eb2afba80e8")
@@ -23341,7 +23341,7 @@
 				)
 			)
 		)
-		(property "Value" "4k7"
+		(property "Value" "10k"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "1ca86341-b1a8-4148-ae2c-e08015f76d0b")
@@ -23376,7 +23376,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "311-4.70KHRCT-ND"
+		(property "DigiKey" "311-10.0KHRCT-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23402,7 +23402,7 @@
 				)
 			)
 		)
-		(property "MFPN" "RC0603FR-074K7L"
+		(property "MFPN" "RC0603FR-0710KL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23419,7 +23419,7 @@
 		(path "/ccc0d483-c16f-4a48-802e-c15323fec247/758f0005-be6a-4cc5-a219-5558b97b119b")
 		(sheetname "/Board-to-Board/")
 		(sheetfile "board-to-board.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
