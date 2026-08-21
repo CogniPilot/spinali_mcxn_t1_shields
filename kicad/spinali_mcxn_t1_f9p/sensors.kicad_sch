@@ -5,12 +5,13 @@
 	(uuid "ebbb2802-5063-4ced-af3d-b4bf6a935c18")
 	(paper "A4")
 	(title_block
-		(title "MR-MCXN-T1-F9P")
-		(date "2025-08-27")
-		(rev "X0")
-		(company "NXP SEMICONDUCTORS B.V.")
-		(comment 3 "DESIGNER: YOURI TILS, Iain Galloway")
-		(comment 4 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
+		(title "${TITLE}")
+		(date "2026-08-21")
+		(rev "${BOARD_REV}")
+		(company "${COMPANY}")
+		(comment 1 "DESIGNER: ${DESIGNER}")
+		(comment 2 "${DEPARTMENT}")
+		(comment 3 "REVIEWED BY: ${REVIEWER}")
 	)
 	(lib_symbols
 		(symbol "Device:C"
@@ -2427,7 +2428,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "10k"
 			(at 119.38 64.7699 0)
 			(effects
 				(font
@@ -2463,7 +2464,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "311-0.0JRCT-ND"
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 116.84 63.5 0)
 			(effects
 				(font
@@ -2490,7 +2491,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "RC0402JR-070RL"
+		(property "MFPN" "RC0402FR-0710KL"
 			(at 116.84 63.5 0)
 			(effects
 				(font
@@ -2984,7 +2985,7 @@
 			(uuid "5c1ee0ea-0ab6-4b71-83a8-1c37d005c7d0")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "SXY2")
 					(unit 1)
@@ -3497,7 +3498,7 @@
 			(uuid "1fa55181-eeb2-4114-84fe-5ea9a3643396")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "SXY1")
 					(unit 1)
@@ -3918,7 +3919,7 @@
 			(uuid "e1afe93e-c687-4930-9f4a-4b95ce4e1ed0")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "C2")
 					(unit 1)
@@ -3984,7 +3985,7 @@
 			(uuid "0731edb6-6020-47f5-9593-a8dcf4e579ba")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "#PWR058")
 					(unit 1)
@@ -4175,7 +4176,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "10k"
 			(at 119.38 74.9299 0)
 			(effects
 				(font
@@ -4211,7 +4212,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "311-0.0JRCT-ND"
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 116.84 73.66 0)
 			(effects
 				(font
@@ -4220,7 +4221,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB" "C60485"
+		(property "JLCPCB" ""
 			(at 116.84 73.66 0)
 			(effects
 				(font
@@ -4238,7 +4239,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "RC0402JR-070RL"
+		(property "MFPN" "RC0402FR-0710KL"
 			(at 116.84 73.66 0)
 			(effects
 				(font
@@ -4341,7 +4342,7 @@
 			(uuid "beca1a2f-f974-43c5-82e3-f4b502641193")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "SZ1")
 					(unit 1)
@@ -4368,7 +4369,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "10k"
 			(at 106.68 82.5499 0)
 			(effects
 				(font
@@ -4413,7 +4414,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "311-4.7KLRCT-ND"
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 104.14 81.28 0)
 			(effects
 				(font
@@ -4422,7 +4423,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "RC0402FR-074K7L"
+		(property "MFPN" "RC0402FR-0710KL"
 			(at 104.14 81.28 0)
 			(effects
 				(font
@@ -4601,7 +4602,7 @@
 			(uuid "d030f26e-7908-495e-9e6b-e07b353992aa")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "U1")
 					(unit 1)
@@ -4698,7 +4699,7 @@
 			(uuid "a54d13da-b015-4e9a-b8c2-83c6f38e246e")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "R5")
 					(unit 1)
@@ -4725,7 +4726,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "10k"
 			(at 93.98 82.5499 0)
 			(effects
 				(font
@@ -4770,7 +4771,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "311-4.7KLRCT-ND"
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 91.44 81.28 0)
 			(effects
 				(font
@@ -4779,7 +4780,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "RC0402FR-074K7L"
+		(property "MFPN" "RC0402FR-0710KL"
 			(at 91.44 81.28 0)
 			(effects
 				(font
@@ -5077,7 +5078,7 @@
 			(uuid "7f7558c2-4689-4255-8ab1-ec0deafee659")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/d46d18ea-5041-4bdf-8a2f-871da180f13d"
 					(reference "R8")
 					(unit 1)
