@@ -634,10 +634,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "production/",
+      "pos_files": "production/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "production/spinali_mcxn_t1_f9p.step",
       "svg": "",
       "vrml": ""
     },
@@ -645,7 +645,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "production\\BOM_spinali_add-on_optical_flow.csv",
+    "bom_export_filename": "production\\spinali_mcxn_t1_f9p-bom.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -667,7 +667,7 @@
           "show": true
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
           "show": true
@@ -712,7 +712,7 @@
           "group_by": false,
           "label": "JLCPCB",
           "name": "JLCPCB",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -724,7 +724,7 @@
           "group_by": false,
           "label": "Mouser",
           "name": "Mouser",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -744,7 +744,7 @@
       "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Value"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -775,7 +775,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "NXP.kicad_wks",
-    "plot_directory": "./",
+    "plot_directory": "production/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -805,6 +805,11 @@
     ]
   ],
   "text_variables": {
-    "Rev": "X1"
+    "BOARD_REV": "A",
+    "COMPANY": "NXP SEMICONDUCTORS B.V.",
+    "DEPARTMENT": "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN",
+    "DESIGNER": "IAIN GALLOWAY",
+    "REVIEWER": "YOURI TILS",
+    "TITLE": "MR-MCXN-T1-F9P"
   }
 }

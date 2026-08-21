@@ -5,12 +5,13 @@
 	(uuid "fa5969aa-1c35-4567-925c-0c98798f5439")
 	(paper "A3")
 	(title_block
-		(title "MR-MCXN-T1-F9P")
-		(date "2025-08-27")
-		(rev "A")
-		(company "NXP SEMICONDUCTORS B.V.")
-		(comment 3 "DESIGNER: YOURI TILS, Iain Galloway")
-		(comment 4 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
+		(title "${TITLE}")
+		(date "2026-08-21")
+		(rev "${BOARD_REV}")
+		(company "${COMPANY}")
+		(comment 1 "DESIGNER: ${DESIGNER}")
+		(comment 2 "${DEPARTMENT}")
+		(comment 3 "REVIEWED BY: ${REVIEWER}")
 	)
 	(lib_symbols
 		(symbol "Battery_Cell-RPI_1"
@@ -4347,6 +4348,26 @@
 		)
 		(uuid "38c65bd4-c149-44bf-ad2b-5c28a8eaf0bc")
 	)
+	(text "SPI"
+		(exclude_from_sim no)
+		(at 256.794 108.204 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4d847b20-0d33-4e57-b834-f1efbde8bd2b")
+	)
+	(text "SAFEBOOT_N"
+		(exclude_from_sim no)
+		(at 230.886 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "946c06a9-0059-4ad7-a24e-c02539d84d28")
+	)
 	(text "NB I_BCKP is only 45uA"
 		(exclude_from_sim no)
 		(at 138.43 70.104 0)
@@ -4378,6 +4399,16 @@
 		)
 		(uuid "ba97b40d-2a44-4a48-baf0-100852e2430e")
 	)
+	(text "RESET_N"
+		(exclude_from_sim no)
+		(at 238.506 43.434 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c18ad775-0014-4bdb-ba02-91484ce7e2f3")
+	)
 	(text "User Switches\n"
 		(exclude_from_sim no)
 		(at 303.53 151.384 0)
@@ -4390,6 +4421,16 @@
 			(justify left)
 		)
 		(uuid "c54993ab-5ccb-46d6-bad2-3727bbb3fd3c")
+	)
+	(text "EXTINT"
+		(exclude_from_sim no)
+		(at 237.49 52.324 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c5bf5533-bf41-4677-8c54-5245019801dd")
 	)
 	(text "Need to connect to header\n"
 		(exclude_from_sim no)
@@ -6758,7 +6799,7 @@
 		(uuid "31f3821d-9a4a-49b6-bc09-0672e548b2c2")
 	)
 	(label "+3V3"
-		(at 373.38 161.29 0)
+		(at 368.3 161.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6808,7 +6849,7 @@
 		(uuid "500a7be6-b580-49a4-bbbd-e313b24bc351")
 	)
 	(label "+3V3"
-		(at 325.12 161.29 0)
+		(at 320.04 161.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8219,7 +8260,7 @@
 			(uuid "bf82cbb5-fac0-45cf-95f9-10238a48d147")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "C7")
 					(unit 1)
@@ -8246,7 +8287,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "100k"
 			(at 160.02 119.3799 0)
 			(effects
 				(font
@@ -8476,7 +8517,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "10k"
 			(at 154.94 87.6299 0)
 			(effects
 				(font
@@ -8512,7 +8553,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "311-0.0JRCT-ND"
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 152.4 86.36 0)
 			(effects
 				(font
@@ -8521,7 +8562,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB" "C60485"
+		(property "JLCPCB" ""
 			(at 152.4 86.36 0)
 			(effects
 				(font
@@ -8539,7 +8580,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "RC0402JR-070RL"
+		(property "MFPN" "RC0402FR-0710KL"
 			(at 152.4 86.36 0)
 			(effects
 				(font
@@ -8870,7 +8911,7 @@
 			(uuid "7f02c103-de40-4c3b-a954-f971dd7a4d91")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "ANT1")
 					(unit 1)
@@ -9276,7 +9317,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "10k"
 			(at 154.94 97.7899 0)
 			(effects
 				(font
@@ -9312,7 +9353,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "311-0.0JRCT-ND"
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 152.4 96.52 0)
 			(effects
 				(font
@@ -9321,7 +9362,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB" "C60485"
+		(property "JLCPCB" ""
 			(at 152.4 96.52 0)
 			(effects
 				(font
@@ -9339,7 +9380,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "RC0402JR-070RL"
+		(property "MFPN" "RC0402FR-0710KL"
 			(at 152.4 96.52 0)
 			(effects
 				(font
@@ -9552,7 +9593,7 @@
 				)
 			)
 		)
-		(property "Value" "0R SPI"
+		(property "Value" "10k"
 			(at 252.73 107.95 90)
 			(effects
 				(font
@@ -9587,7 +9628,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "311-0.0JRCT-ND"
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 252.73 111.76 90)
 			(effects
 				(font
@@ -9614,7 +9655,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "RC0402JR-070RL"
+		(property "MFPN" "RC0402FR-0710KL"
 			(at 252.73 111.76 90)
 			(effects
 				(font
@@ -9630,7 +9671,7 @@
 			(uuid "78dc9d8b-56ed-427a-86bd-529f65397d81")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R33")
 					(unit 1)
@@ -9723,7 +9764,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10k"
 			(at 378.46 168.9099 0)
 			(effects
 				(font
@@ -10037,7 +10078,7 @@
 			(uuid "59a084f4-4428-4a32-8473-83e50fef17ff")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "J3")
 					(unit 1)
@@ -10063,7 +10104,7 @@
 				)
 			)
 		)
-		(property "Value" "0R RESET_N"
+		(property "Value" "0R"
 			(at 231.14 43.18 90)
 			(effects
 				(font
@@ -10313,7 +10354,7 @@
 			(uuid "f7111038-67a9-40d9-a5b1-a9312c1a0c2e")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "L2")
 					(unit 1)
@@ -10680,7 +10721,7 @@
 				)
 			)
 		)
-		(property "Value" "0R EXTINT"
+		(property "Value" "0R"
 			(at 231.14 52.07 90)
 			(effects
 				(font
@@ -11300,7 +11341,7 @@
 			(uuid "6d4ad4ec-aec6-49dc-a381-4c8aa56d757d")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "BAT1")
 					(unit 1)
@@ -12307,7 +12348,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 74.93 110.998 90)
 			(effects
 				(font
@@ -12368,7 +12409,7 @@
 			(uuid "b36b8ebd-4d0d-43ad-86d2-ee29bd8a0e94")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R13")
 					(unit 1)
@@ -12528,7 +12569,7 @@
 			(uuid "fdc38ea7-e321-455a-8f81-1c539696a621")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R21")
 					(unit 1)
@@ -13850,7 +13891,7 @@
 			(uuid "fa4f8037-5198-43a8-b4ae-9981b509743f")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "D7")
 					(unit 1)
@@ -14569,7 +14610,7 @@
 			(uuid "80142353-4387-417d-9183-ddd5e96bcc57")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "D2")
 					(unit 1)
@@ -15321,7 +15362,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R SAFEBOOT_N"
+		(property "Value" "10k"
 			(at 224.79 120.6499 0)
 			(effects
 				(font
@@ -15357,7 +15398,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "311-0.0JRCT-ND"
+		(property "DigiKey" "311-10.0KLRCT-ND"
 			(at 222.25 119.38 0)
 			(effects
 				(font
@@ -15384,7 +15425,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFPN" "RC0402JR-070RL"
+		(property "MFPN" "RC0402FR-0710KL"
 			(at 222.25 119.38 0)
 			(effects
 				(font
@@ -15400,7 +15441,7 @@
 			(uuid "409c433a-b7a1-405a-be12-f5f340cc4f60")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R20")
 					(unit 1)
@@ -15965,7 +16006,7 @@
 			(uuid "20197dc5-2de1-4622-a6c3-4f26bf908e09")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "D3")
 					(unit 1)
@@ -16156,7 +16197,7 @@
 			(uuid "c31b3657-2920-405a-b04c-17ad6655babd")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_f9p"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/984519f8-3ba1-4ad2-a1fd-5bc7d7d39895"
 					(reference "R41")
 					(unit 1)
@@ -16346,7 +16387,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10k"
 			(at 330.2 168.9099 0)
 			(effects
 				(font
