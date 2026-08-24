@@ -683,5 +683,12 @@
       "IO2"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "BOARD_REV": "A",
+    "COMPANY": "NXP SEMICONDUCTORS B.V.",
+    "DEPARTMENT": "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN",
+    "DESIGNER": "YOURI TILS",
+    "REVIEWER": "IAIN GALLOWAY",
+    "TITLE": "MR-MCXN-T1-IO"
+  }
 }

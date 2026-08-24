@@ -5,12 +5,13 @@
 	(uuid "95ea82b4-be7b-462a-b422-f5441ef6ee74")
 	(paper "A3")
 	(title_block
-		(title "MR-MCXN-T1-IO")
-		(date "2026-07-24")
-		(rev "X1")
-		(company "NXP SEMICONDUCTORS B.V.")
-		(comment 1 "DESIGNER: YOURI TILS")
-		(comment 2 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
+		(title "${TITLE}")
+		(date "2026-08-24")
+		(rev "${BOARD_REV}")
+		(company "${COMPANY}")
+		(comment 1 "DESIGNER: ${DESIGNER}")
+		(comment 2 "${DEPARTMENT}")
+		(comment 3 "REVIEWED BY: ${REVIEWER}")
 	)
 	(lib_symbols
 		(symbol "Capacitors:GRM155R71C104KA88J"
@@ -16328,7 +16329,7 @@
 			(uuid "f770d6c9-c5fe-4aa9-9357-6817047102cd")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_io"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/3c5f83e0-e92e-42ae-8f83-967e4a3fe88f"
 					(reference "C1")
 					(unit 1)
@@ -17638,7 +17639,7 @@
 			(uuid "db16186a-e5ab-4464-975a-f843fd3f72a1")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_io"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/3c5f83e0-e92e-42ae-8f83-967e4a3fe88f"
 					(reference "D4")
 					(unit 1)
@@ -18230,7 +18231,7 @@
 			(uuid "1877ee9d-b325-4a53-b98e-5b5d0f40c475")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_io"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/3c5f83e0-e92e-42ae-8f83-967e4a3fe88f"
 					(reference "C2")
 					(unit 1)
