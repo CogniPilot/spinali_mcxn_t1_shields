@@ -5,12 +5,13 @@
 	(uuid "e38d1a5c-f460-488b-91fe-bb2a4fbf23a2")
 	(paper "A3")
 	(title_block
-		(title "MR-MCXN-T1-IO")
-		(date "2025-10-13")
-		(rev "X0")
-		(company "NXP SEMICONDUCTORS B.V.")
-		(comment 3 "DESIGNER: YOURI TILS")
-		(comment 4 "CTO SYSTEM INNOVATIONS / MOBILE ROBOTICS DOMAIN")
+		(title "${TITLE}")
+		(date "2026-08-24")
+		(rev "${BOARD_REV}")
+		(company "${COMPANY}")
+		(comment 1 "DESIGNER: ${DESIGNER}")
+		(comment 2 "${DEPARTMENT}")
+		(comment 3 "REVIEWED BY: ${REVIEWER}")
 	)
 	(lib_symbols
 		(symbol "Capacitors:GRM1555C1E103JE01D"
@@ -9236,7 +9237,7 @@
 			(uuid "dd397c9a-9e20-4b33-83ca-16635a835986")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_io"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/9be56f45-5afd-411f-a1bb-7adb647427b1"
 					(reference "SW1")
 					(unit 1)
@@ -10513,7 +10514,7 @@
 			(uuid "0907c2a6-1e89-42d9-a7f9-00b1c3eb06f4")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_io"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/9be56f45-5afd-411f-a1bb-7adb647427b1"
 					(reference "C19")
 					(unit 1)
@@ -11370,7 +11371,7 @@
 			(uuid "1937c564-4fe6-46d2-bc57-c5be1bdd906f")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_io"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/9be56f45-5afd-411f-a1bb-7adb647427b1"
 					(reference "R16")
 					(unit 1)
@@ -12111,7 +12112,7 @@
 			(uuid "ff1295b9-db94-4e58-8e09-5426ce9d0690")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_io"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/9be56f45-5afd-411f-a1bb-7adb647427b1"
 					(reference "C20")
 					(unit 1)
@@ -12455,7 +12456,7 @@
 			(uuid "aa25ef85-9a83-47da-a1f0-193a3627fadc")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_io"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/9be56f45-5afd-411f-a1bb-7adb647427b1"
 					(reference "D20")
 					(unit 1)
@@ -13214,7 +13215,7 @@
 			(uuid "96ed4864-8431-458d-bee5-1de4a5c84a76")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_io"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/9be56f45-5afd-411f-a1bb-7adb647427b1"
 					(reference "R3")
 					(unit 1)
@@ -13545,7 +13546,7 @@
 			(uuid "e6dd5457-b2e1-4939-b02c-07fd720b6510")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_io"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/9be56f45-5afd-411f-a1bb-7adb647427b1"
 					(reference "D15")
 					(unit 1)
@@ -14020,7 +14021,7 @@
 			(uuid "b89f94f9-0a51-4ceb-b2ff-d0c165a8f8f3")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_io"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/9be56f45-5afd-411f-a1bb-7adb647427b1"
 					(reference "R1")
 					(unit 1)
@@ -14385,7 +14386,7 @@
 			(uuid "4539f4ef-9440-46ef-a22d-2d5e4c3128f2")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_io"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/9be56f45-5afd-411f-a1bb-7adb647427b1"
 					(reference "Q1")
 					(unit 1)
@@ -14750,7 +14751,7 @@
 			(uuid "d9fd770c-53b7-4f01-b175-8a9d67624c81")
 		)
 		(instances
-			(project ""
+			(project "spinali_mcxn_t1_io"
 				(path "/04285d74-eeba-483c-9378-52bd287e15a2/9be56f45-5afd-411f-a1bb-7adb647427b1"
 					(reference "J13")
 					(unit 1)

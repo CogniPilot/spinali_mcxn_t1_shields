@@ -1,6 +1,7 @@
 kicad/*/*-backups/
 fp-info-cache
 kicad/*/production/backups/
+kicad/*/production/
 *.kicad_prl
 *.lck
 *.zip
