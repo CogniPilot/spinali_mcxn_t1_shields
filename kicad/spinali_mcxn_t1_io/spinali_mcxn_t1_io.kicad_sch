@@ -27,6 +27,48 @@
 		(uuid "efc3dc01-334a-4e73-83f5-a10926ac194b")
 	)
 	(sheet
+		(at 29.21 36.83)
+		(size 33.02 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0e058085-6b8d-49ad-944b-eeaeb5626b71")
+		(property "Sheetname" "IO Block Diagram"
+			(at 29.21 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "io_Block_Diagram.kicad_sch"
+			(at 29.21 41.2246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "spinali_mcxn_t1_io"
+				(path "/04285d74-eeba-483c-9378-52bd287e15a2"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 29.21 57.15)
 		(size 33.02 3.81)
 		(exclude_from_sim no)
