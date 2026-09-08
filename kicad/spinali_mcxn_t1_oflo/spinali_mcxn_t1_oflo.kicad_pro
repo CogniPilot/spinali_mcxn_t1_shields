@@ -676,6 +676,10 @@
     [
       "d46d18ea-5041-4bdf-8a2f-871da180f13d",
       "Sensors"
+    ],
+    [
+      "528cc186-cb4b-402e-95c0-df458fb7ccd2",
+      "Block Diagram"
     ]
   ],
   "text_variables": {
