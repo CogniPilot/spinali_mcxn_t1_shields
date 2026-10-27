@@ -1,0 +1,921 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "eb054fb7-218c-4fc1-8e93-f92e171198b5")
+	(paper "A3")
+	(title_block
+		(title "MR-MCXN-T1-F9P block Diagram")
+		(date "2026-09-02")
+		(rev "Rev A")
+		(company "NXP")
+	)
+	(lib_symbols)
+	(rectangle
+		(start 200.406 114.046)
+		(end 215.9 123.444)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 200 200 200 1)
+		)
+		(uuid "1584e2cc-fd2d-4412-a30b-cb5ee4481c74")
+	)
+	(rectangle
+		(start 228.854 76.2)
+		(end 315.214 124.968)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 200 200 200 1)
+		)
+		(uuid "2d981b75-4e33-4ba4-ab85-f35e2428726d")
+	)
+	(rectangle
+		(start 197.866 53.086)
+		(end 220.726 65.786)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 200 200 200 1)
+		)
+		(uuid "307c63c4-cc12-4f12-9049-4919e847ca41")
+	)
+	(rectangle
+		(start 228.346 153.416)
+		(end 246.126 166.116)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 200 200 200 1)
+		)
+		(uuid "3131bf51-a36b-47cd-9c96-2afa47cb1424")
+	)
+	(rectangle
+		(start 79.756 173.99)
+		(end 116.586 197.358)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 200 200 200 1)
+		)
+		(uuid "32adb15c-3f2a-4aad-95a7-d5d2a0870137")
+	)
+	(rectangle
+		(start 27.94 55.88)
+		(end 100.33 242.57)
+		(stroke
+			(width 0.635)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "4eb089a3-d600-4eb9-bc03-eee7b3b45001")
+	)
+	(rectangle
+		(start 81.788 106.172)
+		(end 118.618 129.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 200 200 200 1)
+		)
+		(uuid "55bba900-3924-4f83-9b14-1689d5c96db3")
+	)
+	(rectangle
+		(start 233.172 191.516)
+		(end 303.022 215.646)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 200 200 200 1)
+		)
+		(uuid "84098663-ffb0-4be8-aad3-cfe7aeaf59c6")
+	)
+	(circle
+		(center 326.898 71.628)
+		(radius 5.6796)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 200 200 200 1)
+		)
+		(uuid "906ff658-4ab7-44ac-8ee9-69329dddab3f")
+	)
+	(rectangle
+		(start 323.85 92.456)
+		(end 341.63 105.156)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 200 200 200 1)
+		)
+		(uuid "ac2bfff9-37ca-45aa-81a3-355be71604de")
+	)
+	(rectangle
+		(start 228.346 136.906)
+		(end 246.126 149.606)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 200 200 200 1)
+		)
+		(uuid "acb0a5f5-c707-4144-96cc-31ac6555913b")
+	)
+	(rectangle
+		(start 338.328 137.16)
+		(end 360.172 151.638)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 200 200 200 1)
+		)
+		(uuid "b60e48f0-2db1-4069-b20e-345e9f1d9fbb")
+	)
+	(text "UART\nConnector"
+		(exclude_from_sim no)
+		(at 349.25 144.78 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "058d3009-a4e9-4136-9c92-799c5b449ac3")
+	)
+	(text "DF40TC"
+		(exclude_from_sim no)
+		(at 90.424 133.35 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "0963a5fe-8125-427b-8e7f-24a950f7f216")
+	)
+	(text "GPIO\n4x FLEXCOMM\nFLEXIO\nSmartDMA\nSDHC0\nADC\nCOMPARATOR\nFLEXPWM\nSAI\nPDM"
+		(exclude_from_sim no)
+		(at 48.768 187.706 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "09b12603-aa6f-4b9c-ad64-644c3e608908")
+	)
+	(text "User\nSW1"
+		(exclude_from_sim no)
+		(at 237.49 143.51 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "0abab2f1-cb19-468a-8147-d26139dd965d")
+	)
+	(text "UART2_F9P"
+		(exclude_from_sim no)
+		(at 229.87 88.646 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "0e1f754f-03d5-49df-9327-b538a0df61c6")
+	)
+	(text "3V3_GNSS"
+		(exclude_from_sim no)
+		(at 222.758 57.404 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "0f96d08b-afb9-437f-b9fe-cfdc190287a6")
+	)
+	(text "RESET_N"
+		(exclude_from_sim no)
+		(at 229.616 101.092 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "123ce5d7-a8f2-491c-b032-6eff9e447a94")
+	)
+	(text "EXTINT"
+		(exclude_from_sim no)
+		(at 229.616 106.172 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "1c7d7bce-0975-4d19-bd07-b35dc8d1d567")
+	)
+	(text "FLEXCOMM9_I2C"
+		(exclude_from_sim no)
+		(at 194.564 82.042 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "2291819a-8b51-4f20-8756-c9e6e2e4661c")
+	)
+	(text "I2C"
+		(exclude_from_sim no)
+		(at 229.87 83.566 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "2bbcb435-c2b6-43a6-83d2-6d15d31c76fc")
+	)
+	(text "MR-MCXN-T1-Hub"
+		(exclude_from_sim no)
+		(at 45.72 66.294 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "48fb5e46-042c-4c14-987b-a9c40c9d9eb9")
+	)
+	(text "DRDY"
+		(exclude_from_sim no)
+		(at 233.172 209.296 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "4c5ca0b6-8416-4e2c-80e0-361ea4c5c024")
+	)
+	(text "User\nSW2"
+		(exclude_from_sim no)
+		(at 237.49 160.02 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "4ee91ed0-4c89-417b-b97c-7541c24d75f3")
+	)
+	(text "I3C1"
+		(exclude_from_sim no)
+		(at 217.932 196.596 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "5076fc4d-5fb7-4a63-bdab-8b02b23b133d")
+	)
+	(text "P3_0"
+		(exclude_from_sim no)
+		(at 192.786 104.902 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "569349f0-d8a8-448f-8678-622a7f068d39")
+	)
+	(text "Low-noise\nLDO"
+		(exclude_from_sim no)
+		(at 209.55 59.69 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "58f23935-fd08-4ba6-8a65-215b37b5fca8")
+	)
+	(text "NEO-F9P\nGNSS/GPS"
+		(exclude_from_sim no)
+		(at 271.526 99.314 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "6c045309-ddb1-4977-bd90-5683c286c388")
+	)
+	(text "Board-To-Board\nConnector 2"
+		(exclude_from_sim no)
+		(at 98.298 185.928 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "6e999a3b-3bb7-4a33-a9e4-f0e4fd597cfb")
+	)
+	(text "VBAT RTC\n5.0V 1A\n3.3V 500mA\n1.8V 200mA\nI3C1\nGPIO\n3x FLEXCOMM\nFLEXIO\nSmartDMA\nADC\nCOMPARATOR\nOPAMP\nDAC\nFLEXPWM"
+		(exclude_from_sim no)
+		(at 49.784 119.126 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "73b6bda9-97bc-42b2-adff-dd79792c3fe1")
+	)
+	(text "3V3"
+		(exclude_from_sim no)
+		(at 186.944 57.15 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "7858354b-2e7a-41f9-a366-7e80e4b3e514")
+	)
+	(text "P1_2"
+		(exclude_from_sim no)
+		(at 210.566 141.478 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "81a4012f-0a3f-4a78-bf38-d660ece9dce4")
+	)
+	(text "P3_7"
+		(exclude_from_sim no)
+		(at 192.786 99.568 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "89546291-4c0e-407e-ac60-cb3b28d1e18b")
+	)
+	(text "Active GNSS\nAntenna with LNA"
+		(exclude_from_sim no)
+		(at 310.388 37.846 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "908c29f3-67dc-4421-ab66-74cd91bbc509")
+	)
+	(text "USBC"
+		(exclude_from_sim no)
+		(at 208.28 119.38 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "bc92bdb6-6001-467a-bd28-66b4d90371c7")
+	)
+	(text "P1_3"
+		(exclude_from_sim no)
+		(at 210.82 157.48 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "c350d7b2-0da8-47e3-bfa3-7d1ce1718da5")
+	)
+	(text "u.fl\nConnector"
+		(exclude_from_sim no)
+		(at 327.66 83.058 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "c56f4b4b-3f6f-483e-85da-95480cda320c")
+	)
+	(text "P3_8"
+		(exclude_from_sim no)
+		(at 302.514 138.938 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "c84f1ac0-ed6a-4371-8875-1df503c53aa7")
+	)
+	(text "TIMEPULSE"
+		(exclude_from_sim no)
+		(at 291.338 117.856 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "d121d584-d180-4cab-8631-5c76060dde49")
+	)
+	(text "FLEXCOMM0_UART"
+		(exclude_from_sim no)
+		(at 302.514 147.828 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "d30d3da3-7c27-4172-9a2c-783d730e1b68")
+	)
+	(text "P1_22"
+		(exclude_from_sim no)
+		(at 215.9 207.01 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "e3d247ed-af97-4c61-b28b-16eaa1d95c78")
+	)
+	(text "FLEXCOMM3_UART"
+		(exclude_from_sim no)
+		(at 193.04 87.122 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "e5cdc20d-aff8-4d19-94d9-b7b814cb7780")
+	)
+	(text "DF40TC"
+		(exclude_from_sim no)
+		(at 89.662 201.422 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "e69d3b0e-dbd5-454a-9b24-88eb6b90d121")
+	)
+	(text "FLEXCOMM7_UART"
+		(exclude_from_sim no)
+		(at 193.04 92.456 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "e9488a21-44ef-480c-a8a4-1e6b50c30f83")
+	)
+	(text "UART1_F9P"
+		(exclude_from_sim no)
+		(at 229.87 93.98 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "ee32ff29-3963-4da2-a680-87f75b190503")
+	)
+	(text "RM3100 sensor suite:\nPNI 13104: SEN-XY magnetic sensor\nPNI 13101: SEN-Z magnetic sensor\nPNI 13156: interface device"
+		(exclude_from_sim no)
+		(at 236.982 228.346 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "ef7c51ee-e064-49ba-aa80-fd98da4c7497")
+	)
+	(text "STATUS\nLEDS"
+		(exclude_from_sim no)
+		(at 332.74 99.06 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "f56a9707-252d-408f-9f53-3612479d3ab4")
+	)
+	(text "Board-To-Board\nConnector 1"
+		(exclude_from_sim no)
+		(at 100.33 118.11 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "f7a90d4a-199d-476a-a2f3-c497827c941f")
+	)
+	(text "High Sensitivity Magnetometer\nRM3100"
+		(exclude_from_sim no)
+		(at 269.24 203.2 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "f7d6a9d9-68b5-4f25-9881-aba5930b3bcf")
+	)
+	(polyline
+		(pts
+			(xy 188.976 101.6) (xy 228.346 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0549bf0c-e1de-4cf9-933d-5b5453d4388e")
+	)
+	(polyline
+		(pts
+			(xy 332.74 140.97) (xy 337.82 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b6ff7d9-ddc9-4e75-bfd1-d0f92744701b")
+	)
+	(polyline
+		(pts
+			(xy 189.23 94.234) (xy 228.6 94.234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ebc3347-8427-4ef9-8b7d-3e9b7c8cdfd8")
+	)
+	(polyline
+		(pts
+			(xy 326.898 76.708) (xy 326.898 86.868)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f270cc6-ca83-4a16-b7fc-82db01697a75")
+	)
+	(polyline
+		(pts
+			(xy 298.45 149.86) (xy 337.82 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11428334-b20b-4f23-851f-bf757e8bd669")
+	)
+	(polyline
+		(pts
+			(xy 188.976 106.68) (xy 228.346 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20b27296-b578-4511-ad10-018587b14962")
+	)
+	(polyline
+		(pts
+			(xy 332.74 118.11) (xy 332.74 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33669716-385f-4cbe-9d6d-e53ba1a3fea8")
+	)
+	(polyline
+		(pts
+			(xy 314.96 118.11) (xy 332.74 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5376a4b9-a331-42cd-a399-ecd9403a950a")
+	)
+	(polyline
+		(pts
+			(xy 202.692 209.296) (xy 233.172 209.296)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "568cfb0b-6fef-4478-800b-0dd0368233e3")
+	)
+	(polyline
+		(pts
+			(xy 107.442 120.142) (xy 107.442 120.142)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a9733ed-1b3b-4e2c-a703-6dfa5c23f7e5")
+	)
+	(polyline
+		(pts
+			(xy 215.9 119.38) (xy 228.6 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b078963-04b2-4c38-95ea-cd94d1e6daf9")
+	)
+	(polyline
+		(pts
+			(xy 326.898 50.038) (xy 326.898 71.628)
+		)
+		(stroke
+			(width 0.508)
+			(type dash)
+		)
+		(uuid "5d0faa3b-43ad-4756-8afc-33bed874426d")
+	)
+	(polyline
+		(pts
+			(xy 196.85 143.51) (xy 227.33 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6504e9ad-02d6-4c46-9b0a-ad22a5b93c0d")
+	)
+	(polyline
+		(pts
+			(xy 314.96 99.06) (xy 323.85 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8282010e-342c-4ed7-be1e-c251b47811e9")
+	)
+	(polyline
+		(pts
+			(xy 105.41 187.96) (xy 105.41 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89851bc8-ee03-406f-94a1-53eef7822915")
+	)
+	(polyline
+		(pts
+			(xy 320.548 43.688) (xy 333.248 43.688)
+		)
+		(stroke
+			(width 0.508)
+			(type dash)
+		)
+		(uuid "8c1e890f-aa6a-4783-b69d-77432b881c3c")
+	)
+	(polyline
+		(pts
+			(xy 202.438 199.644) (xy 232.918 199.644)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ca352f3-e7d4-400e-891d-9ca21b2ac4b6")
+	)
+	(polyline
+		(pts
+			(xy 197.612 159.766) (xy 228.092 159.766)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a47c4c0b-041a-4b73-8f2e-cae327f8ffcf")
+	)
+	(polyline
+		(pts
+			(xy 314.96 86.868) (xy 326.898 86.868)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3044f3b-c9c1-4e05-bbf6-7b802bcbf173")
+	)
+	(polyline
+		(pts
+			(xy 298.45 140.97) (xy 332.74 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b511f424-0abf-4433-8204-693d5e30ab50")
+	)
+	(polyline
+		(pts
+			(xy 189.23 89.154) (xy 228.6 89.154)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7e8e9b4-79fe-4599-bf5f-acf61eff1c83")
+	)
+	(polyline
+		(pts
+			(xy 220.98 59.69) (xy 245.11 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b84a88da-20a7-4dbb-ab4e-05de399ab14e")
+	)
+	(polyline
+		(pts
+			(xy 189.23 84.074) (xy 228.6 84.074)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "d4cfc672-3e10-4d80-b2dd-4f835b534713")
+	)
+	(polyline
+		(pts
+			(xy 326.898 50.038) (xy 333.248 43.688)
+		)
+		(stroke
+			(width 0.508)
+			(type dash)
+		)
+		(uuid "dcbc1b54-0015-4555-96b3-bae484161b9a")
+	)
+	(polyline
+		(pts
+			(xy 320.548 43.688) (xy 326.898 50.038)
+		)
+		(stroke
+			(width 0.508)
+			(type dash)
+		)
+		(uuid "e0632dac-dc1d-4381-86aa-66aa79d0443e")
+	)
+	(polyline
+		(pts
+			(xy 245.11 59.69) (xy 245.11 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e078becb-4876-4a3e-9cde-8d6d7497312f")
+	)
+	(polyline
+		(pts
+			(xy 171.196 59.436) (xy 197.866 59.436)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e494f0bf-53c9-4b5e-8592-17e662a835ee")
+	)
+)
